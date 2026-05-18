@@ -1,11 +1,15 @@
 """gongbulab API — FastAPI entrypoint.
 
-Endpoints will be mounted as we build modules (auth, lessons, srs, chat).
+Routers mountés :
+- /srs/*      SRS (FSRS) — auth requis
+- /chat/*     Chatbot Gemini — auth requis + plan premium
 """
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
+from app.chat.router import router as chat_router
 from app.config import get_settings
+from app.srs.router import router as srs_router
 
 settings = get_settings()
 
@@ -22,6 +26,9 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+app.include_router(srs_router)
+app.include_router(chat_router)
 
 
 @app.get("/health")
