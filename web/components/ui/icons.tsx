@@ -92,3 +92,47 @@ export function ChevronLeft(p: IconProps) {
 export function ChevronRight(p: IconProps) {
   return wrap(<path d="m9 6 6 6-6 6" />, p);
 }
+
+export function ArrowRight(p: IconProps) {
+  return wrap(<><path d="M5 12h14M13 5l7 7-7 7" /></>, p);
+}
+
+export function Play(p: IconProps) {
+  return wrap(<path d="M8 5v14l11-7z" fill="currentColor" />, p);
+}
+
+export function Check(p: IconProps) {
+  return wrap(<path d="M5 12l5 5L20 7" />, p);
+}
+
+export function Cross(p: IconProps) {
+  return wrap(<><path d="M6 6l12 12M6 18L18 6" /></>, p);
+}
+
+export function Flame(p: IconProps) {
+  return wrap(
+    <path d="M12 2c1 4 4 5 4 9a4 4 0 0 1-8 0c0-2 1-3 2-4-1 5-3 5-3 8a5 5 0 0 0 10 0c0-5-3-7-5-13z" />,
+    p,
+  );
+}
+
+// Tige de bambou stylisée — utilisée comme marqueur du niveau actif (cf. DESIGN.md, métaphore turquoise).
+export function Sprout(p: IconProps) {
+  return wrap(
+    <>
+      <path d="M12 20v-7" />
+      <path d="M12 13c-3 0-5-2-5-5 3 0 5 2 5 5z" />
+      <path d="M12 13c3 0 5-2 5-5-3 0-5 2-5 5z" />
+    </>,
+    p,
+  );
+}
+
+export function ChatBubble(p: IconProps) {
+  return wrap(
+    <>
+      <path d="M3 12c0-4.5 4-8 9-8s9 3.5 9 8-4 8-9 8c-1.5 0-3-.3-4.3-.9L3 21l1.4-4.5C3.5 15.3 3 13.7 3 12z" />
+    </>,
+    p,
+  );
+}

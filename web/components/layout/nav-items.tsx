@@ -8,15 +8,15 @@ import {
 
 export type NavItem = {
   href: string;
-  labelKey: "dashboard" | "lessons" | "srs" | "chat" | "profile";
+  labelKey: "dashboard" | "lessons" | "vocab" | "chatbot" | "profile";
   Icon: React.ComponentType<{ size?: number; className?: string }>;
 };
 
-// Ordre = ordre d'affichage dans sidebar et bottom nav
+// Routes en anglais (slug stable cross-locale), libellés via i18n.
 export const NAV_ITEMS: NavItem[] = [
   { href: "/dashboard", labelKey: "dashboard", Icon: House },
   { href: "/lessons", labelKey: "lessons", Icon: BookOpenText },
-  { href: "/srs", labelKey: "srs", Icon: Cards },
-  { href: "/chat", labelKey: "chat", Icon: ChatCircleDots },
+  { href: "/vocab", labelKey: "vocab", Icon: Cards },
+  { href: "/chatbot", labelKey: "chatbot", Icon: ChatCircleDots },
   { href: "/profile", labelKey: "profile", Icon: UserCircle },
 ];

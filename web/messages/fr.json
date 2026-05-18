@@ -2,21 +2,44 @@
   "nav": {
     "dashboard": "Accueil",
     "lessons": "Leçons",
-    "srs": "Révisions",
-    "chat": "Chat",
+    "vocab": "Vocabulaire",
+    "chatbot": "Chatbot",
     "profile": "Profil",
     "settings": "Réglages"
   },
   "dashboard": {
-    "title": "Bonjour 👋",
-    "subtitle": "Voici ton point du jour.",
-    "todayCards": "Cartes aujourd'hui",
-    "streak": "Série",
-    "currentLevel": "Niveau actuel",
-    "lessonsDone": "Leçons terminées",
-    "continueLearning": "Continuer",
-    "todayNothing": "Rien à réviser aujourd'hui — bonne journée !",
-    "todayCardsDue": "{count, plural, =0 {Rien à réviser} =1 {# carte à réviser} other {# cartes à réviser}}"
+    "heroKo": "오늘도 복습해요!",
+    "sessionToday": "Session d'aujourd'hui",
+    "levelLabels": {
+      "1": "Débutant",
+      "2": "Élémentaire",
+      "3": "Intermédiaire",
+      "4": "Avancé"
+    },
+    "level": "Niveau {n}",
+    "session": {
+      "resume": "Reprendre la leçon",
+      "vocab": "Réviser le vocabulaire",
+      "streak": "Garder la série"
+    },
+    "lessonInCourse": {
+      "title": "Leçon en cours",
+      "resumeCta": "Reprendre la leçon",
+      "progress": "{done} sur {total}"
+    },
+    "vocabReview": {
+      "title": "Révision du vocabulaire",
+      "cardsCount": "{count} cartes de cette leçon",
+      "lockedNote": "Débloqué après la leçon",
+      "openCta": "Ouvrir les cartes"
+    },
+    "streak": {
+      "title": "Ma régularité",
+      "daysInARow": "{count} jours de suite",
+      "labelLesson": "leçon",
+      "labelVocab": "vocab",
+      "labelMiss": "miss"
+    }
   },
   "lessons": {
     "title": "Leçons",

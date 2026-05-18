@@ -2,21 +2,44 @@
   "nav": {
     "dashboard": "Home",
     "lessons": "Lessons",
-    "srs": "Reviews",
-    "chat": "Chat",
+    "vocab": "Vocabulary",
+    "chatbot": "Chatbot",
     "profile": "Profile",
     "settings": "Settings"
   },
   "dashboard": {
-    "title": "Hi there 👋",
-    "subtitle": "Here's your day at a glance.",
-    "todayCards": "Cards today",
-    "streak": "Streak",
-    "currentLevel": "Current level",
-    "lessonsDone": "Lessons done",
-    "continueLearning": "Continue",
-    "todayNothing": "Nothing to review today — have a good one!",
-    "todayCardsDue": "{count, plural, =0 {Nothing to review} =1 {# card to review} other {# cards to review}}"
+    "heroKo": "오늘도 복습해요!",
+    "sessionToday": "Today's session",
+    "levelLabels": {
+      "1": "Beginner",
+      "2": "Elementary",
+      "3": "Intermediate",
+      "4": "Advanced"
+    },
+    "level": "Level {n}",
+    "session": {
+      "resume": "Resume lesson",
+      "vocab": "Review vocabulary",
+      "streak": "Keep the streak"
+    },
+    "lessonInCourse": {
+      "title": "Lesson in progress",
+      "resumeCta": "Resume lesson",
+      "progress": "{done} of {total}"
+    },
+    "vocabReview": {
+      "title": "Vocabulary review",
+      "cardsCount": "{count} cards from this lesson",
+      "lockedNote": "Unlocked after the lesson",
+      "openCta": "Open the cards"
+    },
+    "streak": {
+      "title": "My regularity",
+      "daysInARow": "{count} days in a row",
+      "labelLesson": "lesson",
+      "labelVocab": "vocab",
+      "labelMiss": "miss"
+    }
   },
   "lessons": {
     "title": "Lessons",

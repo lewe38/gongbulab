@@ -4,11 +4,13 @@ import Link from "next/link";
 import { useParams, usePathname } from "next/navigation";
 import { useTranslations } from "next-intl";
 
+import { LevelProgress } from "@/components/dashboard/LevelProgress";
+
 import { NAV_ITEMS } from "./nav-items";
 
 /**
  * Sidebar gauche pour desktop (md+).
- * Toujours en mode plein largeur pour l'instant (64). Plus tard on ajoutera un mode "collapsed".
+ * Plein largeur pour l'instant (240px). Plus tard on ajoutera un mode "collapsed".
  */
 export function Sidebar() {
   const t = useTranslations("nav");
@@ -20,7 +22,7 @@ export function Sidebar() {
   return (
     <aside className="hidden md:flex md:flex-col md:w-60 md:shrink-0 md:border-r md:border-border md:bg-surface">
       <div className="h-14 flex items-center px-5 border-b border-border">
-        <Link href={`/${locale}/dashboard`} className="flex items-center gap-2 group">
+        <Link href={`/${locale}/dashboard`} className="flex items-center gap-2">
           <span className="inline-flex h-7 w-7 items-center justify-center rounded-lg bg-accent text-white font-bold text-sm">
             공
           </span>
@@ -49,8 +51,10 @@ export function Sidebar() {
         })}
       </nav>
 
-      <div className="p-3 border-t border-border">
-        <p className="text-[11px] text-text-muted text-center">{tCommon("tagline")}</p>
+      {/* TODO : remplacer current={2} hardcodé par la valeur du profil utilisateur. */}
+      <div className="p-4 border-t border-border">
+        <LevelProgress current={2} variant="compact" />
+        <p className="text-[10px] text-text-muted mt-3 text-right tabular-nums">7 / 20</p>
       </div>
     </aside>
   );
