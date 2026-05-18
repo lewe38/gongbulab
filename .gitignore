@@ -1,0 +1,56 @@
+# ─── env & secrets ─────────────────────────────────
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+!**/example.key
+
+# ─── node / web ────────────────────────────────────
+node_modules/
+.next/
+out/
+dist/
+build/
+.turbo/
+*.tsbuildinfo
+.eslintcache
+
+# ─── python / api ──────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# ─── design tokens ─────────────────────────────────
+tokens/build/
+
+# ─── supabase ──────────────────────────────────────
+supabase/.branches/
+supabase/.temp/
+
+# ─── data & generated ──────────────────────────────
+# data/extracted/  → on COMMIT les JSON (résultat d'extraction Gemini, coûteux à régénérer)
+data/raw/
+*.dump
+*.sql.gz
+
+# ─── editor / OS ───────────────────────────────────
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── logs ──────────────────────────────────────────
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*

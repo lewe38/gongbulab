@@ -1,0 +1,424 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>gongbulab — palette graphite + turquoise</title>
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css">
+<style>
+  :root {
+    --font: 'Pretendard', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+    /* graphite scale */
+    --g-50:  #fafafa;
+    --g-100: #f4f4f5;
+    --g-200: #e4e4e7;
+    --g-300: #d4d4d8;
+    --g-400: #a1a1aa;
+    --g-500: #71717a;
+    --g-600: #52525b;
+    --g-700: #3f3f46;
+    --g-800: #27272a;
+    --g-900: #18181b;
+    --g-950: #09090b;
+
+    /* SRS palette (kept Anki-classic but a touch softer) */
+    --srs-again: #ef4444;
+    --srs-hard:  #f59e0b;
+    --srs-good:  #10b981;
+    --srs-easy:  #3b82f6;
+
+    /* default turquoise (option 2 — sea teal) */
+    --accent: #14b8a6;
+    --accent-soft: #ccfbf1;
+    --accent-strong: #0f766e;
+  }
+
+  /* turquoise variants — toggled by class on <body> */
+  body.t1 { --accent: #2dd4bf; --accent-soft: #ccfbf1; --accent-strong: #0d9488; } /* mint */
+  body.t2 { --accent: #14b8a6; --accent-soft: #ccfbf1; --accent-strong: #0f766e; } /* sea  */
+  body.t3 { --accent: #06b6d4; --accent-soft: #cffafe; --accent-strong: #0e7490; } /* cyan */
+
+  /* light / dark */
+  body {
+    --bg: var(--g-100);
+    --surface: #ffffff;
+    --card: #ffffff;
+    --text: var(--g-900);
+    --muted: var(--g-500);
+    --border: var(--g-200);
+    --primary: var(--g-900);
+    --on-primary: #ffffff;
+  }
+  body.dark {
+    --bg: var(--g-950);
+    --surface: var(--g-900);
+    --card: #131316;
+    --text: var(--g-50);
+    --muted: var(--g-400);
+    --border: var(--g-800);
+    --primary: var(--g-50);
+    --on-primary: var(--g-900);
+    --accent-soft: rgba(20,184,166,0.12);
+  }
+  body.dark.t1 { --accent-soft: rgba(45,212,191,0.14); --accent-strong: #5eead4; }
+  body.dark.t2 { --accent-soft: rgba(20,184,166,0.14); --accent-strong: #5eead4; }
+  body.dark.t3 { --accent-soft: rgba(6,182,212,0.14);  --accent-strong: #67e8f9; }
+
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    padding: 0;
+    font-family: var(--font);
+    background: var(--bg);
+    color: var(--text);
+    transition: background 0.2s, color 0.2s;
+  }
+  body { padding: 32px 24px 100px; }
+
+  .wrap { max-width: 1100px; margin: 0 auto; }
+
+  /* topbar */
+  .topbar {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 24px;
+    flex-wrap: wrap;
+    margin-bottom: 36px;
+  }
+  .topbar h1 {
+    margin: 0;
+    font-size: 28px;
+    letter-spacing: -0.02em;
+    font-weight: 800;
+  }
+  .topbar p { margin: 4px 0 0; color: var(--muted); font-size: 14px; }
+  .topbar .controls { display: flex; gap: 8px; flex-wrap: wrap; }
+  .ctrl-btn {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 8px 14px;
+    border-radius: 999px;
+    font-family: var(--font);
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .ctrl-btn.active {
+    background: var(--text);
+    color: var(--bg);
+    border-color: var(--text);
+  }
+
+  /* sections */
+  section.panel {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 28px;
+    margin-bottom: 20px;
+  }
+  section.panel h2 {
+    margin: 0 0 4px;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+  }
+  section.panel .lead { margin: 0 0 22px; font-size: 14px; color: var(--muted); }
+
+  /* swatches */
+  .swatches {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+    gap: 10px;
+  }
+  .swatch {
+    aspect-ratio: 1.6;
+    border-radius: 12px;
+    padding: 10px 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }
+  .swatch .lbl { font-size: 11px; opacity: 0.85; font-weight: 700; }
+  .swatch .hex { font-variant-numeric: tabular-nums; opacity: 0.7; font-weight: 500; }
+  .swatch.dark-fg  { color: rgba(0,0,0,0.7); }
+  .swatch.light-fg { color: rgba(255,255,255,0.92); }
+
+  /* preview grid */
+  .preview-grid {
+    display: grid;
+    grid-template-columns: 1.1fr 1fr;
+    gap: 20px;
+  }
+  @media (max-width: 760px) { .preview-grid { grid-template-columns: 1fr; } }
+
+  /* SRS card */
+  .srs-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 32px 24px;
+    text-align: center;
+  }
+  .srs-card .ko {
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    margin: 0 0 6px;
+  }
+  .srs-card .romaji { color: var(--muted); font-size: 14px; }
+  .srs-card .fr {
+    margin-top: 18px;
+    padding-top: 18px;
+    border-top: 1px dashed var(--border);
+    font-size: 16px;
+  }
+
+  .srs-buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+    margin-top: 18px;
+  }
+  .srs-btn {
+    background: transparent;
+    padding: 12px 4px;
+    border-radius: 12px;
+    border: 1.5px solid;
+    font-family: var(--font);
+    font-weight: 600;
+    font-size: 13px;
+    cursor: pointer;
+    line-height: 1.2;
+    transition: background 0.12s;
+  }
+  .srs-btn small {
+    display: block;
+    font-weight: 500;
+    font-size: 10px;
+    opacity: 0.75;
+    margin-top: 3px;
+    letter-spacing: 0.02em;
+  }
+  .srs-btn.again { color: var(--srs-again); border-color: var(--srs-again); }
+  .srs-btn.hard  { color: var(--srs-hard);  border-color: var(--srs-hard); }
+  .srs-btn.good  { color: var(--srs-good);  border-color: var(--srs-good); }
+  .srs-btn.easy  { color: var(--srs-easy);  border-color: var(--srs-easy); }
+  .srs-btn.again:hover { background: color-mix(in srgb, var(--srs-again) 10%, transparent); }
+  .srs-btn.hard:hover  { background: color-mix(in srgb, var(--srs-hard)  10%, transparent); }
+  .srs-btn.good:hover  { background: color-mix(in srgb, var(--srs-good)  10%, transparent); }
+  .srs-btn.easy:hover  { background: color-mix(in srgb, var(--srs-easy)  10%, transparent); }
+
+  /* components panel */
+  .comp-stack { display: flex; flex-direction: column; gap: 16px; }
+  .row { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+  .row.sep { padding-top: 16px; border-top: 1px solid var(--border); }
+
+  .btn-primary {
+    background: var(--primary);
+    color: var(--on-primary);
+    border: 0;
+    padding: 11px 20px;
+    border-radius: 12px;
+    font-family: var(--font);
+    font-weight: 600;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  .btn-accent {
+    background: var(--accent);
+    color: white;
+    border: 0;
+    padding: 11px 20px;
+    border-radius: 12px;
+    font-family: var(--font);
+    font-weight: 600;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  .btn-ghost {
+    background: transparent;
+    color: var(--text);
+    border: 1px solid var(--border);
+    padding: 10px 19px;
+    border-radius: 12px;
+    font-family: var(--font);
+    font-weight: 600;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  .badge {
+    display: inline-block;
+    padding: 4px 10px;
+    border-radius: 999px;
+    font-size: 12px;
+    font-weight: 600;
+    background: var(--accent-soft);
+    color: var(--accent-strong);
+  }
+  .link {
+    color: var(--accent-strong);
+    font-weight: 600;
+    font-size: 14px;
+    text-decoration: none;
+  }
+  body.dark .link { color: var(--accent); }
+
+  .lesson-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 18px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+  .lesson-card .num {
+    width: 44px; height: 44px;
+    border-radius: 12px;
+    background: var(--accent-soft);
+    color: var(--accent-strong);
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    flex: 0 0 auto;
+  }
+  .lesson-card .meta { flex: 1; min-width: 0; }
+  .lesson-card .title { font-weight: 600; font-size: 15px; margin: 0 0 2px; }
+  .lesson-card .sub { color: var(--muted); font-size: 13px; }
+  .lesson-card .arrow { color: var(--muted); font-size: 18px; }
+
+  /* progress bar (streak) */
+  .progress-wrap { width: 100%; height: 8px; background: var(--border); border-radius: 999px; overflow: hidden; }
+  .progress-bar { width: 62%; height: 100%; background: var(--accent); }
+</style>
+</head>
+<body class="t2">
+
+<div class="wrap">
+
+  <div class="topbar">
+    <div>
+      <h1>gongbulab — palette</h1>
+      <p>Graphite primaire + turquoise accent. Choisis la nuance de turquoise et le mode.</p>
+    </div>
+    <div class="controls">
+      <button class="ctrl-btn" id="b-t1" onclick="setTurq('t1')">turquoise · mint</button>
+      <button class="ctrl-btn active" id="b-t2" onclick="setTurq('t2')">turquoise · sea</button>
+      <button class="ctrl-btn" id="b-t3" onclick="setTurq('t3')">turquoise · cyan</button>
+      <button class="ctrl-btn" onclick="document.body.classList.toggle('dark')">light / dark</button>
+    </div>
+  </div>
+
+  <!-- swatches -->
+  <section class="panel">
+    <h2>Tokens couleur</h2>
+    <p class="lead">Le primaire = graphite (texte + boutons principaux). L'accent = turquoise (liens, badges, progress, focus). Les 4 couleurs SRS restent classiques Anki pour la lisibilité.</p>
+
+    <div class="swatches" style="margin-bottom:18px">
+      <div class="swatch light-fg" style="background:#18181b"><span class="lbl">primary</span><span class="hex">graphite-900</span></div>
+      <div class="swatch light-fg" style="background:var(--accent)"><span class="lbl">accent</span><span class="hex">turquoise</span></div>
+      <div class="swatch light-fg" style="background:var(--accent-strong)"><span class="lbl">accent-strong</span><span class="hex">on-light</span></div>
+      <div class="swatch dark-fg"  style="background:var(--accent-soft)"><span class="lbl">accent-soft</span><span class="hex">badges</span></div>
+    </div>
+
+    <div class="swatches">
+      <div class="swatch" style="background:var(--srs-again); color:white"><span class="lbl">srs-again</span><span class="hex">#ef4444</span></div>
+      <div class="swatch" style="background:var(--srs-hard);  color:white"><span class="lbl">srs-hard</span><span class="hex">#f59e0b</span></div>
+      <div class="swatch" style="background:var(--srs-good);  color:white"><span class="lbl">srs-good</span><span class="hex">#10b981</span></div>
+      <div class="swatch" style="background:var(--srs-easy);  color:white"><span class="lbl">srs-easy</span><span class="hex">#3b82f6</span></div>
+    </div>
+
+    <div class="swatches" style="margin-top:18px">
+      <div class="swatch dark-fg" style="background:var(--g-50)"><span class="lbl">g-50</span><span class="hex">#fafafa</span></div>
+      <div class="swatch dark-fg" style="background:var(--g-200)"><span class="lbl">g-200</span><span class="hex">borders</span></div>
+      <div class="swatch dark-fg" style="background:var(--g-400)"><span class="lbl">g-400</span><span class="hex">muted</span></div>
+      <div class="swatch light-fg" style="background:var(--g-600)"><span class="lbl">g-600</span><span class="hex">text-soft</span></div>
+      <div class="swatch light-fg" style="background:var(--g-800)"><span class="lbl">g-800</span><span class="hex">surface-dk</span></div>
+      <div class="swatch light-fg" style="background:var(--g-900)"><span class="lbl">g-900</span><span class="hex">primary</span></div>
+    </div>
+  </section>
+
+  <!-- live preview -->
+  <section class="panel">
+    <h2>Aperçu composants</h2>
+    <p class="lead">Boutons SRS en outline (bord + texte colorés), pas de fond plein. Le reste de l'UI utilise graphite + turquoise.</p>
+
+    <div class="preview-grid">
+
+      <!-- SRS card -->
+      <div>
+        <div class="srs-card">
+          <p class="ko">학교</p>
+          <p class="romaji">hakgyo</p>
+          <p class="fr">école</p>
+        </div>
+        <div class="srs-buttons">
+          <button class="srs-btn again">Again<small>&lt;1m</small></button>
+          <button class="srs-btn hard">Hard<small>6m</small></button>
+          <button class="srs-btn good">Good<small>10m</small></button>
+          <button class="srs-btn easy">Easy<small>4j</small></button>
+        </div>
+      </div>
+
+      <!-- other components -->
+      <div class="comp-stack">
+
+        <div class="row">
+          <button class="btn-primary">Continuer</button>
+          <button class="btn-accent">Action accent</button>
+          <button class="btn-ghost">Plus tard</button>
+        </div>
+
+        <div class="row">
+          <span class="badge">Niveau 1</span>
+          <span class="badge">streak · 12 j</span>
+          <a class="link" href="#">leçon suivante →</a>
+        </div>
+
+        <div class="row sep" style="display:block">
+          <p style="margin:0 0 8px;font-size:13px;color:var(--muted);font-weight:600">Progression du jour</p>
+          <div class="progress-wrap"><div class="progress-bar"></div></div>
+          <p style="margin:8px 0 0;font-size:12px;color:var(--muted)">31 / 50 cartes</p>
+        </div>
+
+        <div class="row sep" style="display:block">
+          <div class="lesson-card">
+            <div class="num">1-1</div>
+            <div class="meta">
+              <p class="title">Greetings and Introductions</p>
+              <p class="sub">12 points · 38 mots · ~25 min</p>
+            </div>
+            <span class="arrow">›</span>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<script>
+  function setTurq(t) {
+    document.body.classList.remove('t1','t2','t3');
+    document.body.classList.add(t);
+    ['b-t1','b-t2','b-t3'].forEach(id => {
+      document.getElementById(id).classList.toggle('active', id === 'b-' + t);
+    });
+  }
+</script>
+
+</body>
+</html>

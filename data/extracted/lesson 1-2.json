@@ -1,0 +1,4371 @@
+{
+  "level": 1,
+  "chapters": [
+    {
+      "chapter_number": 11,
+      "title_ko": "약속",
+      "title_fr": "Rendez-vous",
+      "sections": [
+        {
+          "order": 1,
+          "title_ko": "The weather is nice so let's go to the park.",
+          "title_fr": "Le temps est beau, alors allons au parc.",
+          "dialogue_ko": "Eric: Do you have an appointment tomorrow?John: No, I don't have an appointment.Eric: Then, after the class, do you want to ride a bicycle?I sometimes ride the bicycle at the park.John: Okay. The weather is nice these days so let's go toHangang Park.",
+          "dialogue_fr": "Eric : As-tu un rendez-vous demain ?John : Non, je n'ai pas de rendez-vous.Eric : Alors, après le cours, veux-tu faire du vélo ?Je fais parfois du vélo au parc.John : D'accord. Le temps est beau ces jours-ci, alors allons au parc de Hangang.",
+          "dialogue_vocabulary": [
+            {
+              "hangeul": "약속",
+              "romanization": null,
+              "translation_fr": "rendez-vous",
+              "translation_en": "appointment",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "가끔",
+              "romanization": null,
+              "translation_fr": "parfois",
+              "translation_en": "sometimes",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "한강공원",
+              "romanization": null,
+              "translation_fr": "parc de Hangang",
+              "translation_en": "Hangang park",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "요즘",
+              "romanization": null,
+              "translation_fr": "ces jours-ci",
+              "translation_en": "these days",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "자전거를 타다",
+              "romanization": null,
+              "translation_fr": "faire du vélo",
+              "translation_en": "to ride a bicycle",
+              "part_of_speech": null
+            }
+          ],
+          "vocabulary_expansion": [
+            {
+              "hangeul": "약속 시간",
+              "romanization": null,
+              "translation_fr": "heure de rendez-vous",
+              "translation_en": "appointment time",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "약속 장소",
+              "romanization": null,
+              "translation_fr": "lieu de rendez-vous",
+              "translation_en": "appointment place",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "약속을 지키다",
+              "romanization": null,
+              "translation_fr": "tenir un rendez-vous",
+              "translation_en": "to keep appointment",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "약속을 하다",
+              "romanization": null,
+              "translation_fr": "prendre un rendez-vous",
+              "translation_en": "to make appointment",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "약속이 없다",
+              "romanization": null,
+              "translation_fr": "ne pas avoir de rendez-vous",
+              "translation_en": "to not have appointment",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "약속이 있다",
+              "romanization": null,
+              "translation_fr": "avoir un rendez-vous",
+              "translation_en": "to have appointment",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "가끔",
+              "romanization": null,
+              "translation_fr": "parfois",
+              "translation_en": "sometimes",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "날마다",
+              "romanization": null,
+              "translation_fr": "tous les jours",
+              "translation_en": "everyday",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "자주",
+              "romanization": null,
+              "translation_fr": "souvent",
+              "translation_en": "often",
+              "part_of_speech": null
+            }
+          ],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-은/ㄴ 후에",
+              "title_translit": null,
+              "summary_fr": "Indique qu'une action suit une autre.",
+              "explanation_fr": "Ceci est ajouté à la racine du premier verbe pour indiquer qu'une autre action suit la première.",
+              "explanation_en": "This is added to the stem of first verb in order to indicate that another action is following after the first one.",
+              "form_notes": "| Action verb stem ending | Combine with | Example |\n|---|---|---|\n| 자음 | -은 후에 | 먹은 후에, 읽은 후에 |\n| 모음, ㄹ | -ㄴ 후에 | 만난 후에, 만든 후에 |",
+              "examples": [
+                {
+                  "korean": "복습을 한 후에 예습도 했어요.",
+                  "romanization": null,
+                  "french": "Après la révision, je prépare le cours.",
+                  "english": "After the review, I prepare the class."
+                },
+                {
+                  "korean": "저녁을 먹은 후에 항상 차를 마셔요.",
+                  "romanization": null,
+                  "french": "Après le dîner, je bois toujours du thé.",
+                  "english": "After the dinner, I always drink tea."
+                },
+                {
+                  "korean": "책을 읽은 후에 같이 산책하러 갈까요?",
+                  "romanization": null,
+                  "french": "Après avoir lu le livre, veux-tu aller te promener ?",
+                  "english": "After reading the book, do you want to go for a walk?"
+                },
+                {
+                  "korean": "수업이 끝난 후에 보통 뭘 해요?",
+                  "romanization": null,
+                  "french": "Après le cours, que fais-tu habituellement ?",
+                  "english": "After the class, what do you usually do?"
+                },
+                {
+                  "korean": "가: 같이 도서관에 갈까요?\n나: 네, 점심을 먹은 후에 갑시다.",
+                  "romanization": null,
+                  "french": "A : Voulons-nous aller à la bibliothèque ensemble ?\nB : Oui, allons-y après le déjeuner.",
+                  "english": "A: Do you want to go to the library together?\nB: Yes, let's go after lunch."
+                },
+                {
+                  "korean": "가: 숙제를 한 후에 뭘 해요?\n나: 요가를 배우러 가요.",
+                  "romanization": null,
+                  "french": "A : Que fais-tu après tes devoirs ?\nB : Je vais faire du yoga.",
+                  "english": "A: What do you do after your homework?\nB: I go to do yoga."
+                }
+              ],
+              "notes": "This should only be used with an action verb."
+            },
+            {
+              "order": 2,
+              "title_ko": "-으니까/니까¹",
+              "title_translit": null,
+              "summary_fr": "Exprime la raison ou le motif d'un jugement.",
+              "explanation_fr": "Ceci est ajouté à la racine d'un verbe d'action ou d'un verbe descriptif pour exprimer la raison ou le motif du jugement pour la clause suivante.",
+              "explanation_en": "This is added to an action verb or a descriptive verb in order to express the reason or the ground for judgment for the following clause.",
+              "form_notes": "| Action verb and descriptive verb stem ending | Combine with | Example |\n|---|---|---|\n| 자음 | -으니까 | 좋으니까, 먹으니까 |\n| 모음, ㄹ | -니까 | 바쁘니까, 파니까 |",
+              "examples": [
+                {
+                  "korean": "바쁘니까 우리 내일 만나요.",
+                  "romanization": null,
+                  "french": "Je suis occupé, alors rencontrons-nous demain.",
+                  "english": "I'm busy so let's meet tomorrow."
+                },
+                {
+                  "korean": "친구가 기다리니까 빨리 가세요.",
+                  "romanization": null,
+                  "french": "Ton ami attend, alors dépêche-toi.",
+                  "english": "Your friend is waiting so go hurry."
+                },
+                {
+                  "korean": "교실이 더우니까 문을 열까요?",
+                  "romanization": null,
+                  "french": "La salle de classe est chaude, devrions-nous ouvrir la fenêtre ?",
+                  "english": "Classroom is hot, should we open the window?"
+                },
+                {
+                  "korean": "숙제를 다 했으니까 게임을 해요.",
+                  "romanization": null,
+                  "french": "Puisque nous avons fini les devoirs, jouons à des jeux.",
+                  "english": "Since we finished the homework, let's play games."
+                },
+                {
+                  "korean": "가: 운동하러 갈까요?\n나: 오늘은 피곤하니까 내일 갑시다.",
+                  "romanization": null,
+                  "french": "A : Voulons-nous faire de l'exercice ?\nB : Parce que je suis fatigué aujourd'hui, allons-y demain.",
+                  "english": "A: Do you want to go exercise?\nB: Because I'm tired today, let's go tomorrow."
+                },
+                {
+                  "korean": "가: 다음 주에 시험이 있으니까 열심히 공부하십시오.\n나: 네, 알겠습니다.",
+                  "romanization": null,
+                  "french": "A : Puisque nous avons un examen la semaine prochaine, étudiez bien.\nB : Oui, d'accord.",
+                  "english": "A: Because we have a test next week, study hard.\nB: Yes, okay."
+                }
+              ],
+              "notes": null
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title_ko": "I'm bored, do you want to go to an amusement park?",
+          "title_fr": "Je m'ennuie, veux-tu aller à un parc d'attractions ?",
+          "dialogue_ko": "John: Haneul, I'm bored, do you want to go to an amusement park?Haneul: Well, the amusement park is far so I don't want to go.John: Then, what do you want to do?Haneul: Let's watch a movie or drama at home.",
+          "dialogue_fr": "John : Haneul, je m'ennuie, veux-tu aller à un parc d'attractions ?Haneul : Eh bien, le parc d'attractions est loin, alors je ne veux pas y aller.John : Alors, que veux-tu faire ?Haneul : Regardons un film ou un drama à la maison.",
+          "dialogue_vocabulary": [
+            {
+              "hangeul": "놀이공원",
+              "romanization": null,
+              "translation_fr": "parc d'attractions",
+              "translation_en": "amusement park",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "드라마",
+              "romanization": null,
+              "translation_fr": "drama",
+              "translation_en": "drama",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "심심하다",
+              "romanization": null,
+              "translation_fr": "s'ennuyer",
+              "translation_en": "to be bored",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "글쎄요",
+              "romanization": null,
+              "translation_fr": "eh bien",
+              "translation_en": "well",
+              "part_of_speech": null
+            }
+          ],
+          "vocabulary_expansion": [
+            {
+              "hangeul": "공원",
+              "romanization": null,
+              "translation_fr": "parc",
+              "translation_en": "park",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "극장",
+              "romanization": null,
+              "translation_fr": "théâtre",
+              "translation_en": "theater",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "놀이공원",
+              "romanization": null,
+              "translation_fr": "parc d'attractions",
+              "translation_en": "amusement park",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "동물원",
+              "romanization": null,
+              "translation_fr": "zoo",
+              "translation_en": "zoo",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "박물관",
+              "romanization": null,
+              "translation_fr": "musée",
+              "translation_en": "museum",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "미술관",
+              "romanization": null,
+              "translation_fr": "galerie d'art",
+              "translation_en": "art gallery",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "카페",
+              "romanization": null,
+              "translation_fr": "café",
+              "translation_en": "cafe",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "영화관",
+              "romanization": null,
+              "translation_fr": "cinéma",
+              "translation_en": "movie theater",
+              "part_of_speech": null
+            }
+          ],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-는데/은데/ㄴ데¹",
+              "title_translit": null,
+              "summary_fr": "Contexte de la suggestion.",
+              "explanation_fr": "Ceci est ajouté à la racine d'un verbe d'action ou d'un verbe descriptif pour exprimer la situation que l'interlocuteur connaît dans la première clause, puis pour donner un ordre ou une suggestion d'action possible dans cette situation dans la seconde clause.",
+              "explanation_en": "This is added to the stem of an action verb or a descriptive verb in order to express the situation that the speaker knows in the first clause, and then to give a command or a suggestion of a possible action in that situation in the second clause.",
+              "form_notes": "| A leading stem | Combine with | Example |\n|---|---|---|\n| 동사, 있다, 없다 | -는데 | 먹는데, 가는데, 있는데 |\n| Consonant (형용사) | -은데 | 작은데, 좋은데, 싫은데 |\n| Vowel, ㄹ (형용사) | -ㄴ데 | 큰데, 친절한데, 먼데 |",
+              "examples": [
+                {
+                  "korean": "피곤한데 좀 쉽시다.",
+                  "romanization": null,
+                  "french": "Je suis fatigué, reposons-nous un peu.",
+                  "english": "I am tired, let's take a break."
+                },
+                {
+                  "korean": "늦었는데 빨리 가십시오.",
+                  "romanization": null,
+                  "french": "Nous sommes en retard, dépêchez-vous.",
+                  "english": "We are late, let's hurry."
+                },
+                {
+                  "korean": "불고기가 맵지 않은데 불고기를 시킵시다.",
+                  "romanization": null,
+                  "french": "Le bulgogi n'est pas épicé, commandons du bulgogi.",
+                  "english": "The bulgogi is not spicy, let's order the bulgogi."
+                },
+                {
+                  "korean": "내일 오후에 시간이 있는데 같이 박물관에 갈까요?",
+                  "romanization": null,
+                  "french": "J'ai du temps demain après-midi, devrions-nous aller au musée ensemble ?",
+                  "english": "I have time tomorrow afternoon, should we go to the museum together?"
+                },
+                {
+                  "korean": "가: 숙제가 어려운데 같이 할까요?\n나: 네, 카페에서 같이 합시다.",
+                  "romanization": null,
+                  "french": "A : Les devoirs sont difficiles, voulons-nous les faire ensemble ?\nB : Oui, faisons les devoirs ensemble au café.",
+                  "english": "A: Homework is hard, do you want to do it together?\nB: Yes, let's do the homework together at the cafe."
+                },
+                {
+                  "korean": "가: 어디에 가요?\n나: 지금 피시방에 가는데 같이 갑시다.",
+                  "romanization": null,
+                  "french": "A : Où vas-tu ?\nB : Je vais au cybercafé maintenant, allons-y ensemble.",
+                  "english": "A: Where are you going?\nB: I'm going to PC room, let's go together."
+                }
+              ],
+              "notes": null
+            },
+            {
+              "order": 2,
+              "title_ko": "-이나/나¹",
+              "title_translit": null,
+              "summary_fr": "Indique un choix parmi plusieurs éléments.",
+              "explanation_fr": "Ceci est ajouté à un nom pour énumérer deux ou plusieurs éléments, comme 'ou' en français, et cela signifie qu'une seule option des choix est sélectionnée.",
+              "explanation_en": "This is added to a noun in order to list two or more items, as in 'or' in English, and it signifies only one option of the choices is selected.",
+              "form_notes": "| Noun ending | Combine with | Example |\n|---|---|---|\n| Consonant | -이나 | 도서관이나, 교실이나 |\n| Vowel | -나 | 축구나, 의자나 |",
+              "examples": [
+                {
+                  "korean": "아침에는 빵이나 밥을 먹어요.",
+                  "romanization": null,
+                  "french": "Le matin, je mange du pain ou du riz.",
+                  "english": "In the morning, I eat bread or rice."
+                },
+                {
+                  "korean": "주말에는 축구나 농구를 해요.",
+                  "romanization": null,
+                  "french": "Le week-end, je joue au football ou au basketball.",
+                  "english": "On the weekend, I play soccer or basketball."
+                },
+                {
+                  "korean": "친구와 같이 카페나 도서관에서 공부할 거예요.",
+                  "romanization": null,
+                  "french": "Mon ami et moi, nous allons étudier au café ou à la bibliothèque.",
+                  "english": "My friend and I, go to the cafe or the library to study."
+                },
+                {
+                  "korean": "내일 동물원이나 놀이공원에 갈까요?",
+                  "romanization": null,
+                  "french": "Allons-nous au zoo ou au parc d'attractions demain ?",
+                  "english": "Shall we go to the zoo or the amusement park tomorrow?"
+                },
+                {
+                  "korean": "가: 미술관이나 박물관에 가고 싶어요.\n나: 그럼 오후에 박물관에 갈까요?",
+                  "romanization": null,
+                  "french": "A : Je veux aller à une galerie d'art ou à un musée.\nB : Alors, irons-nous au musée cet après-midi ?",
+                  "english": "A: I want to go to an art gallery or a museum.\nB: Then, shall we go to a museum in the afternoon?"
+                },
+                {
+                  "korean": "가: 보통 주말에 뭘 해요?\n나: 탁구나 테니스를 자주 쳐요.",
+                  "romanization": null,
+                  "french": "A : Que fais-tu habituellement le week-end ?\nB : Je joue souvent au tennis de table ou au tennis.",
+                  "english": "A: What do you usually do on the weekends?\nB: I often play ping pong or tennis."
+                }
+              ],
+              "notes": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 12,
+      "title_ko": "가족",
+      "title_fr": "Famille",
+      "sections": [
+        {
+          "order": 1,
+          "title_ko": "What does your father do?",
+          "title_fr": "Que fait votre père ?",
+          "dialogue_ko": "Haneul: 누가 이분입니까? Yuki: 제 아버지입니다. Haneul: 무엇을 하십니까? Yuki: 대학교에서 역사를 가르치십니다. 교수님이십니다.",
+          "dialogue_fr": "Haneul : Qui est cette personne ? Yuki : C'est mon père. Haneul : Que fait-il ? Yuki : Il enseigne l'histoire à l'université. C'est un professeur.",
+          "dialogue_vocabulary": [
+            {
+              "hangeul": "교수",
+              "romanization": null,
+              "translation_fr": "professeur",
+              "translation_en": "professor",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "아버지",
+              "romanization": null,
+              "translation_fr": "père",
+              "translation_en": "farther",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "이분",
+              "romanization": null,
+              "translation_fr": "cette personne",
+              "translation_en": "this person",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "대학교",
+              "romanization": null,
+              "translation_fr": "université",
+              "translation_en": "college",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "역사",
+              "romanization": null,
+              "translation_fr": "histoire",
+              "translation_en": "history",
+              "part_of_speech": null
+            }
+          ],
+          "vocabulary_expansion": [
+            {
+              "hangeul": "남동생",
+              "romanization": null,
+              "translation_fr": "frère cadet",
+              "translation_en": "younger brother",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "누나",
+              "romanization": null,
+              "translation_fr": "sœur aînée (pour homme)",
+              "translation_en": "older sister(for male)",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "부모님",
+              "romanization": null,
+              "translation_fr": "parents",
+              "translation_en": "parents",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "어머니",
+              "romanization": null,
+              "translation_fr": "mère",
+              "translation_en": "mother",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "언니",
+              "romanization": null,
+              "translation_fr": "sœur aînée (pour femme)",
+              "translation_en": "older sister(for female)",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "여동생",
+              "romanization": null,
+              "translation_fr": "sœur cadette",
+              "translation_en": "younger sister",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "오빠",
+              "romanization": null,
+              "translation_fr": "frère aîné (pour femme)",
+              "translation_en": "older brother (for female)",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "외할머니",
+              "romanization": null,
+              "translation_fr": "grand-mère (côté maternel)",
+              "translation_en": "grandmother(on mother's side)",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "외할아버지",
+              "romanization": null,
+              "translation_fr": "grand-père (côté maternel)",
+              "translation_en": "grandfather(on mother's side)",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "할머니",
+              "romanization": null,
+              "translation_fr": "grand-mère",
+              "translation_en": "grandmother",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "할아버지",
+              "romanization": null,
+              "translation_fr": "grand-père",
+              "translation_en": "grandfather",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "형",
+              "romanization": null,
+              "translation_fr": "frère aîné (pour homme)",
+              "translation_en": "older brother(for male)",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "형제",
+              "romanization": null,
+              "translation_fr": "frère/sœur",
+              "translation_en": "sibling",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "계시다",
+              "romanization": null,
+              "translation_fr": "être (honorifique)",
+              "translation_en": "to be(honorific)",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "드시다",
+              "romanization": null,
+              "translation_fr": "manger/boire (honorifique)",
+              "translation_en": "to eat/drink(honorific)",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "말씀하시다",
+              "romanization": null,
+              "translation_fr": "parler (honorifique)",
+              "translation_en": "to speak(honorific)",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "잡수시다",
+              "romanization": null,
+              "translation_fr": "manger (honorifique)",
+              "translation_en": "to eat(honorific)",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "주무시다",
+              "romanization": null,
+              "translation_fr": "dormir (honorifique)",
+              "translation_en": "to sleep(honorific)",
+              "part_of_speech": null
+            }
+          ],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-으시다/시다",
+              "title_translit": null,
+              "summary_fr": "Ceci est le marqueur honorifique ajouté à la racine d'un verbe d'action ou d'un verbe descriptif. Il est utilisé pour élever (montrer du respect) au sujet de la phrase.",
+              "explanation_fr": "'-으시다' est ajouté lorsque la racine se termine par une consonne. '-시다' est ajouté lorsque la racine se termine par une voyelle ou ㄹ.",
+              "explanation_en": "This is the honorific marker added to the stem of an action verb or a descriptive verb. It is used to elevate (show respect) to the subject of the sentence. '-으시다' is added when the stem ends in a consonant. '-시다' is added when the stem ends in a vowel or ㄹ.",
+              "form_notes": "Action and descriptive verb stem ending | Combine with | Example\n---|---|---\nConsonant | -으시다 | 앉으실까요?, 읽으십니다\nVowel, ㄹ | -시다 | 가십니까?, 만드시는데",
+              "examples": [
+                {
+                  "korean": "아버지는 은행원이십니다.",
+                  "romanization": null,
+                  "french": "Mon père est un employé de banque.",
+                  "english": "My father is a bank teller."
+                },
+                {
+                  "korean": "어머니는 요리를 하시고 저는 청소를 합니다.",
+                  "romanization": null,
+                  "french": "Ma mère cuisine et je nettoie.",
+                  "english": "My mother cooks and I clean."
+                },
+                {
+                  "korean": "누가 한국말을 가르치십니까?",
+                  "romanization": null,
+                  "french": "Qui enseigne le coréen ?",
+                  "english": "Who is teaching Korean?"
+                },
+                {
+                  "korean": "할아버지, 어디에 가십니까?",
+                  "romanization": null,
+                  "french": "Grand-père, où allez-vous ?",
+                  "english": "Grandfather, where are you going?"
+                },
+                {
+                  "korean": "가: 선생님, 신문을 읽으십니까? 나: 네, 신문을 읽습니다.",
+                  "romanization": null,
+                  "french": "A : Professeur, lisez-vous le journal ? B : Oui, je lis le journal.",
+                  "english": "A: Teacher, do you read the newspaper? B: Yes, I read the newspaper."
+                },
+                {
+                  "korean": "가: 김우진 씨, 지금 무엇을 하십니까? 나: 일합니다.",
+                  "romanization": null,
+                  "french": "A : Woojin, que faites-vous maintenant ? B : Je travaille.",
+                  "english": "A: Woojin, what are you doing now? B: I'm working."
+                }
+              ],
+              "notes": null
+            },
+            {
+              "order": 2,
+              "title_ko": "께서",
+              "title_translit": null,
+              "summary_fr": "Ceci est une particule ajoutée à un nom personnel qui est utilisée pour élever (montrer du respect) au sujet de la phrase.",
+              "explanation_fr": "Ceci est une particule ajoutée à un nom personnel qui est utilisée pour élever (montrer du respect) au sujet de la phrase.",
+              "explanation_en": "This is a particle added to a personal noun that is used to elevate (show respect) to the subject of the sentence.",
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "어머니께서 창문을 닫으십니다.",
+                  "romanization": null,
+                  "french": "Ma mère ferme la fenêtre.",
+                  "english": "My mother is closing the window."
+                },
+                {
+                  "korean": "선생님께서 친절하십니다.",
+                  "romanization": null,
+                  "french": "Mon professeur est gentil.",
+                  "english": "My teacher is kind."
+                },
+                {
+                  "korean": "아버지께서 무슨 일을 하십니까?",
+                  "romanization": null,
+                  "french": "Que fait votre père ?",
+                  "english": "What does your father do?"
+                },
+                {
+                  "korean": "부모님께서 어디에 사십니까?",
+                  "romanization": null,
+                  "french": "Où vivent vos parents ?",
+                  "english": "Where does your parents live?"
+                },
+                {
+                  "korean": "가: 부모님께서 한국에 오십니까? 나: 네, 부모님께서 한국에 오십니다.",
+                  "romanization": null,
+                  "french": "A : Vos parents viennent-ils en Corée ? B : Oui, mes parents viennent en Corée.",
+                  "english": "A: Dose your parents come to Korea? B: Yes, my parents come to Korea."
+                },
+                {
+                  "korean": "가: 누가 주무십니까? 나: 할머니께서 주무십니다.",
+                  "romanization": null,
+                  "french": "A : Qui dort ? B : Grand-mère dort.",
+                  "english": "A: Who is sleeping? B: Grandmother is sleeping."
+                }
+              ],
+              "notes": "Particle '께서' is matched with '-으시다/시다' for making honorific sentence."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title_ko": "My mother cooks well.",
+          "title_fr": "Ma mère cuisine bien.",
+          "dialogue_ko": "Eric: 와, 이게 뭐예요? Nora: 이 과자 드세요. Eric: 아주 맛있어요. 누가 만들었어요? Nora: 어머니께서 만드셨어요. 요리를 잘 하세요.",
+          "dialogue_fr": "Eric : Wow, qu'est-ce que c'est ? Nora : Prenez ce gâteau. Eric : C'est très délicieux. Qui l'a fait ? Nora : Ma mère l'a fait. Elle cuisine bien.",
+          "dialogue_vocabulary": [
+            {
+              "hangeul": "과자",
+              "romanization": null,
+              "translation_fr": "gâteau",
+              "translation_en": "cookie",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "요리",
+              "romanization": null,
+              "translation_fr": "plat",
+              "translation_en": "dish",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "이게",
+              "romanization": null,
+              "translation_fr": "ceci",
+              "translation_en": "this (thing)",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "뭐",
+              "romanization": null,
+              "translation_fr": "quoi",
+              "translation_en": "what",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "와",
+              "romanization": null,
+              "translation_fr": "waouh",
+              "translation_en": "wow",
+              "part_of_speech": null
+            }
+          ],
+          "vocabulary_expansion": [
+            {
+              "hangeul": "구경하다",
+              "romanization": null,
+              "translation_fr": "regarder autour",
+              "translation_en": "to look around",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "독서를 하다",
+              "romanization": null,
+              "translation_fr": "lire",
+              "translation_en": "to read",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "요리를 하다",
+              "romanization": null,
+              "translation_fr": "cuisiner",
+              "translation_en": "to cook",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "누가",
+              "romanization": null,
+              "translation_fr": "qui",
+              "translation_en": "who",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "누굴",
+              "romanization": null,
+              "translation_fr": "qui",
+              "translation_en": "who",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "뭐",
+              "romanization": null,
+              "translation_fr": "quoi",
+              "translation_en": "what",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "뭘",
+              "romanization": null,
+              "translation_fr": "quoi",
+              "translation_en": "what",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "이걸",
+              "romanization": null,
+              "translation_fr": "ceci",
+              "translation_en": "this (thing)",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "이게",
+              "romanization": null,
+              "translation_fr": "ceci",
+              "translation_en": "this (thing)",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "그림을 그리다",
+              "romanization": null,
+              "translation_fr": "dessiner une image",
+              "translation_en": "to draw a picture",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "사진을 찍다",
+              "romanization": null,
+              "translation_fr": "prendre une photo",
+              "translation_en": "to take a photo",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "춤을 추다",
+              "romanization": null,
+              "translation_fr": "danser",
+              "translation_en": "to dance",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "누구",
+              "romanization": null,
+              "translation_fr": "qui",
+              "translation_en": "who",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "무엇",
+              "romanization": null,
+              "translation_fr": "quoi",
+              "translation_en": "what",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "뭐가",
+              "romanization": null,
+              "translation_fr": "quoi",
+              "translation_en": "what",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "이거",
+              "romanization": null,
+              "translation_fr": "ceci",
+              "translation_en": "this (thing)",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "이건",
+              "romanization": null,
+              "translation_fr": "ceci",
+              "translation_en": "this (thing)",
+              "part_of_speech": null
+            }
+          ],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-으세요/세요¹(imperative)",
+              "title_translit": null,
+              "summary_fr": "Ceci est ajouté à la racine d'un verbe d'action pour exprimer un ordre poli ou faire une suggestion à l'auditeur auquel l'orateur doit montrer du respect. C'est une forme informelle de -으십시오/십시오.",
+              "explanation_fr": "-으세요 est ajouté lorsque la racine se termine par une consonne. -세요 est ajouté lorsque la racine se termine par une voyelle ou ㄹ.",
+              "explanation_en": "This is added to an action verb in order to express a polite command or to make a suggestion to the listener that the speaker needs to show respect to. It is an inFormal Form of -으십시오/십시오. -으세요 is added when the stem ends in a consonant. -세요 is added when the stem ends in a vowel or ㄹ.",
+              "form_notes": "Action verb stem ending | Combine with | Example\n---|---|---\nConsonant | -으세요 | 읽으세요, 닫으세요\nVowel, ㄹ | -세요 | 보세요, 파세요",
+              "examples": [
+                {
+                  "korean": "책을 읽으세요.",
+                  "romanization": null,
+                  "french": "Lisez un livre.",
+                  "english": "Read a book."
+                },
+                {
+                  "korean": "여기를 보세요.",
+                  "romanization": null,
+                  "french": "Regardez ici.",
+                  "english": "Look here."
+                },
+                {
+                  "korean": "창문을 닫으세요.",
+                  "romanization": null,
+                  "french": "Fermez la fenêtre.",
+                  "english": "Close the window."
+                },
+                {
+                  "korean": "숙제를 하세요.",
+                  "romanization": null,
+                  "french": "Faites vos devoirs.",
+                  "english": "Do your homework."
+                },
+                {
+                  "korean": "가: 도서관 앞에서 기다리세요. 나: 네, 알겠습니다.",
+                  "romanization": null,
+                  "french": "A : Attendez devant la bibliothèque. B : Oui, je le ferai.",
+                  "english": "A: Wait in front of the library. B: Yes, I will."
+                },
+                {
+                  "korean": "가: 창문을 열까요? 나: 아니요, 추우니까 열지 마세요.",
+                  "romanization": null,
+                  "french": "A : Devrais-je ouvrir la fenêtre ? B : Non, il fait froid, alors ne l'ouvrez pas.",
+                  "english": "A: Should I open the window? B: No, it's cold, so don't open it."
+                }
+              ],
+              "notes": "This shluld only be used with an action verb."
+            },
+            {
+              "order": 2,
+              "title_ko": "-으세요/세요¹(declarative mode)",
+              "title_translit": null,
+              "summary_fr": "Ceci est ajouté à la racine d'un verbe d'action ou d'un verbe descriptif pour montrer du respect au sujet lors d'une explication ou d'une question. C'est une expression informelle de '-으십니다/십니다', '-으십니까/십니까?'.",
+              "explanation_fr": "-으세요 est ajouté lorsque la racine se termine par une consonne. -세요 est ajouté lorsque la racine se termine par une voyelle ou ㄹ.",
+              "explanation_en": "This is added to an action verb or a descriptive verb to give respect to the subject when explaining and questioning. It is inFormal expression of '-으십니다/십니다', '-으십니까/십니까?'. -으세요 is added when the stem ends in a consonant. -세요 is added when the stem ends in a vowel or ㄹ.",
+              "form_notes": "Action verb and descriptive verb stem ending | Combine with | Example\n---|---|---\nConsonant | -으세요 | 읽으세요, 들으세요\nVowel, ㄹ | -세요 | 가세요, 사세요",
+              "examples": [
+                {
+                  "korean": "어머니께서 잡지를 읽으세요.",
+                  "romanization": null,
+                  "french": "Ma mère lit un magazine.",
+                  "english": "My mother is reading a magazine."
+                },
+                {
+                  "korean": "부모님은 고향에 계세요.",
+                  "romanization": null,
+                  "french": "Mes parents vivent dans ma ville natale.",
+                  "english": "My parents live in my hometown."
+                },
+                {
+                  "korean": "에릭 씨, 등산을 좋아하세요?",
+                  "romanization": null,
+                  "french": "Eric, aimez-vous la randonnée ?",
+                  "english": "Eric, do you like hiking?"
+                },
+                {
+                  "korean": "이분은 우리 선생님이세요.",
+                  "romanization": null,
+                  "french": "C'est notre professeur.",
+                  "english": "This is our teacher."
+                },
+                {
+                  "korean": "가: 박 선생님께서 한국말을 가르치세요? 나: 네, 박 선생님께서 한국말을 가르치세요.",
+                  "romanization": null,
+                  "french": "A : Madame Park enseigne-t-elle le coréen ? B : Oui, Madame Park enseigne le coréen.",
+                  "english": "A: Dose Ms. Park teach Korean? B: Yes, Ms. Park teaches Korean."
+                },
+                {
+                  "korean": "가: 어디에 사세요? 나: 신촌에 살아요.",
+                  "romanization": null,
+                  "french": "A : Où habitez-vous ? B : J'habite à Sinchon.",
+                  "english": "A: Where do you live? B: I live in Sinchon."
+                }
+              ],
+              "notes": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 13,
+      "title_ko": "쇼핑",
+      "title_fr": "Shopping",
+      "sections": [
+        {
+          "order": 1,
+          "title_ko": "짧은 치마를 살까요?",
+          "title_fr": "Devrais-je acheter une jupe courte ?",
+          "dialogue_ko": "노라: 유키 씨, 치마를 사고 싶어요. 저 긴 치마 어때요?\n유키: 긴 치마보다 짧은 치마가 더 예뻐요.\n노라: 그래요? 그럼 짧은 치마를 살까요? 저기요, 이거 얼마예요?\n점원: 오만 원입니다.",
+          "dialogue_fr": "Nora : Yuki, je veux acheter une jupe. Que penses-tu de cette jupe longue ?\nYuki : La jupe courte est plus jolie que la jupe longue.\nNora : Vraiment ? Alors devrais-je acheter une jupe courte ? Excusez-moi, combien ça coûte ?\nVendeur : C'est cinquante mille wons.",
+          "dialogue_vocabulary": [
+            {
+              "hangeul": "얼마",
+              "romanization": null,
+              "translation_fr": "combien",
+              "translation_en": "how much/many",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "치마",
+              "romanization": null,
+              "translation_fr": "jupe",
+              "translation_en": "skirt",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "짧다",
+              "romanization": null,
+              "translation_fr": "être court",
+              "translation_en": "to be short",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "만",
+              "romanization": null,
+              "translation_fr": "dix mille",
+              "translation_en": "ten thousand",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "원",
+              "romanization": null,
+              "translation_fr": "won",
+              "translation_en": "won",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "길다",
+              "romanization": null,
+              "translation_fr": "être long",
+              "translation_en": "to be long",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "더",
+              "romanization": null,
+              "translation_fr": "plus",
+              "translation_en": "more",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "그래요",
+              "romanization": null,
+              "translation_fr": "oui, c'est ça (c'est vrai ?)",
+              "translation_en": "yes, it is(is it?)",
+              "part_of_speech": null
+            }
+          ],
+          "vocabulary_expansion": [
+            {
+              "hangeul": "값",
+              "romanization": null,
+              "translation_fr": "prix",
+              "translation_en": "price",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "만",
+              "romanization": null,
+              "translation_fr": "dix mille",
+              "translation_en": "ten thousand",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "백",
+              "romanization": null,
+              "translation_fr": "cent",
+              "translation_en": "hundred",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "십만",
+              "romanization": null,
+              "translation_fr": "cent mille",
+              "translation_en": "hundred thousand",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "우산",
+              "romanization": null,
+              "translation_fr": "parapluie",
+              "translation_en": "umbrella",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "천",
+              "romanization": null,
+              "translation_fr": "mille",
+              "translation_en": "thousand",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "코트",
+              "romanization": null,
+              "translation_fr": "manteau",
+              "translation_en": "coat",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "가볍다",
+              "romanization": null,
+              "translation_fr": "être léger",
+              "translation_en": "to be light",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "두껍다",
+              "romanization": null,
+              "translation_fr": "être épais",
+              "translation_en": "to be thick",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "비싸다",
+              "romanization": null,
+              "translation_fr": "être cher",
+              "translation_en": "to be expensive",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "얇다",
+              "romanization": null,
+              "translation_fr": "être mince",
+              "translation_en": "to be thin",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "구두",
+              "romanization": null,
+              "translation_fr": "chaussures",
+              "translation_en": "shoes",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "바지",
+              "romanization": null,
+              "translation_fr": "pantalon",
+              "translation_en": "pants",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "슬리퍼",
+              "romanization": null,
+              "translation_fr": "pantoufles",
+              "translation_en": "slippers",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "와이셔츠",
+              "romanization": null,
+              "translation_fr": "chemise",
+              "translation_en": "shirt",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "운동화",
+              "romanization": null,
+              "translation_fr": "baskets",
+              "translation_en": "sneakers",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "치마",
+              "romanization": null,
+              "translation_fr": "jupe",
+              "translation_en": "skirt",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "티셔츠",
+              "romanization": null,
+              "translation_fr": "t-shirt",
+              "translation_en": "t-shirt",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "길다",
+              "romanization": null,
+              "translation_fr": "être long",
+              "translation_en": "to be long",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "무겁다",
+              "romanization": null,
+              "translation_fr": "être lourd",
+              "translation_en": "to be heavy",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "싸다",
+              "romanization": null,
+              "translation_fr": "être bon marché",
+              "translation_en": "to be cheap",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "짧다",
+              "romanization": null,
+              "translation_fr": "être court",
+              "translation_en": "to be short",
+              "part_of_speech": null
+            }
+          ],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-은/ㄴ¹",
+              "title_translit": "-eun/n¹",
+              "summary_fr": "Forme déterminante d'un verbe descriptif.",
+              "explanation_fr": "Ceci est ajouté à un verbe descriptif afin de modifier le nom qui le suit.",
+              "explanation_en": "This is added to a descriptive verb in order to modify the noun that follows it.",
+              "form_notes": "| Radical du verbe descriptif se terminant par | Combiner avec | Exemple |\n| :--- | :--- | :--- |\n| Consonne | -은 | 좋은, 작은 |\n| Voyelle, ㄹ | -ㄴ | 큰, 먼 |",
+              "examples": [
+                {
+                  "korean": "윤아 씨가 예쁜 꽃을 샀어요.",
+                  "romanization": null,
+                  "french": "Yuna a acheté une jolie fleur.",
+                  "english": "Yuna bought a pretty flower."
+                },
+                {
+                  "korean": "이 가게에 싸고 좋은 물건이 많아요.",
+                  "romanization": null,
+                  "french": "Ce magasin a beaucoup d'articles bon marché et de bonne qualité.",
+                  "english": "This store has many cheap and good items."
+                },
+                {
+                  "korean": "저는 재미있는 영화를 보고 싶어요.",
+                  "romanization": null,
+                  "french": "Je veux regarder un film amusant.",
+                  "english": "I want to watch a fun movie."
+                },
+                {
+                  "korean": "가벼운 신발이 있어요?",
+                  "romanization": null,
+                  "french": "Avez-vous une paire de chaussures légères ?",
+                  "english": "Do you have a pair of light shoes?"
+                },
+                {
+                  "korean": "가: 이 예쁜 아이가 누구예요?\n나: 제 동생이에요.",
+                  "romanization": null,
+                  "french": "A : Qui est cet adorable enfant ?\nB : C'est ma petite sœur/mon petit frère.",
+                  "english": "A: Who is this lovely kid?\nB: She's my younger sister/brother."
+                },
+                {
+                  "korean": "가: 어떤 가방을 살 거예요?\n나: 작은 가방을 살 거예요.",
+                  "romanization": null,
+                  "french": "A : Quel genre de sac allez-vous acheter ?\nB : Je vais acheter un petit sac.",
+                  "english": "A: What kind of bag are you going to buy?\nB: I am going to by a small bag."
+                }
+              ],
+              "notes": "Pour 있다 et 없다-, on ajoute -는."
+            },
+            {
+              "order": 2,
+              "title_ko": "보다",
+              "title_translit": "boda",
+              "summary_fr": "Particule de comparaison.",
+              "explanation_fr": "Ceci est ajouté à un nom afin d'exprimer une comparaison. Il est utilisé pour comparer des éléments de la même catégorie.",
+              "explanation_en": "This is added to a noun in order to express a comparison. It is used when comparing items of the same category.",
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "동생이 저보다 커요.",
+                  "romanization": null,
+                  "french": "Mon frère est plus grand que moi.",
+                  "english": "My brother is bigger than me."
+                },
+                {
+                  "korean": "지하철이 버스보다 빠릅니다.",
+                  "romanization": null,
+                  "french": "Le métro est plus rapide que le bus.",
+                  "english": "The subway is faster than the bus."
+                },
+                {
+                  "korean": "유키 씨는 커피보다 녹차를 더 좋아해요.",
+                  "romanization": null,
+                  "french": "Yuki aime plus le thé vert que le café.",
+                  "english": "Yuki likes green tea more than coffee."
+                },
+                {
+                  "korean": "이것보다 큰 신발이 있어요?",
+                  "romanization": null,
+                  "french": "Avez-vous des chaussures plus grandes que celles-ci ?",
+                  "english": "Do you have a bigger shoes than this?"
+                },
+                {
+                  "korean": "가: 서울이 제주도보다 추워요?\n나: 네, 서울이 제주도보다 추워요.",
+                  "romanization": null,
+                  "french": "A : Est-ce que Séoul est plus froide que l'île de Jeju ?\nB : Oui, Séoul est plus froide que l'île de Jeju.",
+                  "english": "A: Is Seoul colder than Jeju-do?\nB: Yes, Seoul is colder than Jeju-do."
+                },
+                {
+                  "korean": "가: 누가 노래를 더 잘해요?\n나: 리타오 씨가 에릭 씨보다 노래를 잘 해요.",
+                  "romanization": null,
+                  "french": "A : Qui chante le mieux ?\nB : Letao chante mieux qu'Eric.",
+                  "english": "A: Who sings better?\nB: Letao sings better than Eric."
+                }
+              ],
+              "notes": null
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title_ko": "여자들이 가장 좋아하는 꽃은 무엇입니까?",
+          "title_fr": "Quelles sont les fleurs préférées des femmes ?",
+          "dialogue_ko": "주인: 어서 오세요. 무엇을 찾으세요?\n주앙: 여자들이 가장 좋아하는 꽃이 뭐예요?\n주인: 장미를 가장 좋아해요. 한 송이에 오백 원이에요.\n주앙: 그럼 스무 송이 주세요.",
+          "dialogue_fr": "Propriétaire : Bienvenue. Que cherchez-vous ?\nJuang : Quelles sont les fleurs préférées des femmes ?\nPropriétaire : Leurs préférées sont les roses. Une rose coûte cinq cents wons.\nJuang : Alors, donnez-m'en vingt.",
+          "dialogue_vocabulary": [
+            {
+              "hangeul": "들",
+              "romanization": null,
+              "translation_fr": "un suffixe pour exprimer le pluriel",
+              "translation_en": "a suffix to express plural",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "송이",
+              "romanization": null,
+              "translation_fr": "mot de comptage pour les fleurs",
+              "translation_en": "counting word for flower",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "스물(스무)",
+              "romanization": null,
+              "translation_fr": "vingt",
+              "translation_en": "twenty",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "찾다",
+              "romanization": null,
+              "translation_fr": "trouver",
+              "translation_en": "to find",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "어서 오세요",
+              "romanization": null,
+              "translation_fr": "Bienvenue",
+              "translation_en": "Welcome",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "장미",
+              "romanization": null,
+              "translation_fr": "rose",
+              "translation_en": "rose",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "제일",
+              "romanization": null,
+              "translation_fr": "le plus",
+              "translation_en": "most",
+              "part_of_speech": null
+            }
+          ],
+          "vocabulary_expansion": [
+            {
+              "hangeul": "가게",
+              "romanization": null,
+              "translation_fr": "magasin",
+              "translation_en": "store",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "면세점",
+              "romanization": null,
+              "translation_fr": "boutique hors taxes",
+              "translation_en": "duty free shop",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "백화점",
+              "romanization": null,
+              "translation_fr": "grand magasin",
+              "translation_en": "department store",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "시장",
+              "romanization": null,
+              "translation_fr": "marché",
+              "translation_en": "market",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "주스",
+              "romanization": null,
+              "translation_fr": "jus",
+              "translation_en": "juice",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "잘",
+              "romanization": null,
+              "translation_fr": "bien",
+              "translation_en": "well",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "벌",
+              "romanization": null,
+              "translation_fr": "mot de comptage pour les vêtements",
+              "translation_en": "counting word for clothes",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "송이",
+              "romanization": null,
+              "translation_fr": "mot de comptage pour les fleurs",
+              "translation_en": "counting word for flowers",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "자루",
+              "romanization": null,
+              "translation_fr": "mot de comptage pour stylo/crayon",
+              "translation_en": "counting word for pen/pencil",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "장",
+              "romanization": null,
+              "translation_fr": "mot de comptage pour le papier",
+              "translation_en": "counting word for paper",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "켤레",
+              "romanization": null,
+              "translation_fr": "mot de comptage pour chaussures/chaussettes/gants",
+              "translation_en": "counting word for shoes/socks/gloves",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "곳",
+              "romanization": null,
+              "translation_fr": "endroit",
+              "translation_en": "place",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "바나나",
+              "romanization": null,
+              "translation_fr": "banane",
+              "translation_en": "banana",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "슈퍼마켓",
+              "romanization": null,
+              "translation_fr": "supermarché",
+              "translation_en": "supermarket",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "양말",
+              "romanization": null,
+              "translation_fr": "chaussettes",
+              "translation_en": "socks",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "크림빵",
+              "romanization": null,
+              "translation_fr": "pain à la crème",
+              "translation_en": "cream bread",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "권",
+              "romanization": null,
+              "translation_fr": "mot de comptage pour les livres",
+              "translation_en": "counting word for books",
+              "part_of_speech": null
+            }
+          ],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-는",
+              "title_translit": "-neun",
+              "summary_fr": "Modificateur de verbe d'action au présent.",
+              "explanation_fr": "Ceci est ajouté à un verbe d'action et à '있다, 없다' pour modifier le nom qui suit. Il exprime une action ou un mouvement se produisant au présent.",
+              "explanation_en": "This is added to an action verb and '있다, 없다' to modify the following noun. It expresses an action or movement occurring in present.",
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "요즘 읽는 책이 재미있어요.",
+                  "romanization": null,
+                  "french": "Le livre que je lis en ce moment est intéressant.",
+                  "english": "The book which I read now is interesting."
+                },
+                {
+                  "korean": "저는 춤을 잘 추는 사람을 좋아해요.",
+                  "romanization": null,
+                  "french": "J'aime les gens qui dansent bien.",
+                  "english": "I like people who dances well."
+                },
+                {
+                  "korean": "잘하는 운동이 뭐예요?",
+                  "romanization": null,
+                  "french": "Quel sport pratiquez-vous bien ?",
+                  "english": "What sport are you good at?"
+                },
+                {
+                  "korean": "우리 반에서 제일 열심히 공부하는 학생이 누구예요?",
+                  "romanization": null,
+                  "french": "Qui est l'étudiant qui travaille le plus dur dans notre classe ?",
+                  "english": "Who is the most hard working student in our class?"
+                },
+                {
+                  "korean": "가: 저 가수가 부르는 노래를 알아요?\n나: 네, 알아요. '아리랑'이에요.",
+                  "romanization": null,
+                  "french": "A : Connaissez-vous le nom de la chanson que ce chanteur chante ?\nB : Oui, je le connais. C'est 'Arirang'.",
+                  "english": "A: Do you know the name of the song that singer is singing?\nB: Yes, it's Arirang."
+                },
+                {
+                  "korean": "가: 지금 사는 곳이 어디예요?\n나: 신촌이에요.",
+                  "romanization": null,
+                  "french": "A : Où habitez-vous maintenant ?\nB : J'habite à Sinchon.",
+                  "english": "A: Where are you living now?\nB: I live in Sinchon."
+                }
+              ],
+              "notes": "Ceci ne doit être utilisé qu'avec un verbe d'action. Pour un verbe descriptif, on utilise '-은/ㄴ'."
+            },
+            {
+              "order": 2,
+              "title_ko": "에²",
+              "title_translit": "e²",
+              "summary_fr": "Particule indiquant l'unité (prix, mesure).",
+              "explanation_fr": "Ceci est ajouté à un compteur ou à un numéral pour spécifier l'unité de regroupement lors de l'expression de taux, de prix ou de mesures.",
+              "explanation_en": "This is added to a counter or a numeral to specify the unit of bundling when expressing rates, prices, or measurements.",
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "생선 한 마리에 오천 원이에요.",
+                  "romanization": null,
+                  "french": "C'est cinq mille wons par poisson.",
+                  "english": "It is five thousand won per on fish."
+                },
+                {
+                  "korean": "사과 다섯 개에 만 원이에요.",
+                  "romanization": null,
+                  "french": "C'est dix mille wons pour cinq pommes.",
+                  "english": "It's ten thousand won per five apples."
+                },
+                {
+                  "korean": "연필 세 자루에 이천 원입니다.",
+                  "romanization": null,
+                  "french": "C'est deux mille wons pour trois crayons.",
+                  "english": "It's two thousand won per three pencils."
+                },
+                {
+                  "korean": "양말 한 켤레에 얼마예요?",
+                  "romanization": null,
+                  "french": "Combien coûte une paire de chaussettes ?",
+                  "english": "How much is a pair of socks?"
+                },
+                {
+                  "korean": "가: 이 주스 얼마예요?\n나: 한 병에 이천 원이에요.",
+                  "romanization": null,
+                  "french": "A : Combien coûte ce jus ?\nB : Une bouteille coûte deux mille wons.",
+                  "english": "A: How much is this juice?\nB: A bottle is two thousand won."
+                },
+                {
+                  "korean": "가: 장미는 얼마예요?\n나: 열 송이에 이만 팔천 원이에요.",
+                  "romanization": null,
+                  "french": "A : Combien coûte une rose ?\nB : C'est vingt-huit mille wons pour dix roses.",
+                  "english": "A: How much is a rose?\nB: It is twenty-eight thousand won per ten roses."
+                }
+              ],
+              "notes": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 14,
+      "title_ko": "생일",
+      "title_fr": "Anniversaire",
+      "sections": [
+        {
+          "order": 1,
+          "title_ko": "제가 모두를 위해 케이크를 샀어요.",
+          "title_fr": "J'ai acheté un gâteau pour tout le monde.",
+          "dialogue_ko": "Olivia: 유키 씨, 황 씨에게 무슨 선물을 할 거예요? Yuki: 글쎄요, 이따가 백화점에 갈 거예요. Olivia: 노라 씨, 황 씨에게 생일 선물을 줬어요? Nora: 네, 화장품을 샀어요. 그리고 모두를 위해 케이크를 샀어요.",
+          "dialogue_fr": "Olivia : Yuki, qu'est-ce que tu vas offrir à Huang comme cadeau ? Yuki : Eh bien, j'irai au grand magasin plus tard. Olivia : Nora, as-tu offert un cadeau d'anniversaire à Huang ? Nora : Oui, j'ai acheté des cosmétiques. Et j'ai acheté un gâteau pour tout le monde.",
+          "dialogue_vocabulary": [
+            {
+              "hangeul": "모두",
+              "romanization": null,
+              "translation_fr": "tout le monde/tous",
+              "translation_en": "everyone/all",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "케이크",
+              "romanization": null,
+              "translation_fr": "gâteau",
+              "translation_en": "cake",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "선물하다",
+              "romanization": null,
+              "translation_fr": "offrir un cadeau",
+              "translation_en": "to give a gift",
+              "part_of_speech": null
+            }
+          ],
+          "vocabulary_expansion": [
+            {
+              "hangeul": "것",
+              "romanization": null,
+              "translation_fr": "chose",
+              "translation_en": "thing",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "넥타이",
+              "romanization": null,
+              "translation_fr": "cravate",
+              "translation_en": "tie",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "생신",
+              "romanization": null,
+              "translation_fr": "anniversaire (honorifique)",
+              "translation_en": "birthday(honorific)",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "액세서리",
+              "romanization": null,
+              "translation_fr": "accessoires",
+              "translation_en": "accessories",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "인형",
+              "romanization": null,
+              "translation_fr": "poupée",
+              "translation_en": "doll",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "화장품",
+              "romanization": null,
+              "translation_fr": "cosmétiques",
+              "translation_en": "cosmetics",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "말씀드리다",
+              "romanization": null,
+              "translation_fr": "dire (honorifique)",
+              "translation_en": "to say(honorific)",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "꽃다발",
+              "romanization": null,
+              "translation_fr": "bouquet de fleurs",
+              "translation_en": "bouquet of flower",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "상품권",
+              "romanization": null,
+              "translation_fr": "chèque-cadeau",
+              "translation_en": "gift certificate",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "시디",
+              "romanization": null,
+              "translation_fr": "CD",
+              "translation_en": "CD",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "이메일",
+              "romanization": null,
+              "translation_fr": "e-mail",
+              "translation_en": "e-mail",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "향수",
+              "romanization": null,
+              "translation_fr": "parfum",
+              "translation_en": "perfume",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "드리다",
+              "romanization": null,
+              "translation_fr": "donner (honorifique)",
+              "translation_en": "to give(honorific)",
+              "part_of_speech": null
+            }
+          ],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "에게",
+              "title_translit": null,
+              "summary_fr": "Ceci est ajouté à un nom personnel ou animal pour exprimer que le nom auquel il est attaché est le destinataire de l'action.",
+              "explanation_fr": "Ceci est ajouté à un nom personnel ou animal pour exprimer que le nom auquel il est attaché est le destinataire de l'action. Il est principalement utilisé avec des verbes d'action tels que 주다 (donner), 보내다 (envoyer), 가르치다 (enseigner), 빌려주다 (prêter). Dans le langage familier, il peut être remplacé par 한테, et lorsqu'une personne respectable (une personne à qui l'orateur doit montrer du respect) est le destinataire de l'action, 께 est utilisé.",
+              "explanation_en": "This is added to a personal or animal noun in order to express that the noun it is attached to is the recipient of the action. It is mostly used with action verbs such as 주다 (to give), 보내다 (to send), 가르치다 (to teach), 빌려주다 (to lend). In colloquial speech, it can be replaced with 한테, and when a respectable person (a person that the speaker needs to show respect to) is the recipient of the action, 께 is used.",
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "어제 동생에게 선물을 보냈어요.",
+                  "romanization": null,
+                  "french": "Hier, j'ai envoyé un cadeau à mon frère.",
+                  "english": "Yesterday, I sent a gift to my brother."
+                },
+                {
+                  "korean": "오늘 저녁에 어머니께 전화드릴 거예요.",
+                  "romanization": null,
+                  "french": "Ce soir, j'appellerai ma mère.",
+                  "english": "This evening, I will call my mother."
+                },
+                {
+                  "korean": "김 선생님께서 저에게 한국말을 가르치세요.",
+                  "romanization": null,
+                  "french": "M. Kim m'enseigne le coréen.",
+                  "english": "Mr. Kim teaches Korean to me."
+                },
+                {
+                  "korean": "친구한테 무엇을 줄까요?",
+                  "romanization": null,
+                  "french": "Que devrions-nous donner à notre ami ?",
+                  "english": "What should we give to our friend?"
+                },
+                {
+                  "korean": "가: 여자 친구한테 이메일을 보내요?\n나: 네, 여자 친구한테 가끔 이메일을 보내요.",
+                  "romanization": null,
+                  "french": "A : Envoyez-vous des e-mails à votre petite amie ? B : Oui, je lui envoie parfois des e-mails.",
+                  "english": "A: Do you send emails to your girlfriend? B: Yes, I email her sometimes."
+                },
+                {
+                  "korean": "가: 누구에게 숙제공책을 드렸어요?\n나: 김 선생님께 숙제공책을 드렸어요.",
+                  "romanization": null,
+                  "french": "A : À qui avez-vous donné votre cahier de devoirs ? B : J'ai donné mon cahier de devoirs à M. Kim.",
+                  "english": "A: Who did you give your homework Notebook to? B: I gave my homework Notebook to Mr. Kim."
+                }
+              ],
+              "notes": null
+            },
+            {
+              "order": 2,
+              "title_ko": "-을/ㄹ",
+              "title_translit": null,
+              "summary_fr": "Ceci est ajouté à un verbe d'action ou à un verbe descriptif pour modifier le nom suivant.",
+              "explanation_fr": "Ceci est ajouté à un verbe d'action ou à un verbe descriptif pour modifier le nom suivant. Il exprime une situation future, une prédiction, un plan et des intentions.",
+              "explanation_en": "This is added to an action verb or a descriptive verb to modify the following noun. It is to express future situation, prediction, plan, and intentions.",
+              "form_notes": "Action verb and descriptive verb stem ending | Combine with | Example Consonant | -을 | 먹을, 앉을, 좋을 Vowel, 'ㄹ' | -ㄹ | 볼, 만들, 깨끗할",
+              "examples": [
+                {
+                  "korean": "내일 할 일이 많아요.",
+                  "romanization": null,
+                  "french": "J'ai beaucoup de travail à faire demain.",
+                  "english": "I have a lot of work to do tomorrow."
+                },
+                {
+                  "korean": "냉장고에 먹을 것이 없어요.",
+                  "romanization": null,
+                  "french": "Il n'y a rien à manger dans le réfrigérateur.",
+                  "english": "There is nothing to eat in the refrigerator."
+                },
+                {
+                  "korean": "주말에 볼 영화가 한국 영화예요.",
+                  "romanization": null,
+                  "french": "Le film que je vais regarder ce week-end est un film coréen.",
+                  "english": "The movie I am going to watch on the weekend is a Korean movie."
+                },
+                {
+                  "korean": "오후에 만날 사람이 있어요?",
+                  "romanization": null,
+                  "french": "Avez-vous quelqu'un à rencontrer cet après-midi ?",
+                  "english": "Do you have someone to meet in the afternoon?"
+                },
+                {
+                  "korean": "가: 내일 만날까요?\n나: 미안해요, 바빠서 만날 시간이 없어요.",
+                  "romanization": null,
+                  "french": "A : Devrions-nous nous rencontrer demain ? B : Désolé, je n'ai pas le temps de vous rencontrer car je suis occupé.",
+                  "english": "A: Shall we meet tomorrow? B: Sorry, I don't have the time to meet you cause I'm busy."
+                },
+                {
+                  "korean": "가: 어디에 가요?\n나: 저녁에 먹을 것을 사러 가요.",
+                  "romanization": null,
+                  "french": "A : Où allez-vous ? B : Je vais acheter quelque chose à manger pour le dîner.",
+                  "english": "A: Where are you going? B: I'm going to buy something to eat for dinner."
+                }
+              ],
+              "notes": null
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title_ko": "우리가 준비한 생일 케이크예요.",
+          "title_fr": "C'est un gâteau d'anniversaire que nous avons préparé.",
+          "dialogue_ko": "Nora: 황 씨, 생일 축하해요. 우리가 준비한 생일 케이크예요. Huang: 와, 제가 제일 좋아하는 초콜릿 케이크네요. Nora: 존 씨하고 제가 골랐어요. Huang: 정말 고마워요. 우리 같이 케이크를 먹을까요?",
+          "dialogue_fr": "Nora : Huang, joyeux anniversaire. C'est le gâteau d'anniversaire que nous avons préparé. Huang : Wow, c'est mon gâteau au chocolat préféré. Nora : John et moi l'avons choisi. Huang : Merci beaucoup. Devrions-nous manger le gâteau ensemble ?",
+          "dialogue_vocabulary": [
+            {
+              "hangeul": "초콜릿",
+              "romanization": null,
+              "translation_fr": "chocolat",
+              "translation_en": "chocolate",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "준비하다",
+              "romanization": null,
+              "translation_fr": "préparer",
+              "translation_en": "to prepare",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "정말",
+              "romanization": null,
+              "translation_fr": "vraiment",
+              "translation_en": "really",
+              "part_of_speech": null
+            }
+          ],
+          "vocabulary_expansion": [
+            {
+              "hangeul": "여기저기",
+              "romanization": null,
+              "translation_fr": "ici et là",
+              "translation_en": "here and there",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "생일축하 노래를 부르다",
+              "romanization": null,
+              "translation_fr": "chanter une chanson d'anniversaire",
+              "translation_en": "to sing a birthday song",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "선물을 고르다",
+              "romanization": null,
+              "translation_fr": "choisir un cadeau",
+              "translation_en": "to pick a gift",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "카드를 쓰다",
+              "romanization": null,
+              "translation_fr": "écrire une carte",
+              "translation_en": "to write a card",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "케이크를 자르다",
+              "romanization": null,
+              "translation_fr": "couper un gâteau",
+              "translation_en": "to cut cake",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "풍선을 불다",
+              "romanization": null,
+              "translation_fr": "gonfler un ballon",
+              "translation_en": "to blow a ballon",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "고르다",
+              "romanization": null,
+              "translation_fr": "choisir",
+              "translation_en": "to pick",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "축하하다",
+              "romanization": null,
+              "translation_fr": "féliciter",
+              "translation_en": "to congratulate",
+              "part_of_speech": null
+            }
+          ],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-은/ㄴ²",
+              "title_translit": null,
+              "summary_fr": "Ceci est ajouté à un verbe d'action pour modifier le nom suivant.",
+              "explanation_fr": "Ceci est ajouté à un verbe d'action pour modifier le nom suivant. Il exprime le mouvement ou l'action qui s'est produite dans le passé ou qui est terminée.",
+              "explanation_en": "This is added to an action verb to modify the following noun. It expresses the movement or the action that occurred in the past or completed.",
+              "form_notes": "Action verb and descriptive verb stem ending | Combine with | Example Consonant | -은 | 먹은, 앉은 Vowel, 'ㄹ' | -ㄴ | 본, 만든",
+              "examples": [
+                {
+                  "korean": "이것이 어제 산 운동화예요.",
+                  "romanization": null,
+                  "french": "Ce sont les baskets que j'ai achetées hier.",
+                  "english": "This is the sneaker I bought yesterday."
+                },
+                {
+                  "korean": "어제 먹은 비빔밥이 맛있었어요.",
+                  "romanization": null,
+                  "french": "Le bibimbap que j'ai mangé hier était délicieux.",
+                  "english": "Bibimbap I ate yesterday was delicious."
+                },
+                {
+                  "korean": "지난주에 본 영화는 코미디 영화였어요.",
+                  "romanization": null,
+                  "french": "Le film que j'ai vu la semaine dernière était une comédie.",
+                  "english": "The movie I saw last week was a comedy movie."
+                },
+                {
+                  "korean": "빨간 색 옷을 입은 사람이 누구예요?",
+                  "romanization": null,
+                  "french": "Qui est cette personne qui porte une chemise rouge ?",
+                  "english": "Who is that wearing a red shirt?"
+                },
+                {
+                  "korean": "가: 꽃을 샀어요?\n나: 아니요, 친구가 준 꽃이에요.",
+                  "romanization": null,
+                  "french": "A : Avez-vous acheté la fleur ? B : Non, c'est une fleur que mon ami m'a donnée.",
+                  "english": "A: Did you buy the flower? B: No, my friend gave it to me."
+                },
+                {
+                  "korean": "가: 어제 먹은 불고기가 어땠어요?\n나: 아주 맛있었어요.",
+                  "romanization": null,
+                  "french": "A : Comment était le bulgogi que vous avez mangé hier ? B : C'était très délicieux.",
+                  "english": "A: How was the bulgogi you ate yesterday? B: It was very delicious."
+                }
+              ],
+              "notes": null
+            },
+            {
+              "order": 2,
+              "title_ko": "르 동사",
+              "title_translit": null,
+              "summary_fr": "Pour certains verbes d'action ou verbes descriptifs dont la racine se termine par '르', la terminaison '-' est supprimée et un 'ㄹ' supplémentaire est ajouté lorsqu'il est suivi de '아/어'.",
+              "explanation_fr": "Pour certains verbes d'action ou verbes descriptifs dont la racine se termine par '르', la terminaison '-' est supprimée et un 'ㄹ' supplémentaire est ajouté lorsqu'il est suivi de '아/어'. Par exemple, '빠르다' devient '빨라요, 빨랐어요' et '부르다' devient '불러요, 불렀어요'. Ce sont des 'verbes en 르' qui incluent des verbes descriptifs tels que '다르다, 빠르다....' et des verbes d'action tels que '고르다, 모르다, 부르다, 자르다.....",
+              "explanation_en": "For some action verbs or descriptive verbs that their stem ends in '르', ending, '-' is dropped and one more 'ㄹ' is added when followed by '아/어'. For Example, '빠르다' becomes '빨라요, 빨랐어요' and '부르다' becomes 불러요, '불렀어요'. These are called '르 verb'that includes descriptive verbs such as '다르다, 빠르다....' and action verbs such as '고르다, 모르다, 부르다, 자르다.....",
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "존 씨가 쉬는 시간에 노래를 불러요.",
+                  "romanization": null,
+                  "french": "John chante pendant la pause.",
+                  "english": "John sings during a break time."
+                },
+                {
+                  "korean": "저는 더워서 머리를 잘랐습니다.",
+                  "romanization": null,
+                  "french": "J'ai coupé mes cheveux parce qu'il faisait chaud.",
+                  "english": "I cut my hair because it was hot."
+                },
+                {
+                  "korean": "흐엉 씨가 한국말을 몰라서 대답하지 못했어요.",
+                  "romanization": null,
+                  "french": "Huang n'a pas pu répondre parce qu'elle ne connaît pas le coréen.",
+                  "english": "Huang couldn't answer because she doesn't know Korean."
+                },
+                {
+                  "korean": "두 사람은 성격이 많이 달라요?",
+                  "romanization": null,
+                  "french": "Sont-ils très différents de caractère ?",
+                  "english": "Are they different a lot in character?"
+                },
+                {
+                  "korean": "가: 영어를 알아요?\n나: 아니요, 저는 영어를 몰라요.",
+                  "romanization": null,
+                  "french": "A : Connaissez-vous l'anglais ? B : Non, je ne connais pas l'anglais.",
+                  "english": "A: Do you know English? B: No, I don't know English."
+                },
+                {
+                  "korean": "가: 어제 노래방에서 무슨 노래를 불렀어요?\n나: 저는 중국 노래를 불렀어요.",
+                  "romanization": null,
+                  "french": "A : Quel genre de chanson avez-vous chanté hier à la salle de karaoké ? B : J'ai chanté de la musique chinoise.",
+                  "english": "A: What kind of song did you sing yesterday at the singing room? B: I sang Chinese music."
+                }
+              ],
+              "notes": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 15,
+      "title_ko": "전화",
+      "title_fr": "Téléphone",
+      "sections": [
+        {
+          "order": 1,
+          "title_ko": "전화번호 좀 가르쳐 주세요",
+          "title_fr": "S'il vous plaît, donnez-moi votre numéro de téléphone",
+          "dialogue_ko": null,
+          "dialogue_fr": null,
+          "dialogue_vocabulary": [
+            {
+              "hangeul": "전화번호",
+              "romanization": "jeonhwabeonho",
+              "translation_fr": "numéro de téléphone",
+              "translation_en": "telephone number",
+              "part_of_speech": "nom"
+            },
+            {
+              "hangeul": "좀",
+              "romanization": "jom",
+              "translation_fr": "s'il vous plaît",
+              "translation_en": "please",
+              "part_of_speech": "adverbe"
+            },
+            {
+              "hangeul": "잠깐만요",
+              "romanization": "jamkkanmanyo",
+              "translation_fr": "un instant",
+              "translation_en": "one moment",
+              "part_of_speech": "interjection"
+            }
+          ],
+          "vocabulary_expansion": [
+            {
+              "hangeul": "국가 번호",
+              "romanization": "gukga beonho",
+              "translation_fr": "indicatif de pays",
+              "translation_en": "country code",
+              "part_of_speech": "nom"
+            },
+            {
+              "hangeul": "지역 번호",
+              "romanization": "jiyeok beonho",
+              "translation_fr": "indicatif régional",
+              "translation_en": "area code",
+              "part_of_speech": "nom"
+            },
+            {
+              "hangeul": "전화번호",
+              "romanization": "jeonhwabeonho",
+              "translation_fr": "numéro de téléphone",
+              "translation_en": "telephone number",
+              "part_of_speech": "nom"
+            },
+            {
+              "hangeul": "휴대전화",
+              "romanization": "hyudaejeonhwa",
+              "translation_fr": "téléphone portable",
+              "translation_en": "cell phone",
+              "part_of_speech": "nom"
+            }
+          ],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-지요?",
+              "title_translit": "-jiyo?",
+              "summary_fr": "Utilisé pour confirmer une information déjà connue ou pour chercher l'accord de l'interlocuteur.",
+              "explanation_fr": "Cette terminaison est ajoutée à un verbe d'action ou un verbe descriptif afin de confirmer un état déjà connu. C'est une fin de phrase interrogative qui cherche l'accord.",
+              "explanation_en": "This is added to an action verb or a descriptive verb in order to confirm an already-known state. It is an interrogative sentence ending that seeks agreement.",
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "날씨가 춥지요?",
+                  "romanization": "Nalssiga chupjiyo?",
+                  "french": "Le temps est froid, n'est-ce pas ?",
+                  "english": "The weather is cold, isn't it?"
+                },
+                {
+                  "korean": "존 씨가 농구를 좋아하지요?",
+                  "romanization": "Jon ssiga nonggureul joahajiyo?",
+                  "french": "John aime le basketball, n'est-ce pas ?",
+                  "english": "John like basketball, doesn't he?"
+                },
+                {
+                  "korean": "흐엉 씨는 베트남사람이지요?",
+                  "romanization": "Heueong ssineun beteunamsaramijiyo?",
+                  "french": "Huang est Vietnamienne, n'est-ce pas ?",
+                  "english": "Huang is Vietnamese, isn't she?"
+                },
+                {
+                  "korean": "어제 먹은 삼계탕이 맛있었지요?",
+                  "romanization": "Eoje meogeun samgyetangi masisseotjiyo?",
+                  "french": "Le samgyetang d'hier était délicieux, n'est-ce pas ?",
+                  "english": "Samgyetang from yesterday was delicious, wasn't it?"
+                },
+                {
+                  "korean": "가: 장미가 예쁘지요?\n나: 네, 아주 예뻐요.",
+                  "romanization": "ga: Jangmiga yeppeujiyo?\nna: Ne, aju yeppeoyo.",
+                  "french": "A: La rose est jolie, n'est-ce pas ?\nB: Oui, elle est très jolie.",
+                  "english": "A: The rose is pretty, isn't it?\nB: Yes, it's very pretty."
+                },
+                {
+                  "korean": "가: 저 사람이 노라 씨예요?\n나: 네, 노라 씨가 태권도를 잘하지요?",
+                  "romanization": "ga: Jeo sarami Nora ssiyeyo?\nna: Ne, Nora ssiga taegwondoreul jalhajiyo?",
+                  "french": "A: Est-ce que cette personne est Nora ?\nB: Oui, Nora est douée en Taekwondo, n'est-ce pas ?",
+                  "english": "A: Is that person Nora?\nB: Yes, Nora is good at Taekwondo, isn't she?"
+                }
+              ],
+              "notes": null
+            },
+            {
+              "order": 2,
+              "title_ko": "-어/아/여 주다",
+              "title_translit": "-eo/a/yeo juda",
+              "summary_fr": "Exprime une action faite pour quelqu'un d'autre, utilisé pour demander ou offrir de l'aide.",
+              "explanation_fr": "Cette forme est ajoutée à un verbe d'action pour exprimer que l'action est pour une autre personne. Elle est utilisée pour faire des requêtes à autrui ou pour aider les autres.",
+              "explanation_en": "This is added to an action verb to express the action is for another person. It is used when requesting to others or assisting others.",
+              "form_notes": "`-아 주다` est ajouté lorsque la voyelle finale du radical du verbe est ㅏ ou ㅗ. Lorsque la voyelle finale du radical est une autre voyelle (ㅓ, ㅜ, ㅡ, ㅣ), `-어 주다` est ajouté. `-여 주다` (해 주다) est ajouté lorsque le verbe d'action se termine par 하다.",
+              "examples": [
+                {
+                  "korean": "도와주세요.",
+                  "romanization": "Dowajuseyo.",
+                  "french": "Aidez-moi.",
+                  "english": "Help me."
+                },
+                {
+                  "korean": "잠깐만 기다려 주십시오.",
+                  "romanization": "Jamkkanman gidaryeo jusipsio.",
+                  "french": "Veuillez patienter un instant.",
+                  "english": "Please wait a moment."
+                },
+                {
+                  "korean": "선생님, 천천히 말씀해 주세요.",
+                  "romanization": "Seonsaengnim, cheoncheonhi malsseumhae juseyo.",
+                  "french": "Professeur, parlez lentement s'il vous plaît.",
+                  "english": "Teacher, please speak slowly."
+                },
+                {
+                  "korean": "어머니, 딸기 좀 사주세요.",
+                  "romanization": "Eomeoni, ttalgi jom sajuseyo.",
+                  "french": "Maman, s'il te plaît, achète-moi des fraises.",
+                  "english": "Mother, please buy me strawberries."
+                },
+                {
+                  "korean": "가: 지금은 바쁘니까 이따가 전화해 주세요.\n나: 네, 알겠습니다.",
+                  "romanization": "ga: Jigeumeun bappeunikka ittaga jeonhwahae juseyo.\nna: Ne, algesseumnida.",
+                  "french": "A: Je suis occupé maintenant, s'il vous plaît appelez-moi plus tard.\nB: Oui, d'accord.",
+                  "english": "A: I'm busy, please call me later.\nB: Yes, okay."
+                },
+                {
+                  "korean": "가: 뭘 만들어 줄까요?\n나: 피자를 만들어 주세요.",
+                  "romanization": "ga: Mwol mandeureo julkkayo?\nna: Pijareul mandeureo juseyo.",
+                  "french": "A: Qu'est-ce que vous aimeriez que je vous prépare ?\nB: Faites-moi une pizza.",
+                  "english": "A: What would you like me to make for you?\nB: Make me a pizza."
+                }
+              ],
+              "notes": "Ne doit être utilisé qu'avec un verbe d'action."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title_ko": "유키 씨한테서 전화 왔어요?",
+          "title_fr": "Avez-vous reçu un appel de Yuki ?",
+          "dialogue_ko": null,
+          "dialogue_fr": null,
+          "dialogue_vocabulary": [
+            {
+              "hangeul": "이야기",
+              "romanization": "iyagi",
+              "translation_fr": "histoire",
+              "translation_en": "story",
+              "part_of_speech": "nom"
+            },
+            {
+              "hangeul": "여보세요",
+              "romanization": "yeoboseyo",
+              "translation_fr": "allô",
+              "translation_en": "hello",
+              "part_of_speech": "interjection"
+            },
+            {
+              "hangeul": "파티",
+              "romanization": "pati",
+              "translation_fr": "fête",
+              "translation_en": "party",
+              "part_of_speech": "nom"
+            },
+            {
+              "hangeul": "전화를 받다",
+              "romanization": "jeonhwareul batda",
+              "translation_fr": "recevoir un appel",
+              "translation_en": "to receive a call",
+              "part_of_speech": "verbe"
+            }
+          ],
+          "vocabulary_expansion": [
+            {
+              "hangeul": "뉴스",
+              "romanization": "nyuseu",
+              "translation_fr": "nouvelles, actualités",
+              "translation_en": "news",
+              "part_of_speech": "nom"
+            },
+            {
+              "hangeul": "통화중이다",
+              "romanization": "tonghwajungida",
+              "translation_fr": "la ligne est occupée",
+              "translation_en": "the line is busy",
+              "part_of_speech": "expression"
+            },
+            {
+              "hangeul": "문자메시지를 받다",
+              "romanization": "munjamesijireul batda",
+              "translation_fr": "recevoir un SMS",
+              "translation_en": "to receive a text message",
+              "part_of_speech": "verbe"
+            },
+            {
+              "hangeul": "문자메시지를 보내다",
+              "romanization": "munjamesijireul bonaeda",
+              "translation_fr": "envoyer un SMS",
+              "translation_en": "to send a text message",
+              "part_of_speech": "verbe"
+            },
+            {
+              "hangeul": "전화가 오다",
+              "romanization": "jeonhwaga oda",
+              "translation_fr": "un appel arrive",
+              "translation_en": "call is coming",
+              "part_of_speech": "verbe"
+            },
+            {
+              "hangeul": "전화를 걸다",
+              "romanization": "jeonhwareul geolda",
+              "translation_fr": "passer un appel",
+              "translation_en": "to make a call",
+              "part_of_speech": "verbe"
+            },
+            {
+              "hangeul": "전화를 끊다",
+              "romanization": "jeonhwareul kkeunta",
+              "translation_fr": "raccrocher",
+              "translation_en": "to hang up a call",
+              "part_of_speech": "verbe"
+            },
+            {
+              "hangeul": "전화를 바꾸다",
+              "romanization": "jeonhwareul bakkuda",
+              "translation_fr": "passer quelqu'un au téléphone",
+              "translation_en": "to put someone in the phone",
+              "part_of_speech": "verbe"
+            },
+            {
+              "hangeul": "전화를 받다",
+              "romanization": "jeonhwareul batda",
+              "translation_fr": "recevoir un appel",
+              "translation_en": "to receive a call",
+              "part_of_speech": "verbe"
+            },
+            {
+              "hangeul": "전화하다",
+              "romanization": "jeonhwahada",
+              "translation_fr": "appeler",
+              "translation_en": "to call",
+              "part_of_speech": "verbe"
+            }
+          ],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "에게서(한테서)",
+              "title_translit": "egeseo(hanteseo)",
+              "summary_fr": "Indique le point de départ d'une action, souvent 'de' quelqu'un.",
+              "explanation_fr": "Cette particule est ajoutée à un nom de personne pour exprimer le point de départ d'une action. Elle peut être utilisée de manière interchangeable avec 한테서.",
+              "explanation_en": "This is added to a personal noun in order to express the starting point of an action. It can be used interchangeably with 한테서.",
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "날마다 부모님에게서 전화가 와요.",
+                  "romanization": "Nalmada bumonimegeseo jeonhwaga wayo.",
+                  "french": "Chaque jour, je reçois un appel de mes parents.",
+                  "english": "Everyday I receive the call from my parents."
+                },
+                {
+                  "korean": "친구에게서 재미있는 책을 빌렸어요.",
+                  "romanization": "Chinguegeseo jaemiinneun chaegeul billyeosseoyo.",
+                  "french": "J'ai emprunté un livre intéressant à un ami.",
+                  "english": "I borrowed an interesting book from my friend."
+                },
+                {
+                  "korean": "리타오 씨한테서 중국말을 배울 거예요.",
+                  "romanization": "Ritao ssihanteseo junggungmareul baeul geoyeyo.",
+                  "french": "Je vais apprendre le chinois de Litao.",
+                  "english": "I am going to learn Chinese from Letao."
+                },
+                {
+                  "korean": "누구한테서 선물을 받았습니까?",
+                  "romanization": "Nuguhanteseo seonmureul badatseumnikka?",
+                  "french": "De qui avez-vous reçu le cadeau ?",
+                  "english": "Who did you receive the gift from?"
+                },
+                {
+                  "korean": "가: 생일에 친구들에게서 선물을 받았어요.\n나: 무슨 선물을 받았어요?",
+                  "romanization": "ga: Saengire chingudeuregeseo seonmureul badasseoyo.\nna: Museun seonmureul badasseoyo?",
+                  "french": "A: J'ai reçu des cadeaux de mes amis pour mon anniversaire.\nB: Quel genre de cadeau as-tu reçu ?",
+                  "english": "A: I received a birthday gift from my friends.\nB: What kind of gift did you get?"
+                },
+                {
+                  "korean": "가: 흐엉 씨, 그 이야기를 누구한테서 들었어요?\n나: 주앙 씨한테서 들었어요.",
+                  "romanization": "ga: Heueong ssi, geu iyagireul nuguhanteseo deureosseoyo?\nna: Juang ssihanteseo deureosseoyo.",
+                  "french": "A: Huang, de qui as-tu entendu cette histoire ?\nB: Je l'ai entendue de Juang.",
+                  "english": "A: Huang, who did you hear the story from?\nB: I heard it from Juang."
+                }
+              ],
+              "notes": "S'utilise avec des verbes d'action tels que '오다 (venir), 받다 (recevoir), 듣다 (entendre), 빌리다 (emprunter), 배우다 (apprendre), etc.'"
+            },
+            {
+              "order": 2,
+              "title_ko": "-을/ㄹ 수 있다(없다)",
+              "title_translit": "-eul/l su itda(eopda)",
+              "summary_fr": "Exprime la capacité ou la possibilité de faire quelque chose ('pouvoir') ou l'incapacité/impossibilité ('ne pas pouvoir').",
+              "explanation_fr": "Cette forme est ajoutée à un verbe pour exprimer la capacité de faire quelque chose ou la possibilité d'une action. La forme négative est -을/ㄹ 수 없다.",
+              "explanation_en": "This is added to a verb in order to express the ability to do something or the possibility of an action. The negative Form is -을/ㄹ 수 없다.",
+              "form_notes": "`-을 수 있다(없다)` est ajouté lorsque le radical se termine par une consonne. `-ㄹ 수 있다(없다)` est ajouté lorsque le radical se termine par une voyelle ou par la consonne ㄹ.",
+              "examples": [
+                {
+                  "korean": "저는 운전을 할 수 있어요.",
+                  "romanization": "Jeoneun unjeoneul hal su isseoyo.",
+                  "french": "Je sais conduire.",
+                  "english": "I can drive well."
+                },
+                {
+                  "korean": "노라 씨가 케이크를 만들 수 있어요.",
+                  "romanization": "Nora ssiga keikeureul mandeul su isseoyo.",
+                  "french": "Nora peut faire un gâteau.",
+                  "english": "Nora can bake a cake."
+                },
+                {
+                  "korean": "유키 씨가 매운 음식을 먹을 수 없습니다.",
+                  "romanization": "Yuki ssiga maeun eumsigeul meogeul su eopseumnida.",
+                  "french": "Yuki ne peut pas manger de nourriture épicée.",
+                  "english": "Yuki can't eat spicy food."
+                },
+                {
+                  "korean": "올리비아 씨, 내일 만날 수 있어요?",
+                  "romanization": "Ollibia ssi, naeil mannal su isseoyo?",
+                  "french": "Olivia, peut-on se voir demain ?",
+                  "english": "Olivia, can you meet me tomorrow?"
+                },
+                {
+                  "korean": "가: 제 생일 파티에 올 수 있어요?\n나: 네, 갈 수 있어요.",
+                  "romanization": "ga: Je saengil patie ol su isseoyo?\nna: Ne, gal su isseoyo.",
+                  "french": "A: Peux-tu venir à ma fête d'anniversaire ?\nB: Oui, je peux venir.",
+                  "english": "A: Can you come to my birthday party?\nB: Yes, I can go."
+                },
+                {
+                  "korean": "가: 리타오 씨, 한국 신문을 읽을 수 있어요?\n나: 아니요, 너무 어려워서 읽을 수 없어요.",
+                  "romanization": "ga: Ritao ssi, hanguk sinmuneul ilgeul su isseoyo?\nna: Aniyo, neomu eoryeowoseo ilgeul su eopseoyo.",
+                  "french": "A: Litao, peux-tu lire un journal coréen ?\nB: Non, c'est trop difficile donc je ne peux pas le lire.",
+                  "english": "A: Letao, can you read Korean newspaper?\nB: No, it is too difficult so I cannot read."
+                }
+              ],
+              "notes": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 16,
+      "title_ko": "교통",
+      "title_fr": "Transport",
+      "sections": [
+        {
+          "order": 1,
+          "title_ko": "명동까지 택시로 얼마나 걸려요?",
+          "title_fr": "Combien de temps faut-il pour aller à Myeongdong en taxi ?",
+          "dialogue_ko": "Haneul: 명동까지 뭘 타고 갈까요?Yuna: 가방이 무거우니까 택시를 타고 갑시다.Haneul: 명동까지 택시로 얼마나 걸려요?Yuna: 5분쯤 걸려요. 아주 가까워요.",
+          "dialogue_fr": "Haneul : Que devrions-nous prendre pour aller à Myeongdong ?Yuna : Mon sac est lourd, alors prenons un taxi.Haneul : Combien de temps faut-il pour aller à Myeongdong en taxi ?Yuna : Cela prend environ 5 minutes. C'est très proche.",
+          "dialogue_vocabulary": [
+            {
+              "hangeul": "택시",
+              "romanization": null,
+              "translation_fr": "taxi",
+              "translation_en": "taxi",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "걸리다",
+              "romanization": null,
+              "translation_fr": "prendre (du temps)",
+              "translation_en": "to take(time)",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "쯤",
+              "romanization": null,
+              "translation_fr": "environ",
+              "translation_en": "about",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "가깝다",
+              "romanization": null,
+              "translation_fr": "être proche",
+              "translation_en": "to be close",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "얼마나",
+              "romanization": null,
+              "translation_fr": "combien de temps",
+              "translation_en": "how long",
+              "part_of_speech": null
+            }
+          ],
+          "vocabulary_expansion": [
+            {
+              "hangeul": "고속버스",
+              "romanization": null,
+              "translation_fr": "bus express",
+              "translation_en": "express bus",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "기차",
+              "romanization": null,
+              "translation_fr": "train",
+              "translation_en": "train",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "버스",
+              "romanization": null,
+              "translation_fr": "bus",
+              "translation_en": "bus",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "오토바이",
+              "romanization": null,
+              "translation_fr": "moto",
+              "translation_en": "motorcycle",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "젓가락",
+              "romanization": null,
+              "translation_fr": "baguettes",
+              "translation_en": "chopsticks",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "지하철",
+              "romanization": null,
+              "translation_fr": "métro",
+              "translation_en": "subway",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "시간",
+              "romanization": null,
+              "translation_fr": "heure/temps",
+              "translation_en": "hour/time",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "공항버스",
+              "romanization": null,
+              "translation_fr": "bus de l'aéroport",
+              "translation_en": "airport bus",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "배",
+              "romanization": null,
+              "translation_fr": "bateau",
+              "translation_en": "ship",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "비행기",
+              "romanization": null,
+              "translation_fr": "avion",
+              "translation_en": "airplane",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "자전거",
+              "romanization": null,
+              "translation_fr": "vélo",
+              "translation_en": "bicycle",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "종업원",
+              "romanization": null,
+              "translation_fr": "employé",
+              "translation_en": "employee",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "택시",
+              "romanization": null,
+              "translation_fr": "taxi",
+              "translation_en": "taxi",
+              "part_of_speech": null
+            }
+          ],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "으로/로¹",
+              "title_translit": null,
+              "summary_fr": "Ceci est ajouté à un nom pour exprimer un outil, une méthode, un moyen ou un matériau utilisé pour faire quelque chose.",
+              "explanation_fr": "Ceci est ajouté à un nom pour exprimer un outil, une méthode, un moyen ou un matériau utilisé pour faire quelque chose.",
+              "explanation_en": "This is added to a noun in order to express a tool, method, means, or material used to do something.",
+              "form_notes": "| Noun ending | Combine with | Example ||---|---|---|| Consonant | 으로 | 숟가락으로, 볼펜으로 || Vowel, ㄹ | 로 | 한국어로, 지하철로 |",
+              "examples": [
+                {
+                  "korean": "저는 학교에 버스로 갑니다. 친구는 걸어서 갑니다.",
+                  "romanization": null,
+                  "french": "Je vais à l'école en bus. Mon ami marche.",
+                  "english": "I take bus to school. My friend is walking."
+                },
+                {
+                  "korean": "교실에서 영어로 이야기해요? 한국말로 이야기해요?",
+                  "romanization": null,
+                  "french": "En classe, devrions-nous parler en anglais ou en coréen ?",
+                  "english": "In class, should we speak in English or Korean?"
+                },
+                {
+                  "korean": "비빔밥은 숟가락으로 드세요.",
+                  "romanization": null,
+                  "french": "Utilisez une cuillère pour manger le bibimbap.",
+                  "english": "Use spoon when eating bibimbap."
+                },
+                {
+                  "korean": "지하철로 시간이 얼마나 걸립니까?",
+                  "romanization": null,
+                  "french": "Combien de temps faut-il en métro ?",
+                  "english": "How long does it take by subway?"
+                },
+                {
+                  "korean": "가: 부산에 기차로 갔어요?\n나: 네, 기차로 갔어요.",
+                  "romanization": null,
+                  "french": "A : Êtes-vous allé à Busan en train ?\nB : Oui, j'y suis allé en train.",
+                  "english": "A: Did you go to Busan by a train?B: Yes, I went by a train."
+                },
+                {
+                  "korean": "가: 이름을 무엇으로 쓸까요?\n나: 볼펜으로 쓰세요.",
+                  "romanization": null,
+                  "french": "A : Avec quoi devrais-je écrire mon nom ?\nB : Utilisez un stylo.",
+                  "english": "A: What should I use to write my name?B: Use a pen."
+                }
+              ],
+              "notes": null
+            },
+            {
+              "order": 2,
+              "title_ko": "에서 까지",
+              "title_translit": null,
+              "summary_fr": "Ceci est ajouté avant un nom de lieu pour exprimer les points de départ et d'arrivée. Il est utilisé pour montrer les lieux de départ et d'arrivée.",
+              "explanation_fr": "Ceci est ajouté avant un nom de lieu pour exprimer les points de départ et d'arrivée. Il est utilisé pour montrer les lieux de départ et d'arrivée.",
+              "explanation_en": "This is added before a locative noun to express starting and ending points. It is used to show the starting and ending locations.",
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "저는 집에서 학교까지 걸어서 가요.",
+                  "romanization": null,
+                  "french": "Je marche de ma maison à l'école.",
+                  "english": "I walk from my house to school."
+                },
+                {
+                  "korean": "인천에서 베이징까지 비행기로 2시간쯤 걸려요.",
+                  "romanization": null,
+                  "french": "D'Incheon à Pékin, cela prend environ 2 heures en avion.",
+                  "english": "From Incheon to Beijing, it takes about 2 hours by airplane."
+                },
+                {
+                  "korean": "2층에서 6층까지 교실이에요.",
+                  "romanization": null,
+                  "french": "Les salles de classe sont du deuxième au sixième étage.",
+                  "english": "From second floor to sixth floor are classrooms."
+                },
+                {
+                  "korean": "여기에서 집까지 가깝습니까?",
+                  "romanization": null,
+                  "french": "Est-ce proche de votre maison d'ici ?",
+                  "english": "Is it close to your house from here?"
+                },
+                {
+                  "korean": "가: 집에서 학교까지 멀어요?\n나: 네, 조금 멀어요.",
+                  "romanization": null,
+                  "french": "A : Est-ce loin de votre maison à l'école ?\nB : Oui, c'est un peu loin.",
+                  "english": "A: Is it far from your home to school?B: Yes, it's little far."
+                },
+                {
+                  "korean": "가: 서울에서 대전까지 얼마나 걸려요?\n나: 고속버스로 2시간 반쯤 걸려요.",
+                  "romanization": null,
+                  "french": "A : Combien de temps faut-il de Séoul à Daejeon ?\nB : Cela prend environ deux heures et demie en bus express.",
+                  "english": "A: How long does it take from Seoul to Daejeon?B: It takes about two and a half hours by an express bus."
+                }
+              ],
+              "notes": null
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title_ko": "지하철은 얼마나 자주 와요?",
+          "title_fr": "À quelle fréquence le métro arrive-t-il ?",
+          "dialogue_ko": "Juang: 여기서 코엑스까지 어떻게 가요?Haneul: 지하철 2호선을 타고 삼성역에서 내리면 돼요.Juang: 지하철은 얼마나 자주 와요?Haneul: 10분마다 와요.",
+          "dialogue_fr": "Juang : Comment puis-je aller à Coex d'ici ?Haneul : Vous devez prendre la ligne 2 du métro et descendre à la station Samsung.Juang : À quelle fréquence le métro arrive-t-il ?Haneul : Il arrive toutes les 10 minutes.",
+          "dialogue_vocabulary": [
+            {
+              "hangeul": "삼성역",
+              "romanization": null,
+              "translation_fr": "station Samsung",
+              "translation_en": "Samsung station",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "코엑스",
+              "romanization": null,
+              "translation_fr": "Coex",
+              "translation_en": "Coex",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "호선",
+              "romanization": null,
+              "translation_fr": "ligne de métro",
+              "translation_en": "subway line",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "내리다",
+              "romanization": null,
+              "translation_fr": "descendre",
+              "translation_en": "to get off",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "어떻게",
+              "romanization": null,
+              "translation_fr": "comment",
+              "translation_en": "how",
+              "part_of_speech": null
+            }
+          ],
+          "vocabulary_expansion": [],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-어야/아야/여야 하다",
+              "title_translit": null,
+              "summary_fr": "Ceci est ajouté à un verbe d'action ou à un verbe descriptif pour exprimer une condition requise ou une action qui doit être entreprise. Il peut aussi être exprimé comme -어야 되다.",
+              "explanation_fr": "Ceci est ajouté à un verbe d'action ou à un verbe descriptif pour exprimer une condition requise ou une action qui doit être entreprise. Il peut aussi être exprimé comme -어야 되다.",
+              "explanation_en": "This is added to an action verb or a descriptive verb in order to express a required condition or an action that must be taken. It can also be expressed as -어야 되다.",
+              "form_notes": "| Action verb and descriptive verb stem ending | Combine with | Example ||---|---|---|| ㅏ, ㅗ | -아야 하다 | 좋아야 하다, 살아야 하다 || Other Vowel (ㅓ, ㅜ, ㅡ, ㅣ) | -어야 하다 | 먹어야 하다, 웃어야 하다, 꺼야 하다, 기다려야 하다 || 하 | -여야 하다 (해야 하다) | 전화해야 하다 |",
+              "examples": [
+                {
+                  "korean": "학교에 9시까지 와야 해요.",
+                  "romanization": null,
+                  "french": "Vous devez venir à l'école avant 9 heures.",
+                  "english": "You have to come to school by 9 o'clock."
+                },
+                {
+                  "korean": "극장에서 휴대전화를 꺼야 합니다.",
+                  "romanization": null,
+                  "french": "Vous devez éteindre votre téléphone portable au théâtre.",
+                  "english": "You have to turn off your cell phone in the theater."
+                },
+                {
+                  "korean": "도서관에서 조용히 해야 해요.",
+                  "romanization": null,
+                  "french": "Vous devez être silencieux à la bibliothèque.",
+                  "english": "You have to be quiet in the library."
+                },
+                {
+                  "korean": "어디에서 버스를 타야 해요?",
+                  "romanization": null,
+                  "french": "Où dois-je prendre un bus ?",
+                  "english": "Where do I have to take a bus?"
+                },
+                {
+                  "korean": "가: 예습과 복습을 해야 합니까?\n나: 네, 예습과 복습을 해야 합니다.",
+                  "romanization": null,
+                  "french": "A : Dois-je préparer et réviser ?\nB : Oui, vous devez préparer et réviser.",
+                  "english": "A: Do I have to prepare and review?B: Yes, you have to prepare and review."
+                },
+                {
+                  "korean": "가: 얼마나 기다려야 해요?\n나: 10분쯤 기다리셔야 해요.",
+                  "romanization": null,
+                  "french": "A : Combien de temps dois-je attendre ?\nB : Vous devez attendre environ 10 minutes.",
+                  "english": "A: How long do I have to wait?B: You have to wait about 10 minutes."
+                }
+              ],
+              "notes": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 17,
+      "title_ko": "길 찾기",
+      "title_fr": "Obtenir des indications",
+      "sections": [
+        {
+          "order": 1,
+          "title_ko": "Take a right at the intersection.",
+          "title_fr": "Prenez à droite à l'intersection.",
+          "dialogue_ko": null,
+          "dialogue_fr": "John: Euh, excusez-moi, s'il vous plaît, indiquez-moi la direction.Homme: Où allez-vous ?John: Y a-t-il une pharmacie près d'ici ?Homme: Oui, il y a une pharmacie à 100 mètres d'ici.Prenez à droite à l'intersection.",
+          "dialogue_vocabulary": [
+            {
+              "hangeul": "미터",
+              "romanization": null,
+              "translation_fr": "mètre",
+              "translation_en": "meter",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "약국",
+              "romanization": null,
+              "translation_fr": "pharmacie",
+              "translation_en": "pharmacy",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "실례지만",
+              "romanization": null,
+              "translation_fr": "excusez-moi",
+              "translation_en": "excuse me",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "사거리",
+              "romanization": null,
+              "translation_fr": "intersection",
+              "translation_en": "intersection",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "오른쪽",
+              "romanization": null,
+              "translation_fr": "côté droit",
+              "translation_en": "right side",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "저",
+              "romanization": null,
+              "translation_fr": "euh",
+              "translation_en": "uhm",
+              "part_of_speech": null
+            }
+          ],
+          "vocabulary_expansion": [
+            {
+              "hangeul": "그쪽",
+              "romanization": null,
+              "translation_fr": "votre côté",
+              "translation_en": "your side",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "왼쪽",
+              "romanization": null,
+              "translation_fr": "côté gauche",
+              "translation_en": "left side",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "저쪽",
+              "romanization": null,
+              "translation_fr": "ce côté-là",
+              "translation_en": "that side",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "층",
+              "romanization": null,
+              "translation_fr": "étage",
+              "translation_en": "floor",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "물어보다",
+              "romanization": null,
+              "translation_fr": "demander",
+              "translation_en": "to ask",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "오른쪽",
+              "romanization": null,
+              "translation_fr": "côté droit",
+              "translation_en": "right side",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "이쪽",
+              "romanization": null,
+              "translation_fr": "ce côté-ci",
+              "translation_en": "this side",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "지하",
+              "romanization": null,
+              "translation_fr": "sous-sol",
+              "translation_en": "basement",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "한복",
+              "romanization": null,
+              "translation_fr": "hanbok",
+              "translation_en": "hanbok",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "똑바로",
+              "romanization": null,
+              "translation_fr": "tout droit",
+              "translation_en": "straight",
+              "part_of_speech": null
+            }
+          ],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-으면/면",
+              "title_translit": null,
+              "summary_fr": "Exprime la condition pour l'action de la deuxième clause.",
+              "explanation_fr": "Ceci est ajouté à un verbe d'action ou à un verbe descriptif pour exprimer la condition de l'action dans la deuxième clause.",
+              "explanation_en": "This is added to an action verb or a descriptive verb in order to express the condition for the action in the second clause.",
+              "form_notes": "Consonant: -으면 (읽으면, 들으면)Vowel, ㄹ: -면 (가면, 만나면, 살면)",
+              "examples": [
+                {
+                  "korean": "피곤하면 좀 쉬세요.",
+                  "romanization": null,
+                  "french": "Reposez-vous si vous êtes fatigué.",
+                  "english": "Take a rest if you are tired."
+                },
+                {
+                  "korean": "음악을 들으면 기분이 좋아요.",
+                  "romanization": null,
+                  "french": "On se sent bien quand on écoute de la musique.",
+                  "english": "It feels good when you listen to music."
+                },
+                {
+                  "korean": "내일 비가 오면 축구를 하지 못해요.",
+                  "romanization": null,
+                  "french": "Je ne peux pas jouer au football s'il pleut demain.",
+                  "english": "I can't play soccer when it rains tomorrow."
+                },
+                {
+                  "korean": "시간이 있으면 만날까요?",
+                  "romanization": null,
+                  "french": "On se rencontre si vous avez le temps ?",
+                  "english": "Shall we meet if you have time?"
+                },
+                {
+                  "korean": "가: 요즘 배우는 것이 어려워요.\n나: 어려우면 예습하세요.",
+                  "romanization": null,
+                  "french": "A: C'est difficile d'apprendre ces jours-ci.\nB: Révisez si c'est difficile.",
+                  "english": "A: It's hard to learn these days.\nB: Review if it's hard."
+                },
+                {
+                  "korean": "가: 어디에 가면 한복을 빌릴 수 있어요?\n나: 인사동에 가면 빌릴 수 있어요.",
+                  "romanization": null,
+                  "french": "A: Où puis-je louer un Hanbok ?\nB: Vous pouvez louer un Hanbok à Insadong.",
+                  "english": "A: Where can I rent Hanbok?\nB: You can borrow Hanbok at Insadong."
+                }
+              ],
+              "notes": null
+            },
+            {
+              "order": 2,
+              "title_ko": "으로/로²(direction)",
+              "title_translit": null,
+              "summary_fr": "Indique une direction.",
+              "explanation_fr": "Ceci est ajouté à un nom pour signifier une direction.",
+              "explanation_en": "This is added to a noun in order to signify a direction.",
+              "form_notes": "Consonant: 으로 (앞으로, 왼쪽으로)Vowel, ㄹ: 로 (위로, 아래로, 화장실로)",
+              "examples": [
+                {
+                  "korean": "이쪽으로 오세요.",
+                  "romanization": null,
+                  "french": "Venez par ici.",
+                  "english": "Come this way."
+                },
+                {
+                  "korean": "사거리에서 왼쪽으로 가세요.",
+                  "romanization": null,
+                  "french": "Prenez à gauche à l'intersection.",
+                  "english": "Take a left at the intersection."
+                },
+                {
+                  "korean": "교실 안으로 들어갑시다.",
+                  "romanization": null,
+                  "french": "Entrons dans la salle de classe.",
+                  "english": "Let's go inside the classroom."
+                },
+                {
+                  "korean": "어느 쪽으로 갈까요?",
+                  "romanization": null,
+                  "french": "De quel côté devrions-nous aller ?",
+                  "english": "Which way should we go?"
+                },
+                {
+                  "korean": "가: 편의점이 어디에 있어요?\n나: 지하 1층으로 가세요.",
+                  "romanization": null,
+                  "french": "A: Où est le dépanneur ?\nB: Allez au premier sous-sol.",
+                  "english": "A: Where is a convenience store?\nB: Go to first basement level."
+                },
+                {
+                  "korean": "가: 어디로 갈까요?\n나: 잠실로 가 주세요.",
+                  "romanization": null,
+                  "french": "A: Où voulez-vous aller ?\nB: S'il vous plaît, emmenez-moi à Jamsil.",
+                  "english": "A: Where do you want to go?\nB: Please take me to Jamsil."
+                }
+              ],
+              "notes": "Ceci est généralement suivi de verbes d'action comme 가다 ou 오다."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title_ko": "Cross the crosswalk and go left.",
+          "title_fr": "Traversez le passage piéton et allez à gauche.",
+          "dialogue_ko": null,
+          "dialogue_fr": "Eric: Woojin, je suis à l'arrêt de bus.Comment puis-je me rendre chez toi d'ici ?Woojin: Vois-tu la Banque de Séoul ?Eric: La Banque de Séoul ? Oui, je la vois.Woojin: Ma maison est en face de la Banque de Séoul.Traversez le passage piéton et allez à gauche.",
+          "dialogue_vocabulary": [
+            {
+              "hangeul": "거기",
+              "romanization": null,
+              "translation_fr": "là",
+              "translation_en": "there",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "횡단보도",
+              "romanization": null,
+              "translation_fr": "passage piéton",
+              "translation_en": "crosswalk",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "보이다",
+              "romanization": null,
+              "translation_fr": "être vu",
+              "translation_en": "to be seen",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "건너편",
+              "romanization": null,
+              "translation_fr": "l'autre côté",
+              "translation_en": "the other side",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "건너다",
+              "romanization": null,
+              "translation_fr": "traverser",
+              "translation_en": "to cross",
+              "part_of_speech": null
+            }
+          ],
+          "vocabulary_expansion": [
+            {
+              "hangeul": "건너편",
+              "romanization": null,
+              "translation_fr": "l'autre côté",
+              "translation_en": "the other side",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "약",
+              "romanization": null,
+              "translation_fr": "médicament",
+              "translation_en": "medicine",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "육교",
+              "romanization": null,
+              "translation_fr": "passerelle piétonne",
+              "translation_en": "pedestrian overpass",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "지하도",
+              "romanization": null,
+              "translation_fr": "passage souterrain",
+              "translation_en": "underpass",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "출구",
+              "romanization": null,
+              "translation_fr": "sortie",
+              "translation_en": "exit",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "화장실",
+              "romanization": null,
+              "translation_fr": "toilettes",
+              "translation_en": "restroom",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "횡단보도",
+              "romanization": null,
+              "translation_fr": "passage piéton",
+              "translation_en": "crosswalk",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "건너다",
+              "romanization": null,
+              "translation_fr": "traverser",
+              "translation_en": "to cross",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "나가다",
+              "romanization": null,
+              "translation_fr": "sortir",
+              "translation_en": "to exit",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "내려가다",
+              "romanization": null,
+              "translation_fr": "descendre",
+              "translation_en": "to go down",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "들어가다",
+              "romanization": null,
+              "translation_fr": "entrer",
+              "translation_en": "to enter",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "올라가다",
+              "romanization": null,
+              "translation_fr": "monter",
+              "translation_en": "to go up",
+              "part_of_speech": null
+            }
+          ],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "요?",
+              "title_translit": null,
+              "summary_fr": "Répète ce qu'une autre personne a dit pour confirmer ou rétorquer.",
+              "explanation_fr": "Cette terminaison de phrase est ajoutée à un nom lorsque l'interlocuteur répète ce qu'une autre personne a dit afin de confirmer ou de rétorquer la déclaration.",
+              "explanation_en": "This is a sentence ending that is added to a noun when the speaker is repeating what another person said in order to confirm or retort the statement.",
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "누구요?",
+                  "romanization": null,
+                  "french": "Qui ?",
+                  "english": "Who?"
+                },
+                {
+                  "korean": "월요일요?",
+                  "romanization": null,
+                  "french": "Lundi ?",
+                  "english": "Monday?"
+                },
+                {
+                  "korean": "커피 두 잔요?",
+                  "romanization": null,
+                  "french": "Deux tasses de café ?",
+                  "english": "Two cups of coffee?"
+                },
+                {
+                  "korean": "어제 만난 친구요?",
+                  "romanization": null,
+                  "french": "L'ami que j'ai rencontré hier ?",
+                  "english": "Friend I met yesterday?"
+                },
+                {
+                  "korean": "가: 볼펜 한 자루 주세요.\n나: 이 볼펜요?",
+                  "romanization": null,
+                  "french": "A: S'il vous plaît, donnez-moi un stylo.\nB: Ce stylo ?",
+                  "english": "A: Please give me a pen.\nB: This pen?"
+                },
+                {
+                  "korean": "가: 이 근처에 노래방이 있어요?\n나: 노래방요?",
+                  "romanization": null,
+                  "french": "A: Y a-t-il un karaoké près d'ici ?\nB: Un karaoké ?",
+                  "english": "A: Is there a noraebang near here?\nB: Noraebang?"
+                }
+              ],
+              "notes": null
+            },
+            {
+              "order": 2,
+              "title_ko": "-어서/아서/여서²(sequence)",
+              "title_translit": null,
+              "summary_fr": "Connecte deux clauses basées sur l'ordre chronologique.",
+              "explanation_fr": "Ceci est ajouté à un verbe d'action pour connecter deux clauses basées sur l'ordre chronologique des deux actions.",
+              "explanation_en": "This is added to an action verb in order to connect two clauses based on the chronological order of the two actions.",
+              "form_notes": "ㅏ, ㅗ: -아서 (가서, 팔아서)Other Vowel (ㅓ, ㅜ, ㅡ, ㅣ): -어서 (건너서, 만들어서, 일어나서)하: -여서(해서) (전화해서)",
+              "examples": [
+                {
+                  "korean": "노라 씨가 학교에 가서 공부해요.",
+                  "romanization": null,
+                  "french": "Nora va à l'école et étudie.",
+                  "english": "Nora goes to school and study."
+                },
+                {
+                  "korean": "저는 아침에 일어나서 운동을 합니다.",
+                  "romanization": null,
+                  "french": "Je me lève le matin et fais de l'exercice.",
+                  "english": "I wake up in the morning and exercise."
+                },
+                {
+                  "korean": "길을 건너서 오른쪽으로 가세요.",
+                  "romanization": null,
+                  "french": "Traversez la rue et tournez à droite.",
+                  "english": "Cross the street and turn right."
+                },
+                {
+                  "korean": "존 씨, 어제 뭘 만들어서 먹었어요?",
+                  "romanization": null,
+                  "french": "John, qu'avez-vous préparé et mangé hier ?",
+                  "english": "John, what did you make and eat yesterday?"
+                }
+              ],
+              "notes": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 18,
+      "title_ko": "날씨와 계절",
+      "title_fr": "Météo et Saisons",
+      "sections": [
+        {
+          "order": 1,
+          "title_ko": "It's raining.",
+          "title_fr": "Il pleut.",
+          "dialogue_ko": "Yuki: 비가 오네요. 노라 씨, 우산 있어요?\nNora: 네, 일기예보를 보고 우산을 가지고 왔어요. 우리 우산 같이 쓸까요?\nYuki: 고마워요. 비가 많이 올 것 같아요?\nNora: 네, 많이 올 것 같아요. 비가 와서 춥군요. 따뜻한 차 한 잔 마시러 갈까요?",
+          "dialogue_fr": "Yuki: Il pleut. Nora, tu as un parapluie ?\nNora: Oui, j'ai vu les prévisions météo et j'ai apporté un parapluie. On partage mon parapluie ?\nYuki: Merci. Il va beaucoup pleuvoir ?\nNora: Oui, il semble qu'il va beaucoup pleuvoir. Il fait froid à cause de la pluie. On va prendre une tasse de thé chaud ?",
+          "dialogue_vocabulary": [
+            {
+              "hangeul": "일기예보",
+              "romanization": null,
+              "translation_fr": "prévisions météo",
+              "translation_en": "weather forecast",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "따뜻하다",
+              "romanization": null,
+              "translation_fr": "être chaud",
+              "translation_en": "to be warm",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "비가 오다",
+              "romanization": null,
+              "translation_fr": "il pleut",
+              "translation_en": "it's raining",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "가지고 오다",
+              "romanization": null,
+              "translation_fr": "apporter",
+              "translation_en": "to bring",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "우산을 쓰다",
+              "romanization": null,
+              "translation_fr": "utiliser un parapluie",
+              "translation_en": "to use an umbrella",
+              "part_of_speech": null
+            }
+          ],
+          "vocabulary_expansion": [
+            {
+              "hangeul": "물건",
+              "romanization": null,
+              "translation_fr": "objet",
+              "translation_en": "object",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "맑다",
+              "romanization": null,
+              "translation_fr": "être clair",
+              "translation_en": "to be clear",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "쌀쌀하다",
+              "romanization": null,
+              "translation_fr": "être frais",
+              "translation_en": "to be chilly",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "눈이 오다",
+              "romanization": null,
+              "translation_fr": "il neige",
+              "translation_en": "it's snowing",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "비가 오다",
+              "romanization": null,
+              "translation_fr": "il pleut",
+              "translation_en": "it's raining",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "따뜻하다",
+              "romanization": null,
+              "translation_fr": "être chaud",
+              "translation_en": "to be warm",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "선선하다",
+              "romanization": null,
+              "translation_fr": "être frais",
+              "translation_en": "to be cool",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "흐리다",
+              "romanization": null,
+              "translation_fr": "être nuageux",
+              "translation_en": "to be cloudy",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "바람이 불다",
+              "romanization": null,
+              "translation_fr": "le vent souffle",
+              "translation_en": "wind is blowing",
+              "part_of_speech": null
+            }
+          ],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-는군요/군요",
+              "title_translit": null,
+              "summary_fr": "Cette terminaison de phrase est ajoutée à un verbe d'action ou à un verbe descriptif pour exprimer un sentiment d'exclamation face à un fait nouvellement appris.",
+              "explanation_fr": "Cette terminaison de phrase est ajoutée à un verbe d'action ou à un verbe descriptif pour exprimer un sentiment d'exclamation face à un fait nouvellement appris. Elle est généralement utilisée lorsque le locuteur observe ou écoute une scène ou une situation au moment de parler.",
+              "explanation_en": "This is a sentence ending that is added to an action verb or a descriptive verb in order to express a feeling of exclamation at a newly learned fact. It is generally used as the speaker is looking at or listening to a scene or a situation at the time of speaking.",
+              "form_notes": "| The type of verb | Combine with | Example |\n|---|---|---|\n| Action verb | -는군요 | 오는군요, 듣는군요 |\n| Descriptive verb | -군요 | 많군요, 바쁘군요 |",
+              "examples": [
+                {
+                  "korean": "날씨가 좋군요.",
+                  "romanization": null,
+                  "french": "Le temps est beau.",
+                  "english": "The weather is nice."
+                },
+                {
+                  "korean": "유키 씨가 한국말을 참 잘 하는군요.",
+                  "romanization": null,
+                  "french": "Yuki parle très bien coréen.",
+                  "english": "Yuki is very good at speaking Korean."
+                },
+                {
+                  "korean": "여기가 명동이군요.",
+                  "romanization": null,
+                  "french": "Voici Myeongdong.",
+                  "english": "Here is Myeongdong."
+                },
+                {
+                  "korean": "마이클 씨가 고향에 돌아갔군요.",
+                  "romanization": null,
+                  "french": "Michael est retourné dans sa ville natale.",
+                  "english": "Michael returned to his hometown."
+                },
+                {
+                  "korean": "가: 제 방이에요.\n나: 예쁜 물건이 많군요.",
+                  "romanization": null,
+                  "french": "A: C'est ma chambre.\nB: Tu as beaucoup de jolies choses.",
+                  "english": "A: This is my room.\nB: You have a lot of pretty things."
+                },
+                {
+                  "korean": "가: 저는 날마다 도서관에서 공부해요.\n나: 열심히 공부하는군요.",
+                  "romanization": null,
+                  "french": "A: J'étudie tous les jours à la bibliothèque.\nB: Tu étudies dur.",
+                  "english": "A: I study everyday at a library.\nB: You're studying hard."
+                }
+              ],
+              "notes": "For '있다','없다'the Form '있군요', '없군요'are used."
+            },
+            {
+              "order": 2,
+              "title_ko": "-을/ㄹ 것 같다",
+              "title_translit": null,
+              "summary_fr": "Ceci est ajouté à un verbe d'action ou à un verbe descriptif pour exprimer une supposition du locuteur sur des choses qui n'ont pas encore été vécues ou qui ne se sont pas produites.",
+              "explanation_fr": "Ceci est ajouté à un verbe d'action ou à un verbe descriptif pour exprimer une supposition du locuteur sur des choses qui n'ont pas encore été vécues ou qui ne se sont pas produites.",
+              "explanation_en": "This is added to an action verb and a descriptive verb to express an assumption of the speaker about things that is not experienced or happened yet.",
+              "form_notes": "| Action verb and descriptive verb stem ending | Combine with | Example |\n|---|---|---|\n| Consonant | -을 것 같다 | 늦을 것 같다, 많을 것 같다 |\n| Vowel, ㄹ | -ㄹ 것 같다 | 올 것 같다. 알 것 같다 |",
+              "examples": [
+                {
+                  "korean": "오후에 눈이 올 것 같아요.",
+                  "romanization": null,
+                  "french": "Il semble qu'il va neiger cet après-midi.",
+                  "english": "It looks like it will snow in the afternoon."
+                },
+                {
+                  "korean": "약속시간에 늦을 것 같아요.",
+                  "romanization": null,
+                  "french": "Je pense que je serai en retard au rendez-vous.",
+                  "english": "I think, I will be late for the appointment."
+                },
+                {
+                  "korean": "김치가 매울 것 같아요.",
+                  "romanization": null,
+                  "french": "Je pense que le kimchi est épicé.",
+                  "english": "I think, the kimchi looks spicy."
+                },
+                {
+                  "korean": "휴가철이어서 비행기 표가 없을 것 같아요.",
+                  "romanization": null,
+                  "french": "Je pense qu'il n'y aura pas de billets d'avion à cause de la période des vacances.",
+                  "english": "I think, they will not have plane tickets because of vacation period."
+                },
+                {
+                  "korean": "가: 시험이 어려울 것 같아요?\n나: 네, 아주 어려울 것 같아요.",
+                  "romanization": null,
+                  "french": "A: Penses-tu que l'examen sera difficile ?\nB: Oui, je pense qu'il sera très difficile.",
+                  "english": "A: Do you think the test will be difficult?\nB: Yes, I think it will be very difficult."
+                },
+                {
+                  "korean": "가: 에릭 씨가 언제 올 것 같아요?\n나: 요즘 일이 많아서 늦게 올 것 같아요.",
+                  "romanization": null,
+                  "french": "A: Quand penses-tu qu'Eric viendra ?\nB: Il est occupé ces jours-ci, donc il sera en retard.",
+                  "english": "A: When do you think Eric will come?\nB: He's busy these days so he will be late."
+                }
+              ],
+              "notes": null
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title_ko": "Let's walk slowly while viewing the cherry blossom.",
+          "title_fr": "Marchons lentement en regardant les cerisiers en fleurs.",
+          "dialogue_ko": "Olivia: 한강공원에 사람들이 많이 내리네요.\nNora: 봄이라서 날씨가 따뜻해서 소풍 가는 사람들이 많아요.\nOlivia: 벚꽃도 피어서 경치가 아름답군요.\nNora: 네, 벚꽃을 구경하면서 천천히 걸읍시다.",
+          "dialogue_fr": "Olivia: Beaucoup de gens descendent au parc de Hangang.\nNora: Il fait chaud au printemps, donc beaucoup de gens vont pique-niquer.\nOlivia: Les cerisiers sont en fleurs et le paysage est magnifique.\nNora: Oui, marchons lentement en regardant les cerisiers en fleurs.",
+          "dialogue_vocabulary": [
+            {
+              "hangeul": "벚꽃",
+              "romanization": null,
+              "translation_fr": "fleur de cerisier",
+              "translation_en": "cherryblossom",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "피다",
+              "romanization": null,
+              "translation_fr": "fleurir",
+              "translation_en": "to blossom",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "봄",
+              "romanization": null,
+              "translation_fr": "printemps",
+              "translation_en": "spring",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "소풍을 가다",
+              "romanization": null,
+              "translation_fr": "aller pique-niquer",
+              "translation_en": "to go on a picnic",
+              "part_of_speech": null
+            }
+          ],
+          "vocabulary_expansion": [
+            {
+              "hangeul": "계절",
+              "romanization": null,
+              "translation_fr": "saison",
+              "translation_en": "season",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "팝콘",
+              "romanization": null,
+              "translation_fr": "popcorn",
+              "translation_en": "popcorn",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "단풍 구경을 하다",
+              "romanization": null,
+              "translation_fr": "regarder les feuilles d'automne",
+              "translation_en": "to see autumn leaves",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "담배를 피우다",
+              "romanization": null,
+              "translation_fr": "fumer une cigarette",
+              "translation_en": "to smoke a cigarette",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "소풍을 가다",
+              "romanization": null,
+              "translation_fr": "aller pique-niquer",
+              "translation_en": "to go on a picnic",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "해수욕장에 가다",
+              "romanization": null,
+              "translation_fr": "aller à la plage",
+              "translation_en": "to go to a beach",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "봄",
+              "romanization": null,
+              "translation_fr": "printemps",
+              "translation_en": "spring",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "가을",
+              "romanization": null,
+              "translation_fr": "automne",
+              "translation_en": "autumn",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "눈사람",
+              "romanization": null,
+              "translation_fr": "bonhomme de neige",
+              "translation_en": "snowman",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "눈싸움을 하다",
+              "romanization": null,
+              "translation_fr": "faire une bataille de boules de neige",
+              "translation_en": "to snowfight",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "여름",
+              "romanization": null,
+              "translation_fr": "été",
+              "translation_en": "summer",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "겨울",
+              "romanization": null,
+              "translation_fr": "hiver",
+              "translation_en": "winter",
+              "part_of_speech": null
+            }
+          ],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-는/은/ㄴ 것 같다",
+              "title_translit": null,
+              "summary_fr": "Ceci est ajouté à un verbe d'action ou à un verbe descriptif lorsque le locuteur exprime une supposition.",
+              "explanation_fr": "Ceci est ajouté à un verbe d'action ou à un verbe descriptif lorsque le locuteur exprime une supposition. Lorsque la supposition concerne une action actuelle, '-는 것 같다' est appliqué à un verbe d'action et à la condition et à l'attribut d'un objet. '-은/ㄴ 것 같다' est appliqué à un verbe descriptif. De plus, si une supposition concerne une action déjà achevée dans le passé, '-은/ㄴ 것 같다' est appliqué à un verbe d'action.",
+              "explanation_en": "This is added to an action verb or a descriptive verb when a speaker is expressing an assumption. When the assumption is about current action, '-는 것 같다' is applied to an action verb and about condition and attribute of an object, '-은/ㄴ 것 같다' is applied to a descriptive verb. Furthermore, if an assumption is about the action that is already completed in the past, '-은/ㄴ 것 같다' is applied to an action verb.",
+              "form_notes": "| Verb stem ending | Combine with | Example |\n|---|---|---|\n| Action verb, 있다, 없다 | -는 것 같다 | 오는 것 같다, 있는 것 같다 |\n| Vowel, ㄹ (descriptive verb) | -ㄴ 것 같다 | 아픈 것 같다, 먼 것 같다 |\n| Consonant (descriptive verb) | -은 것 같다 | 많은 것 같다 |",
+              "examples": [
+                {
+                  "korean": "비가 오는 것 같아요.",
+                  "romanization": null,
+                  "french": "Je pense qu'il pleut.",
+                  "english": "I think it is raining."
+                },
+                {
+                  "korean": "동생이 아픈 것 같아요.",
+                  "romanization": null,
+                  "french": "Je pense que mon frère est malade.",
+                  "english": "I think, my brother is sick."
+                },
+                {
+                  "korean": "친구가 집에 없는 것 같아요.",
+                  "romanization": null,
+                  "french": "Je pense que mon ami n'est pas à la maison.",
+                  "english": "I think, my friend is not at home."
+                },
+                {
+                  "korean": "리타오 씨가 시험을 잘 본 것 같아요.",
+                  "romanization": null,
+                  "french": "Je pense que Letao a bien réussi l'examen.",
+                  "english": "I think, Letao did well on the test."
+                },
+                {
+                  "korean": "가: 레오 씨가 무슨 음식을 만들어요?\n나: 샌드위치를 만드는 것 같아요.",
+                  "romanization": null,
+                  "french": "A: Quel genre de nourriture Leo prépare-t-il ?\nB: Je pense qu'il prépare des sandwichs.",
+                  "english": "A: What kind of food is Leo making?\nB: I think he's making a sandwich."
+                },
+                {
+                  "korean": "가: 누가 이 카드를 썼어요?\n나: 아이가 쓴 것 같아요.",
+                  "romanization": null,
+                  "french": "A: Qui a écrit cette carte ?\nB: Je pense qu'un enfant l'a écrite.",
+                  "english": "A: Who wrote this card?\nB: I think a child wrote it."
+                }
+              ],
+              "notes": null
+            },
+            {
+              "order": 2,
+              "title_ko": "-으면서/면서",
+              "title_translit": null,
+              "summary_fr": "Ceci est ajouté à un verbe d'action ou à un verbe descriptif pour indiquer que le sujet effectue plus de deux actions en même temps ou qu'il y a plus d'un attribut.",
+              "explanation_fr": "Ceci est ajouté à un verbe d'action ou à un verbe descriptif pour indiquer que le sujet effectue plus de deux actions en même temps ou qu'il y a plus d'un attribut.",
+              "explanation_en": "This is added to an action verb or a descriptive verb to indicate that the subject dose more than two actions at the same time or there are more than one attributes.",
+              "form_notes": "| Action verb and descriptive verb stem ending | Combine with | Example |\n|---|---|---|\n| Consonant | -으면서 | 먹으면서, 읽으면서, 좋으면서 |\n| Vowel, ㄹ | -면서 | 가면서, 살면서, 깨끗하면서 |",
+              "examples": [
+                {
+                  "korean": "TV를 보면서 식사를 해요.",
+                  "romanization": null,
+                  "french": "Je mange en regardant la télévision.",
+                  "english": "I eat while watching TV."
+                },
+                {
+                  "korean": "친구하고 같이 이야기하면서 걸어가요.",
+                  "romanization": null,
+                  "french": "Je marche avec mon ami en parlant.",
+                  "english": "I walk with my friend while talking."
+                },
+                {
+                  "korean": "피아노를 치면서 노래를 불렀어요.",
+                  "romanization": null,
+                  "french": "J'ai chanté en jouant du piano.",
+                  "english": "I sing while playing the piano."
+                },
+                {
+                  "korean": "음악을 들으면서 공부할까요?",
+                  "romanization": null,
+                  "french": "Voulez-vous étudier en écoutant de la musique ?",
+                  "english": "Do you want to study while listening to music?"
+                },
+                {
+                  "korean": "가: 팝콘을 살까요?\n나: 네, 팝콘을 먹으면서 영화를 봅시다.",
+                  "romanization": null,
+                  "french": "A: On achète du popcorn ?\nB: Oui, mangeons du popcorn et regardons le film.",
+                  "english": "A: Shall we buy a popcorn?\nB: Yes, Let's eat a popcorn and watch the movie."
+                },
+                {
+                  "korean": "가: 뭘 하면서 친구를 기다려요?\n나: 게임을 하면서 기다려요.",
+                  "romanization": null,
+                  "french": "A: Que fais-tu en attendant un ami ?\nB: Je joue à un jeu en attendant.",
+                  "english": "A: What do you do while waiting for a friend?\nB: I play a game while waiting."
+                }
+              ],
+              "notes": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 19,
+      "title_ko": "여행",
+      "title_fr": "Voyage",
+      "sections": [
+        {
+          "order": 1,
+          "title_ko": "I'm going to Jeonju on Saturday.",
+          "title_fr": "Je vais à Jeonju samedi.",
+          "dialogue_ko": "Olivia: I'm going to Jeonju on Saturday.Yuna: Really? Where will you sleep?Olivia: I don't know yet. Yuna, tell me a place if you know.Yuna: How about a bed and breakfast? I know a good place.",
+          "dialogue_fr": "Olivia : Je vais à Jeonju samedi.Yuna : Vraiment ? Où vas-tu dormir ?Olivia : Je ne sais pas encore. Yuna, dis-moi un endroit si tu en connais un.Yuna : Que dirais-tu d'une chambre d'hôtes ? Je connais un bon endroit.",
+          "dialogue_vocabulary": [
+            {
+              "hangeul": "민박집",
+              "romanization": null,
+              "translation_fr": "chambre d'hôtes",
+              "translation_en": "bed and breakfast",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "전주",
+              "romanization": null,
+              "translation_fr": "Jeonju",
+              "translation_en": "Jeonju",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "민박하다",
+              "romanization": null,
+              "translation_fr": "séjourner en chambre d'hôtes",
+              "translation_en": "to stay at bed and breakfast",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "아직",
+              "romanization": null,
+              "translation_fr": "pas encore",
+              "translation_en": "not yet",
+              "part_of_speech": null
+            }
+          ],
+          "vocabulary_expansion": [
+            {
+              "hangeul": "게스트하우스",
+              "romanization": null,
+              "translation_fr": "auberge de jeunesse",
+              "translation_en": "guesthouse",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "민박집",
+              "romanization": null,
+              "translation_fr": "chambre d'hôtes",
+              "translation_en": "bed and breakfast",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "여행",
+              "romanization": null,
+              "translation_fr": "voyage",
+              "translation_en": "travel",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "여행사",
+              "romanization": null,
+              "translation_fr": "agence de voyage",
+              "translation_en": "travel agency",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "콘도",
+              "romanization": null,
+              "translation_fr": "complexe hôtelier avec adhésion",
+              "translation_en": "membership resort",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "펜션",
+              "romanization": null,
+              "translation_fr": "pension coréenne",
+              "translation_en": "korean rental cottage",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "호텔",
+              "romanization": null,
+              "translation_fr": "hôtel",
+              "translation_en": "hotel",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "계획을 세우다",
+              "romanization": null,
+              "translation_fr": "faire un plan",
+              "translation_en": "to make a plan",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "여행을 가다",
+              "romanization": null,
+              "translation_fr": "partir en voyage",
+              "translation_en": "to go on a trip",
+              "part_of_speech": null
+            }
+          ],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-으려고/려고 하다",
+              "title_translit": null,
+              "summary_fr": "Exprime la volonté ou l'intention du locuteur de faire une action.",
+              "explanation_fr": "Ceci est ajouté à un verbe d'action pour exprimer la volonté ou l'intention du locuteur de faire une action.",
+              "explanation_en": "This is added to an action verb in order to express your will or intention to do an action.",
+              "form_notes": "`-으려고 하다` is added when the stem ends in a consonant. `-려고 하다` is added when the stem ends in a vowel or ㄹ.",
+              "examples": [
+                {
+                  "korean": "저는 저녁에 한식을 먹으려고 해요.",
+                  "romanization": null,
+                  "french": "Je vais manger coréen pour le dîner.",
+                  "english": "I am going to eat Korean for dinner."
+                },
+                {
+                  "korean": "저는 주말에 단풍구경을 하려고 해요.",
+                  "romanization": null,
+                  "french": "Je vais voir les feuilles d'automne ce week-end.",
+                  "english": "I am going to see the autumn leaves this weekend."
+                },
+                {
+                  "korean": "에릭 씨가 오후에 은행에 가서 돈을 찾으려고 해요.",
+                  "romanization": null,
+                  "french": "Eric va à la banque cet après-midi pour retirer de l'argent.",
+                  "english": "Eric is going to the bank this afternoon to withdraw money."
+                },
+                {
+                  "korean": "올리비아 씨, 도서관에서 무슨 책을 빌리려고 해요?",
+                  "romanization": null,
+                  "french": "Olivia, quel livre vas-tu emprunter à la bibliothèque ?",
+                  "english": "Olivia, which book are you going to borrow at the library?"
+                },
+                {
+                  "korean": "가: 내일은 바다를 보러 가려고 해요.\n나: 그래요? 같이 갑시다.",
+                  "romanization": null,
+                  "french": "A : Je vais voir l'océan demain.\nB : Vraiment ? Allons-y ensemble.",
+                  "english": "A: I'm going to see the ocean tomorrow.\nB: Really? Let's go together."
+                },
+                {
+                  "korean": "가: 존 씨는 한국말을 배워서 뭘 하려고 해요?\n나: 한국말을 가르치고 싶어요.",
+                  "romanization": null,
+                  "french": "A : John, qu'est-ce que tu vas faire après avoir appris le coréen ?\nB : Je veux enseigner le coréen.",
+                  "english": "A: John, what are you going to do after learning Korean?\nB: I want to teach Korean."
+                }
+              ],
+              "notes": "This should only be used with an action verb."
+            },
+            {
+              "order": 2,
+              "title_ko": "-는 게 어때요?",
+              "title_translit": null,
+              "summary_fr": "Faire une suggestion ou une proposition.",
+              "explanation_fr": "Ceci est ajouté à un verbe d'action pour faire une suggestion ou une proposition de faire quelque chose.",
+              "explanation_en": "This is added to an action verb in order to make a suggestion or proposal to do something.",
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "5시쯤 만나는 게 어때요?",
+                  "romanization": null,
+                  "french": "Que dirais-tu de se rencontrer vers 17h ?",
+                  "english": "How about meeting around 5 o'clock?"
+                },
+                {
+                  "korean": "금요일인데 한잔하는 게 어때요?",
+                  "romanization": null,
+                  "french": "Que dirais-tu de prendre un verre vendredi ?",
+                  "english": "How about a drink on Friday?"
+                },
+                {
+                  "korean": "머리가 아프면 약을 먹는 게 어때요?",
+                  "romanization": null,
+                  "french": "Que dirais-tu de prendre un médicament si tu as mal à la tête ?",
+                  "english": "How about taking a medicine if yoy have a headache?"
+                },
+                {
+                  "korean": "여름이니까 바다에 가는 게 어때요?",
+                  "romanization": null,
+                  "french": "Que dirais-tu d'aller à la plage puisqu'il fait été ?",
+                  "english": "How about going to a beach because it is summer?"
+                },
+                {
+                  "korean": "가: 수업이 너무 어려워요.\n나: 어려우면 예습을 하는 게 어때요?",
+                  "romanization": null,
+                  "french": "A : Le cours est très difficile.\nB : Que dirais-tu de préparer la leçon ?",
+                  "english": "A: The class is very difficult.\nB: How about preparing for the lesson?"
+                },
+                {
+                  "korean": "가: 날마다 한국 음식을 먹었어요.\n나: 그럼 오늘은 베트남 음식을 먹는 게 어때요?",
+                  "romanization": null,
+                  "french": "A : J'ai mangé de la nourriture coréenne tous les jours.\nB : Alors, que dirais-tu de manger de la nourriture vietnamienne aujourd'hui ?",
+                  "english": "A: I ate Korean food everyday.\nB: Then how about eating Vietnamese food today?"
+                }
+              ],
+              "notes": "This should only be used with an action verb. '있다' can be used occasionally."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title_ko": "I'm preparing for a trip.",
+          "title_fr": "Je prépare un voyage.",
+          "dialogue_ko": "Yuna: Nora, what are you doing?Nora: I'm preparing for a trip. I'm leaving tomorrow to Vietnam.Yuna: Did you pack your bag?Nora: No, not yet. I have to buy a hat.",
+          "dialogue_fr": "Yuna : Nora, qu'est-ce que tu fais ?Nora : Je prépare un voyage. Je pars demain pour le Vietnam.Yuna : As-tu fait ta valise ?Nora : Non, pas encore. Je dois acheter un chapeau.",
+          "dialogue_vocabulary": [
+            {
+              "hangeul": "모자",
+              "romanization": null,
+              "translation_fr": "chapeau",
+              "translation_en": "hat",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "싸다",
+              "romanization": null,
+              "translation_fr": "faire sa valise",
+              "translation_en": "to pack",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "떠나다",
+              "romanization": null,
+              "translation_fr": "partir",
+              "translation_en": "to leave",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "다",
+              "romanization": null,
+              "translation_fr": "tout",
+              "translation_en": "all",
+              "part_of_speech": null
+            }
+          ],
+          "vocabulary_expansion": [
+            {
+              "hangeul": "모자",
+              "romanization": null,
+              "translation_fr": "chapeau",
+              "translation_en": "hat",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "약",
+              "romanization": null,
+              "translation_fr": "médicament",
+              "translation_en": "medicine",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "우산",
+              "romanization": null,
+              "translation_fr": "parapluie",
+              "translation_en": "umbrella",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "신다",
+              "romanization": null,
+              "translation_fr": "porter (chaussures)",
+              "translation_en": "to wear(shoes)",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "선글라스",
+              "romanization": null,
+              "translation_fr": "lunettes de soleil",
+              "translation_en": "sunglasses",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "여권",
+              "romanization": null,
+              "translation_fr": "passeport",
+              "translation_en": "passport",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "충전기",
+              "romanization": null,
+              "translation_fr": "chargeur",
+              "translation_en": "charger",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "쓰다",
+              "romanization": null,
+              "translation_fr": "porter (chapeau)",
+              "translation_en": "to wear(hat)",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "돈을 바꾸다",
+              "romanization": null,
+              "translation_fr": "changer de l'argent",
+              "translation_en": "to exchange money",
+              "part_of_speech": null
+            }
+          ],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-고 있다",
+              "title_translit": null,
+              "summary_fr": "Exprime une action en cours ou continue.",
+              "explanation_fr": "Ceci est ajouté à un verbe d'action pour exprimer qu'une action est en cours ou qu'elle se poursuit.",
+              "explanation_en": "This is added to an action verb in order to express that an action is currently being taken place or that it is continuing.",
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "노라 씨가 가방을 싸고 있어요.",
+                  "romanization": null,
+                  "french": "Nora fait sa valise.",
+                  "english": "Nora is packing her bag."
+                },
+                {
+                  "korean": "저는 아까 책을 읽고 있었습니다.",
+                  "romanization": null,
+                  "french": "Je lisais le livre tout à l'heure.",
+                  "english": "I was reading the book before."
+                },
+                {
+                  "korean": "저기에서 춤을 추고 있는 사람이 누구예요?",
+                  "romanization": null,
+                  "french": "Qui est cette personne qui danse là-bas ?",
+                  "english": "Who is that dancing over there?"
+                },
+                {
+                  "korean": "리타오 씨가 샤워를 하고 있어서 전화를 못 받았어요.",
+                  "romanization": null,
+                  "french": "Letao n'a pas pu répondre au téléphone parce qu'il prenait une douche.",
+                  "english": "Letao could not pickup his phone because he was taking a shower."
+                },
+                {
+                  "korean": "가: 식사하고 있어요?\n나: 아니요, 저는 텔레비전을 보고 있어요.",
+                  "romanization": null,
+                  "french": "A : Êtes-vous en train de manger ?\nB : Non, je regarde la télévision.",
+                  "english": "A: Are you having a meal?\nB: No, I'm watching television."
+                },
+                {
+                  "korean": "가: 지금 뭘 해요?\n나: 저는 음악을 듣고 있어요.",
+                  "romanization": null,
+                  "french": "A : Que faites-vous maintenant ?\nB : J'écoute de la musique.",
+                  "english": "A: What are you doing now?\nB: I'm listening to music."
+                }
+              ],
+              "notes": "This should only be used with an action verb."
+            },
+            {
+              "order": 2,
+              "title_ko": "못",
+              "title_translit": null,
+              "summary_fr": "Exprime l'impossibilité ou le manque de capacité à faire quelque chose.",
+              "explanation_fr": "Ceci est ajouté devant un verbe d'action pour exprimer l'impossibilité de faire quelque chose ou le manque de capacité à faire quelque chose.",
+              "explanation_en": "This is added in front of a an action verb in order to express the impossibility to do something or the lack of ability to do something.",
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "저는 바빠서 모임에 못 가요.",
+                  "romanization": null,
+                  "french": "Je suis occupé, donc je ne peux pas aller à la réunion.",
+                  "english": "I am busy so I can not make it to the meeting."
+                },
+                {
+                  "korean": "노라 씨, 왜 호텔 예약을 못 했어요?",
+                  "romanization": null,
+                  "french": "Nora, pourquoi n'as-tu pas fait de réservation d'hôtel ?",
+                  "english": "Nora, why didn't you make a reservation for the hotel?"
+                },
+                {
+                  "korean": "너무 시끄러워서 유키 씨가 선생님 말씀을 못 들었어요.",
+                  "romanization": null,
+                  "french": "C'est trop bruyant, donc Yuki n'a pas pu entendre ce que le professeur disait.",
+                  "english": "It is too noisy so Yuki can not hear what the teacher is saying."
+                },
+                {
+                  "korean": "제 동생은 한글을 몰라서 책을 못 읽어요.",
+                  "romanization": null,
+                  "french": "Mon frère ne connaît pas le coréen, donc il ne peut pas lire de livres.",
+                  "english": "My brother does not know Korean so he can not read."
+                },
+                {
+                  "korean": "가: 맥주를 마시면서 이야기합시다.\n나: 미안하지만 저는 맥주를 못 마십니다.",
+                  "romanization": null,
+                  "french": "A : Buvons une bière et parlons.\nB : Désolé, mais je ne peux pas boire de bière.",
+                  "english": "A: Let's drink a beer and talk.\nB: Sorry but I can't drink a beer."
+                },
+                {
+                  "korean": "가: 레오 씨, 숙제했지요?\n나: 아니요, 어제 너무 아파서 숙제를 못 했어요.",
+                  "romanization": null,
+                  "french": "A : Leo, tu as fait tes devoirs, n'est-ce pas ?\nB : Non, j'étais trop malade hier, donc je n'ai pas pu faire mes devoirs.",
+                  "english": "A: Leo, did you do the homework?\nB: No, I was sick yesterday so I couldn't do it."
+                }
+              ],
+              "notes": "This should only be used with an action verb. It can be used as '-지 못하다'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 20,
+      "title_ko": "20과 — 방학과 휴일",
+      "title_fr": "Vacances et jours fériés",
+      "sections": [
+        {
+          "order": 1,
+          "title_ko": "학기가 시작되기 전에 만날까요?",
+          "title_fr": "Pouvons-nous nous rencontrer avant le début du semestre ?",
+          "dialogue_ko": null,
+          "dialogue_fr": "Nora : Letao, vas-tu dans ta ville natale quand les vacances commencent ? Letao : Oui, j'irai dans ma ville natale. Nora : Pouvons-nous nous rencontrer avant le début du semestre ? Letao : Oui, je t'appellerai quand je serai de retour.",
+          "dialogue_vocabulary": [
+            {
+              "hangeul": "학기",
+              "romanization": null,
+              "translation_fr": "semestre",
+              "translation_en": "semester",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "방학하다",
+              "romanization": null,
+              "translation_fr": "prendre des vacances",
+              "translation_en": "to vacation",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "한번",
+              "romanization": null,
+              "translation_fr": "une fois",
+              "translation_en": "once",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "돌아오다",
+              "romanization": null,
+              "translation_fr": "revenir",
+              "translation_en": "to come back",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "시작되다",
+              "romanization": null,
+              "translation_fr": "être commencé",
+              "translation_en": "to be started",
+              "part_of_speech": null
+            }
+          ],
+          "vocabulary_expansion": [
+            {
+              "hangeul": "끝",
+              "romanization": null,
+              "translation_fr": "fin",
+              "translation_en": "end",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "방학중",
+              "romanization": null,
+              "translation_fr": "pendant les vacances",
+              "translation_en": "during vacation",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "방학",
+              "romanization": null,
+              "translation_fr": "vacances",
+              "translation_en": "vacation",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "시작",
+              "romanization": null,
+              "translation_fr": "début",
+              "translation_en": "start",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "학기 중",
+              "romanization": null,
+              "translation_fr": "pendant le semestre",
+              "translation_en": "during semester",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "방학이 끝나다",
+              "romanization": null,
+              "translation_fr": "les vacances sont finies",
+              "translation_en": "vacation is over",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "방학이 시작되다",
+              "romanization": null,
+              "translation_fr": "les vacances commencent",
+              "translation_en": "vacation starts",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "학기가 끝나다",
+              "romanization": null,
+              "translation_fr": "le semestre est fini",
+              "translation_en": "semester is over",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "학기가 시작되다",
+              "romanization": null,
+              "translation_fr": "le semestre commence",
+              "translation_en": "semester starts",
+              "part_of_speech": null
+            }
+          ],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-기 전에",
+              "title_translit": null,
+              "summary_fr": "Indique qu'une deuxième action a lieu avant la première.",
+              "explanation_fr": "Ceci est ajouté à un verbe d'action pour exprimer que la deuxième action a lieu avant la première action.",
+              "explanation_en": "This is added to an action verb in order to express that the second action take place before the first action.",
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "밥을 먹기 전에 손을 씻어요.",
+                  "romanization": null,
+                  "french": "Lavez-vous les mains avant de manger.",
+                  "english": "Wash your hands before eating."
+                },
+                {
+                  "korean": "자기 전에 세수하고 이를 닦았어요.",
+                  "romanization": null,
+                  "french": "Je me suis brossé les dents et lavé avant de dormir.",
+                  "english": "I brushed my teeth and washed up before sleeping."
+                },
+                {
+                  "korean": "친구를 만나기 전에 숙제를 하세요.",
+                  "romanization": null,
+                  "french": "Faites vos devoirs avant de rencontrer votre ami.",
+                  "english": "Do your homework before meeting your friend."
+                },
+                {
+                  "korean": "여행을 가기 전에 무엇을 준비해야 해요?",
+                  "romanization": null,
+                  "french": "Que devez-vous préparer avant votre voyage ?",
+                  "english": "What are you going to prepare before your trip?"
+                },
+                {
+                  "korean": "가: 방학이 끝나기 전에 같이 여행을 갈까요?\n나: 네, 좋아요. 그럽시다.",
+                  "romanization": null,
+                  "french": "A : Voulons-nous partir en voyage avant la fin des vacances ?\nB : Oui, j'aime ça. Faisons-le.",
+                  "english": "A: Do you want to go on a trip before the vacation is over?\nB: Yes, I like to. Let's do it."
+                },
+                {
+                  "korean": "가: 언제 아침을 먹었어요?\n나: 학교에 오기 전에 먹었어요.",
+                  "romanization": null,
+                  "french": "A : Quand avez-vous pris le petit-déjeuner ?\nB : J'ai mangé avant de venir à l'école.",
+                  "english": "A: When did you have a breakfast?\nB: I ate before coming to school."
+                }
+              ],
+              "notes": "This should only be used with an action verb."
+            },
+            {
+              "order": 2,
+              "title_ko": "-겠다",
+              "title_translit": null,
+              "summary_fr": "Exprime l'intention du locuteur ou demande l'intention de l'auditeur.",
+              "explanation_fr": "Ceci est ajouté à un verbe d'action pour exprimer ce que le locuteur va faire, l'intention du locuteur, ou pour demander l'intention de l'auditeur.",
+              "explanation_en": "This is added to an action verb to express what the speaker is going to do, speaker's intention, or asking for the listener's intention.",
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "제가 내일 전화하겠습니다.",
+                  "romanization": null,
+                  "french": "Je vous appellerai demain.",
+                  "english": "I will call you tomorrow."
+                },
+                {
+                  "korean": "저는 이번 방학에 여행을 가겠어요.",
+                  "romanization": null,
+                  "french": "Je voyagerai pendant ces vacances.",
+                  "english": "I will travel for this vacation."
+                },
+                {
+                  "korean": "뭘 드시겠습니까?",
+                  "romanization": null,
+                  "french": "Que prendrez-vous ?",
+                  "english": "What will you have?"
+                },
+                {
+                  "korean": "무슨 음식을 만들겠어요?",
+                  "romanization": null,
+                  "french": "Quels plats allez-vous cuisiner ?",
+                  "english": "What will you cook?"
+                },
+                {
+                  "korean": "가: 이 일을 내일까지 하세요.\n나: 네, 내일까지 하겠습니다.",
+                  "romanization": null,
+                  "french": "A : Faites ce travail d'ici demain.\nB : Oui, je le ferai d'ici demain.",
+                  "english": "A: Do this work by tomorrow.\nB: Yes, I'll do it by tomorrow."
+                },
+                {
+                  "korean": "가: 누가 여기에 앉겠습니까?\n나: 제가 앉겠습니다.",
+                  "romanization": null,
+                  "french": "A : Qui s'assiéra ici ?\nB : Je m'assiérai là.",
+                  "english": "A: Who will sit here?\nB: I'll sit there."
+                }
+              ],
+              "notes": "This should only be used with an action verb."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title_ko": "세배를 하겠습니다. 그리고 맛있는 떡국을 먹겠습니다.",
+          "title_fr": "Nous allons faire la révérence du Nouvel An. Et manger de délicieux tteokguk.",
+          "dialogue_ko": null,
+          "dialogue_fr": "Huang : N'y a-t-il pas trop de monde au grand magasin aujourd'hui ? Juang : Oui, il y a beaucoup de monde ici pour acheter des cadeaux du Nouvel An. Huang : Juang, que feras-tu le jour du Nouvel An ? Juang : Mon frère et moi irons chez mon grand-père et ferons la révérence du Nouvel An. Nous allons manger de délicieux tteokguk.",
+          "dialogue_vocabulary": [
+            {
+              "hangeul": "댁",
+              "romanization": null,
+              "translation_fr": "maison (honorifique)",
+              "translation_en": "house(honorific)",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "설날",
+              "romanization": null,
+              "translation_fr": "jour de l'An",
+              "translation_en": "New Year's day",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "떡국",
+              "romanization": null,
+              "translation_fr": "soupe de gâteau de riz",
+              "translation_en": "tteokguk(rice cake soup)",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "세배하다",
+              "romanization": null,
+              "translation_fr": "faire la révérence du Nouvel An",
+              "translation_en": "to do New Year's bow",
+              "part_of_speech": null
+            }
+          ],
+          "vocabulary_expansion": [
+            {
+              "hangeul": "설날",
+              "romanization": null,
+              "translation_fr": "jour de l'An",
+              "translation_en": "New Year's day",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "음력",
+              "romanization": null,
+              "translation_fr": "calendrier lunaire",
+              "translation_en": "lunar calendar",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "크리스마스트리",
+              "romanization": null,
+              "translation_fr": "sapin de Noël",
+              "translation_en": "Christmas tree",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "어린이날",
+              "romanization": null,
+              "translation_fr": "jour des enfants",
+              "translation_en": "Children's day",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "크리스마스",
+              "romanization": null,
+              "translation_fr": "Noël",
+              "translation_en": "Christmas",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "한글날",
+              "romanization": null,
+              "translation_fr": "Jour de la Proclamation du Hangeul",
+              "translation_en": "Hangul Proclamation day",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "휴가",
+              "romanization": null,
+              "translation_fr": "vacances",
+              "translation_en": "vacation",
+              "part_of_speech": null
+            },
+            {
+              "hangeul": "휴일",
+              "romanization": null,
+              "translation_fr": "jour férié",
+              "translation_en": "holiday",
+              "part_of_speech": null
+            }
+          ],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-지 않아요?",
+              "title_translit": null,
+              "summary_fr": "Confirme un fait ou demande un accord/consentement.",
+              "explanation_fr": "Ceci est ajouté à un verbe d'action ou à un verbe descriptif pour confirmer un fait ou pour demander un accord/consentement.",
+              "explanation_en": "This is added to an action verb or a descriptive verb in order to confirm a fact or to ask for agreement/consent.",
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "교실이 좀 덥지 않아요?",
+                  "romanization": null,
+                  "french": "La salle de classe n'est-elle pas un peu chaude ?",
+                  "english": "Isn't the classroom hot?"
+                },
+                {
+                  "korean": "혼자 일하면 힘들지 않아요?",
+                  "romanization": null,
+                  "french": "N'est-il pas difficile de travailler seul ?",
+                  "english": "Isn't it difficult to work alone?"
+                },
+                {
+                  "korean": "에릭 씨는 술을 못 마시지 않아요?",
+                  "romanization": null,
+                  "french": "Eric ne boit-il pas d'alcool ?",
+                  "english": "Does Eric not drink?"
+                },
+                {
+                  "korean": "우진 씨가 민철 씨보다 일을 잘하지 않아요?",
+                  "romanization": null,
+                  "french": "Woojin ne travaille-t-il pas mieux que Minchul ?",
+                  "english": "Doesn't Woojin work better than Minchul?"
+                },
+                {
+                  "korean": "가: 집에 텔레비전이 없어요.\n나: 심심하지 않아요?",
+                  "romanization": null,
+                  "french": "A : Je n'ai pas de télévision chez moi.\nB : Ne vous ennuyez-vous pas ?",
+                  "english": "A: I don't have a television in my house.\nB: Aren't you bored?"
+                },
+                {
+                  "korean": "가: 주앙 씨가 춤을 정말 잘 추지 않아요?\n나: 네, 정말 잘 추는군요.",
+                  "romanization": null,
+                  "french": "A : Juang ne danse-t-il pas très bien ?\nB : Oui, Juang danse très bien.",
+                  "english": "A: Doesn't Juang dance very well?\nB: Yes, Juang dances very well."
+                }
+              ],
+              "notes": null
+            },
+            {
+              "order": 2,
+              "title_ko": "-고요",
+              "title_translit": null,
+              "summary_fr": "Présente des informations supplémentaires.",
+              "explanation_fr": "Ceci est ajouté à un verbe d'action ou à un verbe descriptif pour présenter des informations supplémentaires aux déclarations déjà prononcées par le locuteur ou l'auditeur.",
+              "explanation_en": "This is added to an action verb or a descriptive verb to present additional inFormation to the statements that is already spoken by the speaker or the listener.",
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "비가 많이 와요. 바람도 불고요.",
+                  "romanization": null,
+                  "french": "Il pleut beaucoup. Et il y a du vent.",
+                  "english": "It is raining a lot. And it's windy."
+                },
+                {
+                  "korean": "이 식당 음식이 맛있어요. 값도 싸고요.",
+                  "romanization": null,
+                  "french": "Ce restaurant a une cuisine délicieuse. Et le prix est bon marché.",
+                  "english": "This restaurant has delicious food. And the price is cheap."
+                },
+                {
+                  "korean": "추석에 가족을 만나요. 맛있는 음식도 먹고요.",
+                  "romanization": null,
+                  "french": "Je rencontrerai ma famille à Chuseok. Et je mangerai de délicieux plats.",
+                  "english": "I will meet my family at Chuseok. And I will eat delicious food."
+                },
+                {
+                  "korean": "우진 씨가 재미있어요. 친절하고요.",
+                  "romanization": null,
+                  "french": "Woojin est drôle. Et il est gentil.",
+                  "english": "Woojin is funny. And he is kind."
+                },
+                {
+                  "korean": "가: 제주도가 아름답지요?\n나: 네, 아름다워요. 사람들도 친절하고요.",
+                  "romanization": null,
+                  "french": "A : L'île de Jeju est belle, n'est-ce pas ?\nB : Oui, c'est beau. Et les gens sont gentils.",
+                  "english": "A: Jeju-do is beautiful, isn't it?\nB: Yes, it's beautiful. And people are kind."
+                },
+                {
+                  "korean": "가: 여행을 가서 무엇을 했어요?\n나: 여기저기 구경했어요. 쇼핑도 하고요.",
+                  "romanization": null,
+                  "french": "A : Qu'avez-vous fait pendant votre voyage ?\nB : J'ai regardé ici et là. Et j'ai fait du shopping.",
+                  "english": "A: What did you do on your trip?\nB: I looked around here and there. And went shopping."
+                }
+              ],
+              "notes": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

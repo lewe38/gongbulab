@@ -1,0 +1,19 @@
+# Caddy — reverse proxy + HTTPS automatique (Let's Encrypt).
+# Remplace `gongbu.tld` par ton vrai domaine avant le premier déploiement.
+
+{
+  # email pour les notifications Let's Encrypt
+  email pivatleo@gmail.com
+}
+
+# Front Next.js
+gongbu.tld, www.gongbu.tld {
+  encode zstd gzip
+  reverse_proxy web:3000
+}
+
+# API FastAPI
+api.gongbu.tld {
+  encode zstd gzip
+  reverse_proxy api:8000
+}

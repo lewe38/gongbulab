@@ -1,0 +1,2191 @@
+{
+  "level": 4,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title_ko": "건강한 생활",
+      "title_fr": "Mode de vie sain",
+      "sections": [
+        {
+          "order": 1,
+          "title_ko": "건강에 좋은 음식",
+          "title_fr": "Aliments bons pour la santé",
+          "dialogue_ko": null,
+          "dialogue_fr": null,
+          "dialogue_vocabulary": [],
+          "vocabulary_expansion": [],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-다가 보니까",
+              "title_translit": null,
+              "summary_fr": "Utilisé avec un verbe pour exprimer la découverte d'un nouveau fait ou le résultat d'un état particulier au cours d'une action continue. Peut aussi être utilisé comme '-다 보니'.",
+              "explanation_fr": "S'attache à un verbe pour indiquer qu'une nouvelle vérité est découverte ou qu'un certain état ou résultat est atteint au cours d'une action. Lorsque les deux objectifs n'ont pas besoin d'être entièrement exprimés, un seul peut être mentionné. Il peut également être utilisé comme '-다 보니'.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "한국에서 오래 살다가 보니까 고향에 가는 것이 여행을 가는 것 같다.",
+                  "romanization": null,
+                  "french": "Après avoir vécu longtemps en Corée, j'ai l'impression que rentrer dans mon pays natal est comme voyager.",
+                  "english": null
+                },
+                {
+                  "korean": "일 때문에 사람을 많이 만나다가 보니까 쉴 때는 혼자 있는 것이 좋다.",
+                  "romanization": null,
+                  "french": "Comme je rencontre beaucoup de gens à cause du travail, je préfère être seul quand je me repose.",
+                  "english": null
+                },
+                {
+                  "korean": "친구하고 재미있게 이야기하다가 보니 어느새 저녁 먹을 시간이 되었다.",
+                  "romanization": null,
+                  "french": "En discutant joyeusement avec un ami, il était déjà l'heure de dîner sans que je m'en rende compte.",
+                  "english": null
+                },
+                {
+                  "korean": "한국 드라마를 볼 때마다 대사를 따라 하다 보니 한국어 발음이 좋아졌다.",
+                  "romanization": null,
+                  "french": "À force de répéter les dialogues chaque fois que je regarde un drama coréen, ma prononciation du coréen s'est améliorée.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 오늘 좀 늦었구나.\n나: 네, 친구하고 재미있게 놀다가 보니까 이렇게 늦었어요.",
+                  "romanization": null,
+                  "french": "A: Tu es un peu en retard aujourd'hui.\nB: Oui, j'ai tellement bien joué avec mon ami que je suis en retard.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 새 안경을 쓰니까 어때요? 불편하지 않아요?\n나: 네, 처음 썼을 때는 좀 불편했는데 계속 쓰다 보니 익숙해졌어요.",
+                  "romanization": null,
+                  "french": "A: Comment trouves-tu tes nouvelles lunettes ? Ce n'est pas inconfortable ?\nB: Oui, c'était un peu inconfortable au début, mais à force de les porter, je m'y suis habitué.",
+                  "english": null
+                }
+              ],
+              "notes": null
+            },
+            {
+              "order": 2,
+              "title_ko": "-을/ㄹ겸",
+              "title_translit": null,
+              "summary_fr": "Utilisé avec un verbe pour indiquer que l'action a deux objectifs ou plus. Il n'est pas toujours nécessaire de mentionner tous les objectifs.",
+              "explanation_fr": "S'attache à un verbe pour indiquer que l'action a deux objectifs ou plus. Lorsque les deux objectifs n'ont pas besoin d'être entièrement exprimés, un seul peut être mentionné.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "친구도 만날 겸 쇼핑도 할 겸 명동에 갔다.",
+                  "romanization": null,
+                  "french": "Je suis allé à Myeongdong pour rencontrer un ami et faire du shopping.",
+                  "english": null
+                },
+                {
+                  "korean": "돈도 벌 겸 경험도 쌓을 겸 아르바이트를 한다.",
+                  "romanization": null,
+                  "french": "Je fais un travail à temps partiel pour gagner de l'argent et acquérir de l'expérience.",
+                  "english": null
+                },
+                {
+                  "korean": "장도 볼 겸 산책도 할 겸 집 근처 마트에 다녀왔다.",
+                  "romanization": null,
+                  "french": "Je suis allé au supermarché près de chez moi pour faire des courses et me promener.",
+                  "english": null
+                },
+                {
+                  "korean": "쉬는 날에는 한국말도 연습할 겸 한국 드라마를 본다.",
+                  "romanization": null,
+                  "french": "Les jours de repos, je regarde des dramas coréens pour pratiquer le coréen.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 요즘 동호회 활동을 하시나 봐요.\n나: 네, 운동도 할 겸 한국 친구도 사귈 겸 축구 동호회에 가입했어요.",
+                  "romanization": null,
+                  "french": "A: On dirait que tu fais des activités de club ces temps-ci.\nB: Oui, je me suis inscrit à un club de football pour faire du sport et me faire des amis coréens.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 전주로 여행을 다녀오셨다면서요?\n나: 네, 전주에 있는 친구도 만날 겸 전주에 다녀왔어요.",
+                  "romanization": null,
+                  "french": "A: On dit que tu es allé en voyage à Jeonju ?\nB: Oui, je suis allé à Jeonju pour rencontrer un ami qui y habite et visiter Jeonju.",
+                  "english": null
+                }
+              ],
+              "notes": null
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title_ko": "건강한 생활 습관",
+          "title_fr": "Habitudes de vie saines",
+          "dialogue_ko": null,
+          "dialogue_fr": null,
+          "dialogue_vocabulary": [],
+          "vocabulary_expansion": [],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "도 이지만/지만",
+              "title_translit": null,
+              "summary_fr": "Utilisé avec un nom pour inclure naturellement cet élément et en ajouter d'autres. Avec les verbes et adjectifs, on utilise '-기도 -지만'.",
+              "explanation_fr": "S'attache à un nom pour inclure naturellement cet élément et en présenter d'autres en plus. Derrière un verbe ou un adjectif, on utilise '-기도 -지만'.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "운동도 운동이지만 밥을 잘 먹어야 한다.",
+                  "romanization": null,
+                  "french": "Le sport est important, mais il faut aussi bien manger.",
+                  "english": null
+                },
+                {
+                  "korean": "성적도 성적이지만 수업 태도도 좋아야 장학금을 받을 수 있다.",
+                  "romanization": null,
+                  "french": "Les notes sont importantes, mais il faut aussi avoir une bonne attitude en classe pour obtenir une bourse.",
+                  "english": null
+                },
+                {
+                  "korean": "아기가 웃기도 잘 웃지만 울기도 잘 운다.",
+                  "romanization": null,
+                  "french": "Le bébé rit bien, mais il pleure aussi beaucoup.",
+                  "english": null
+                },
+                {
+                  "korean": "날씨가 덥기도 덥지만 외출 준비하기 귀찮아서 나가기 싫다.",
+                  "romanization": null,
+                  "french": "Il fait chaud, mais j'ai la flemme de me préparer, alors je ne veux pas sortir.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 음식 값이 싸서 이 식당에 자주 오세요?\n나: 값도 값이지만 음식이 맛있어서 자주 와요.",
+                  "romanization": null,
+                  "french": "A: Venez-vous souvent dans ce restaurant parce que la nourriture n'est pas chère ?\nB: Le prix est bon, mais la nourriture est aussi délicieuse, c'est pourquoi je viens souvent.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 숙제가 많아서 힘드세요?\n나: 숙제가 많기도 많지만 배우는 내용이 어려워서 좀 힘들어요.",
+                  "romanization": null,
+                  "french": "A: Vous êtes fatigué à cause de tous les devoirs ?\nB: Il y a beaucoup de devoirs, mais le contenu est aussi difficile, alors c'est un peu dur.",
+                  "english": null
+                }
+              ],
+              "notes": null
+            },
+            {
+              "order": 2,
+              "title_ko": "-지요",
+              "title_translit": null,
+              "summary_fr": "Utilisé avec un verbe ou un adjectif lorsque le locuteur suppose que l'auditeur connaît déjà le fait, ou pour exprimer ses propres pensées ou histoires de manière amicale.",
+              "explanation_fr": "S'attache à un verbe ou un adjectif lorsque le locuteur suppose que l'auditeur connaît déjà un fait, ou lorsque le locuteur parle de sa propre histoire ou de ses pensées de manière amicale.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "이번 모임에 당연히 저도 가지요.",
+                  "romanization": null,
+                  "french": "Bien sûr, j'irai aussi à cette réunion.",
+                  "english": null
+                },
+                {
+                  "korean": "아무래도 혼자 사는 것이 편하지요.",
+                  "romanization": null,
+                  "french": "Après tout, vivre seul est plus confortable.",
+                  "english": null
+                },
+                {
+                  "korean": "김치는 손이 많이 가는 음식이지요.",
+                  "romanization": null,
+                  "french": "Le kimchi est un plat qui demande beaucoup de travail.",
+                  "english": null
+                },
+                {
+                  "korean": "엄마도 어렸을 때 너처럼 꿈이 많았지.",
+                  "romanization": null,
+                  "french": "Maman aussi avait beaucoup de rêves quand elle était jeune, comme toi.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 남산은 밤에 가면 더 좋은 것 같아요.\n나: 맞아요. 남산에서 보는 야경은 정말 아름답지요.",
+                  "romanization": null,
+                  "french": "A: Je pense que Namsan est encore mieux la nuit.\nB: C'est vrai. La vue nocturne depuis Namsan est vraiment magnifique.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 엄마, 외할머니는 어떤 분이셨어요?\n나: 내가 하는 얘기를 정말 잘 들어 주셨지. 나에게는 친구 같은 분이셨어.",
+                  "romanization": null,
+                  "french": "A: Maman, quel genre de personne était grand-mère maternelle ?\nB: Elle écoutait vraiment bien ce que je disais. Elle était comme une amie pour moi.",
+                  "english": null
+                }
+              ],
+              "notes": "Lorsque l'on parle d'un fait déjà accompli, on utilise '-었지요'."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title_ko": "한국어 학습",
+      "title_fr": "Apprentissage du coréen",
+      "sections": [
+        {
+          "order": 1,
+          "title_ko": "한국어 학습 목적",
+          "title_fr": "Objectifs d'apprentissage du coréen",
+          "dialogue_ko": null,
+          "dialogue_fr": null,
+          "dialogue_vocabulary": [],
+          "vocabulary_expansion": [],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "어찌나는지/은지/ㄴ지",
+              "title_translit": null,
+              "summary_fr": "S'attache aux verbes et adjectifs pour indiquer que le degré d'une action ou d'un état est si extrême qu'il en devient la raison du contenu suivant.",
+              "explanation_fr": "S'attache aux verbes et adjectifs pour indiquer que le degré d'une action ou d'un état est si extrême qu'il en devient la raison du contenu suivant. On peut aussi utiliser '-다 보니'.",
+              "explanation_en": null,
+              "form_notes": "Verbes, 있다, 없다: 어찌나 -는지 (ex: 어찌나 많이 먹는지, 어찌나 자주 가는지, 어찌나 재미가 있는지)Adjectifs (consonne finale): 어찌나 -은지 (ex: 어찌나 많은지, 어찌나 좋은지, 어찌나 맑은지)Adjectifs (voyelle finale, ㄹ finale), Nom+이다: 어찌나 -ㄴ지 (ex: 어찌나 바쁜지, 어찌나 먼지, 어찌나 부자인지)",
+              "examples": [
+                {
+                  "korean": "제임스 씨는 어찌나 노래를 잘하는지 다들 가수인 줄 안다.",
+                  "romanization": null,
+                  "french": "M. James chante si bien que tout le monde le prend pour un chanteur.",
+                  "english": null
+                },
+                {
+                  "korean": "요즘 해야 할 일이 어찌나 많은지 잠 잘 시간도 부족하다.",
+                  "romanization": null,
+                  "french": "J'ai tellement de choses à faire ces jours-ci que je n'ai même pas le temps de dormir.",
+                  "english": null
+                },
+                {
+                  "korean": "어찌나 배가 고픈지 뭐든지 다 먹을 수 있을 것 같았다.",
+                  "romanization": null,
+                  "french": "J'avais tellement faim que j'aurais pu manger n'importe quoi.",
+                  "english": null
+                },
+                {
+                  "korean": "어제 좋아하는 가수의 콘서트에서 소리를 어찌나 크게 질렀는지 목이 다 쉬었다.",
+                  "romanization": null,
+                  "french": "J'ai tellement crié au concert de mon chanteur préféré hier que ma voix est devenue rauque.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 고향 사람을 만나니까 그렇게 기분이 좋아요?\n나: 네, 외국에서 고향 사람을 만나니까 어찌나 반가운지 눈물이 다 났어요.",
+                  "romanization": null,
+                  "french": "A: Êtes-vous si heureux de rencontrer des gens de votre ville natale ?\nB: Oui, j'étais si content de rencontrer des gens de ma ville natale à l'étranger que j'en ai pleuré.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 눈이 많이 부었어요. 무슨 일이에요?\n나: 영화를 봤는데 내용이 어찌나 슬픈지 영화를 보면서 계속 울었어요.",
+                  "romanization": null,
+                  "french": "A: Vos yeux sont très gonflés. Qu'est-ce qui s'est passé ?\nB: J'ai regardé un film et le contenu était si triste que j'ai continué à pleurer.",
+                  "english": null
+                }
+              ],
+              "notes": "Lorsque l'on parle d'un fait déjà accompli, on utilise '어찌나 -었는지'."
+            },
+            {
+              "order": 2,
+              "title_ko": "-도록¹",
+              "title_translit": null,
+              "summary_fr": "S'attache aux verbes pour indiquer que le contenu précédent est le but de l'action suivante.",
+              "explanation_fr": "S'attache aux verbes pour indiquer que le contenu précédent est le but de l'action suivante.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "음식이 상하지 않도록 바로 냉장고에 넣었다.",
+                  "romanization": null,
+                  "french": "Je l'ai mis tout de suite au réfrigérateur pour que la nourriture ne s'abîme pas.",
+                  "english": null
+                },
+                {
+                  "korean": "이번 일이 잘 끝날 수 있도록 최선을 다해야겠다.",
+                  "romanization": null,
+                  "french": "Je dois faire de mon mieux pour que ce travail se termine bien.",
+                  "english": null
+                },
+                {
+                  "korean": "필요할 때 빨리 찾을 수 있도록 서류를 잘 정리해 놓아야 한다.",
+                  "romanization": null,
+                  "french": "Je dois bien organiser les documents pour pouvoir les retrouver rapidement quand j'en ai besoin.",
+                  "english": null
+                },
+                {
+                  "korean": "건강이 나빠지지 않도록 평소에 건강에 신경을 쓰는 게 좋겠다.",
+                  "romanization": null,
+                  "french": "Il serait bon de faire attention à sa santé au quotidien pour ne pas qu'elle se détériore.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 이 그릇 포장 좀 잘 해 주세요.\n나: 네, 깨지지 않도록 두 번 포장해 드릴게요.",
+                  "romanization": null,
+                  "french": "A: Veuillez bien emballer ce plat.\nB: Oui, je vais l'emballer deux fois pour qu'il ne se casse pas.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 다음 주에 발표를 해야 하는데 실수할까 봐 걱정이 돼요.\n나: 그럼 발표할 때 실수하지 않도록 발표 전에 여러 번 연습하세요.",
+                  "romanization": null,
+                  "french": "A: Je dois faire une présentation la semaine prochaine et j'ai peur de faire des erreurs.\nB: Alors, entraînez-vous plusieurs fois avant la présentation pour ne pas faire d'erreurs.",
+                  "english": null
+                }
+              ],
+              "notes": null
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title_ko": "효과적인 학습 방법",
+          "title_fr": "Méthodes d'apprentissage efficaces",
+          "dialogue_ko": null,
+          "dialogue_fr": null,
+          "dialogue_vocabulary": [],
+          "vocabulary_expansion": [],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-을/ㄹ게 아니라",
+              "title_translit": null,
+              "summary_fr": "S'attache aux verbes pour suggérer de choisir l'action suivante plutôt que l'action précédente.",
+              "explanation_fr": "S'attache aux verbes pour suggérer de choisir l'action suivante plutôt que l'action précédente.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "집에 있는 약만 먹을 게 아니라 병원에 가 보지 그래요?",
+                  "romanization": null,
+                  "french": "Au lieu de prendre seulement les médicaments que vous avez à la maison, pourquoi n'iriez-vous pas voir un médecin ?",
+                  "english": null
+                },
+                {
+                  "korean": "입학 정보를 인터넷으로만 찾을 게 아니라 직접 학교에 전화해 보세요.",
+                  "romanization": null,
+                  "french": "Au lieu de chercher les informations d'admission uniquement sur internet, essayez d'appeler directement l'école.",
+                  "english": null
+                },
+                {
+                  "korean": "잠이 안 오면 휴대 전화를 볼 게 아니라 조용한 음악을 듣는 게 어때요?",
+                  "romanization": null,
+                  "french": "Si vous n'arrivez pas à dormir, au lieu de regarder votre téléphone portable, pourquoi n'écouteriez-vous pas de la musique calme ?",
+                  "english": null
+                },
+                {
+                  "korean": "학교를 정할 때 혼자 결정할 게 아니라 다른 사람 의견도 들어 보는 게 좋아요.",
+                  "romanization": null,
+                  "french": "Lorsque vous choisissez une école, il est bon d'écouter l'avis des autres plutôt que de décider seul.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 집이 더운데 에어컨을 한 대 살까요?\n나: 에어컨을 살 게 아니라 선풍기를 한 대 더 사는 게 어때요?",
+                  "romanization": null,
+                  "french": "A: Il fait chaud à la maison, devrions-nous acheter un climatiseur ?\nB: Au lieu d'acheter un climatiseur, pourquoi n'achèterions-nous pas un ventilateur supplémentaire ?",
+                  "english": null
+                },
+                {
+                  "korean": "가: 지금 채소를 싸게 파는데 좀 더 많이 사야겠어요.\n나: 한꺼번에 많이 살 게 아니라 필요할 때마다 조금씩 사는 게 낫지 않아요?",
+                  "romanization": null,
+                  "french": "A: Les légumes sont en promotion en ce moment, je devrais en acheter plus.\nB: Au lieu d'en acheter beaucoup d'un coup, ne serait-il pas mieux d'en acheter petit à petit quand vous en avez besoin ?",
+                  "english": null
+                }
+              ],
+              "notes": null
+            },
+            {
+              "order": 2,
+              "title_ko": "-기에는",
+              "title_translit": null,
+              "summary_fr": "S'attache aux verbes pour indiquer une situation comme critère, suivie d'un adjectif exprimant une évaluation ou un jugement.",
+              "explanation_fr": "S'attache aux verbes pour indiquer une situation comme critère, suivie d'un adjectif exprimant une évaluation ou un jugement.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "닭갈비는 아이들이 먹기에는 맵다.",
+                  "romanization": null,
+                  "french": "Le Dakgalbi est trop épicé pour que les enfants le mangent.",
+                  "english": null
+                },
+                {
+                  "korean": "이 차는 5인 가족이 타기에는 작은 편이다.",
+                  "romanization": null,
+                  "french": "Cette voiture est plutôt petite pour une famille de 5 personnes.",
+                  "english": null
+                },
+                {
+                  "korean": "이 신문 기사는 4급 학생이 이해하기에는 어렵다.",
+                  "romanization": null,
+                  "french": "Cet article de journal est difficile à comprendre pour un étudiant de niveau 4.",
+                  "english": null
+                },
+                {
+                  "korean": "지도만 보고 찾아가기에는 약속 장소까지 가는 길이 복잡하다.",
+                  "romanization": null,
+                  "french": "Le chemin jusqu'au lieu de rendez-vous est trop compliqué pour s'y rendre juste avec une carte.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 왜 케이크를 다 안 드세요?\n나: 이 케이크는 저 혼자 먹기에는 너무 많아요. 같이 드실래요?",
+                  "romanization": null,
+                  "french": "A: Pourquoi ne mangez-vous pas tout le gâteau ?\nB: Ce gâteau est trop grand pour que je le mange seul. Voudriez-vous en manger avec moi ?",
+                  "english": null
+                },
+                {
+                  "korean": "가: 문법을 혼자 공부하시네요, 어렵지 않아요?\n나: 이 문법은 혼자 공부하기에는 어려운 것 같아요. 좀 도와주실래요?",
+                  "romanization": null,
+                  "french": "A: Vous étudiez la grammaire seul, n'est-ce pas difficile ?\nB: Cette grammaire me semble difficile à étudier seul. Pourriez-vous m'aider un peu ?",
+                  "english": null
+                }
+              ],
+              "notes": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title_ko": "성격과 환경",
+      "title_fr": "Personnalité et environnement",
+      "sections": [
+        {
+          "order": 1,
+          "title_ko": "성격",
+          "title_fr": "Personnalité",
+          "dialogue_ko": null,
+          "dialogue_fr": null,
+          "dialogue_vocabulary": [],
+          "vocabulary_expansion": [],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-었던/았던/였던 것 같다",
+              "title_translit": null,
+              "summary_fr": "Cette expression est utilisée lorsque le locuteur se souvient vaguement d'une expérience passée ou qu'il fait une supposition sur un événement ou un état passé en se basant sur un fait.",
+              "explanation_fr": "S'attache aux verbes et aux adjectifs pour exprimer qu'une personne se souvient vaguement d'une action ou d'un état passé, ou qu'elle fait une supposition sur un événement ou un état passé en se basant sur un fait. Peut également être utilisé avec '-다 보니'.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "중학교 때는 매일 학교 앞에 있는 가게에 들렀던 것 같다.",
+                  "romanization": null,
+                  "french": "Quand j'étais au collège, il me semble que j'allais tous les jours au magasin devant l'école.",
+                  "english": null
+                },
+                {
+                  "korean": "어렸을 때는 해외여행을 하는 사람이 많지 않았던 것 같다.",
+                  "romanization": null,
+                  "french": "Quand j'étais petit, il me semble qu'il n'y avait pas beaucoup de gens qui voyageaient à l'étranger.",
+                  "english": null
+                },
+                {
+                  "korean": "옛날에는 백화점이 몇 개 없었던 것 같다.",
+                  "romanization": null,
+                  "french": "Il me semble qu'il n'y avait pas beaucoup de grands magasins autrefois.",
+                  "english": null
+                },
+                {
+                  "korean": "예전에는 이곳이 학교였던 것 같다.",
+                  "romanization": null,
+                  "french": "Il me semble que cet endroit était une école autrefois.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 요즘에는 아침도 밖에서 사 먹는 사람이 많아졌어요.\n나: 맞아요. 예전에 아침 식사는 거의 집에서 했던 것 같아요.",
+                  "romanization": null,
+                  "french": "A: De nos jours, de plus en plus de gens mangent le petit-déjeuner dehors.\nB: C'est vrai. Avant, il me semble que le petit-déjeuner était presque toujours pris à la maison.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 서울에 자동차가 정말 많아요.\n나: 맞아요. 그런데 제가 어렸을 때는 자동차가 이렇게 많지 않았던 것 같아요.",
+                  "romanization": null,
+                  "french": "A: Il y a vraiment beaucoup de voitures à Séoul.\nB: C'est vrai. Mais quand j'étais petit, il me semble qu'il n'y avait pas autant de voitures.",
+                  "english": null
+                }
+              ],
+              "notes": null
+            },
+            {
+              "order": 2,
+              "title_ko": "-더니¹",
+              "title_translit": null,
+              "summary_fr": "Cette expression relie deux faits ou situations, où le second contraste avec le premier, qui a été directement observé ou entendu par le locuteur.",
+              "explanation_fr": "S'attache aux verbes et aux adjectifs pour relier un fait ou une situation que le locuteur a directement vu ou entendu, avec un fait ou une situation qui a changé et qui contraste avec le premier.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "정희 씨가 작년에는 열심히 공부하더니 요즘에는 열심히 하지 않는다.",
+                  "romanization": null,
+                  "french": "Jeonghui étudiait assidûment l'année dernière, mais ces jours-ci, elle n'étudie plus assidûment.",
+                  "english": null
+                },
+                {
+                  "korean": "어제는 하늘이 흐리더니 오늘은 맑다.",
+                  "romanization": null,
+                  "french": "Hier, le ciel était nuageux, mais aujourd'hui, il est clair.",
+                  "english": null
+                },
+                {
+                  "korean": "예전에는 높은 건물이 없더니 5년 사이에 높은 건물이 많아졌다.",
+                  "romanization": null,
+                  "french": "Avant, il n'y avait pas de grands immeubles, mais en 5 ans, il y en a eu beaucoup.",
+                  "english": null
+                },
+                {
+                  "korean": "동생이 어렸을 때는 수동적이더니 고등학생이 된 후에는 뭐든지 주도적으로 한다.",
+                  "romanization": null,
+                  "french": "Quand mon petit frère était jeune, il était passif, mais après être devenu lycéen, il fait tout de manière proactive.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 조셉 씨가 한국 음식을 참 잘 먹어요.\n나: 네, 조셉 씨가 한국에 처음 왔을 때는 한국 음식을 잘 못 먹더니 이제는 아주 잘 먹어요.",
+                  "romanization": null,
+                  "french": "A: Joseph mange très bien la cuisine coréenne.\nB: Oui, quand Joseph est arrivé en Corée, il ne mangeait pas très bien la cuisine coréenne, mais maintenant il la mange très bien.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 웨이 씨와 흐엉 씨가 같이 밥을 먹고 있어요.\n나: 그러게요. 어제는 싸워서 둘이 서로 말을 안 하더니 오늘은 계속 같이 있어요.",
+                  "romanization": null,
+                  "french": "A: Wei et Huong mangent ensemble.\nB: C'est vrai. Hier, ils se sont disputés et ne se parlaient pas, mais aujourd'hui, ils sont de nouveau ensemble.",
+                  "english": null
+                }
+              ],
+              "notes": null
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title_ko": "환경의 영향",
+          "title_fr": "Influence de l'environnement",
+          "dialogue_ko": null,
+          "dialogue_fr": null,
+          "dialogue_vocabulary": [],
+          "vocabulary_expansion": [],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-는다고/ㄴ다고/다고 해서²",
+              "title_translit": null,
+              "summary_fr": "Cette expression est utilisée pour contredire ou exprimer une opinion contraire à une raison ou une base donnée par quelqu'un d'autre.",
+              "explanation_fr": "S'attache aux verbes et aux adjectifs pour contredire ou exprimer une opinion contraire à ce que l'on a entendu comme raison ou base de quelqu'un d'autre.",
+              "explanation_en": null,
+              "form_notes": "| Devant le radical |\n|---|---|\n| Consonne (verbe) | -는다고 해서 |\n| Voyelle, ㄹ (verbe) | -ㄴ다고 해서 |\n| Adjectif | -다고 해서 |\n| Nom + 이다 (consonne) | 이라고 해서 |\n| Nom + 이다 (voyelle) | 라고 해서 |\n\n| Exemples |\n|---|---|\n| 읽는다고 해서, 입는다고 해서, 믿는다고 해서 |\n| 간다고 해서, 좋아한다고 해서, 안다고 해서 |\n| 많다고 해서, 크다고 해서, 중요하다고 해서 |\n| 학생이라고 해서, 휴일이라고 해서 |\n| 부자라고 해서, 관광지라고 해서 |",
+              "examples": [
+                {
+                  "korean": "잠을 많이 잔다고 해서 피곤함이 풀리는 것은 아니다.",
+                  "romanization": null,
+                  "french": "Ce n'est pas parce qu'on dort beaucoup que la fatigue disparaît.",
+                  "english": null
+                },
+                {
+                  "korean": "귀찮다고 해서 청소를 안 하면 안 된다.",
+                  "romanization": null,
+                  "french": "Ce n'est pas parce qu'on est paresseux qu'on ne doit pas faire le ménage.",
+                  "english": null
+                },
+                {
+                  "korean": "부자라고 해서 항상 행복한 것은 아닐 것이다.",
+                  "romanization": null,
+                  "french": "Ce n'est pas parce qu'on est riche qu'on est toujours heureux.",
+                  "english": null
+                },
+                {
+                  "korean": "많은 경험을 했다고 해서 무슨 일이든지 잘하는 것은 아니다.",
+                  "romanization": null,
+                  "french": "Ce n'est pas parce qu'on a beaucoup d'expérience qu'on est bon dans tout.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 건강을 생각해서 건강 보조 식품을 먹으려고 해요.\n나: 건강 보조 식품을 많이 먹는다고 해서 건강이 좋아지는 것은 아니에요.",
+                  "romanization": null,
+                  "french": "A: Je pense prendre des compléments alimentaires pour ma santé.\nB: Ce n'est pas parce que vous mangez beaucoup de compléments alimentaires que votre santé s'améliorera.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 한국어 실력이 늘지 않아서 한국어 공부를 그만 할까 해요.\n나: 한국어 실력이 늘지 않는다고 해서 포기해 버리면 안 돼요.",
+                  "romanization": null,
+                  "french": "A: Mon coréen ne s'améliore pas, alors je pense arrêter d'étudier le coréen.\nB: Ce n'est pas parce que votre coréen ne s'améliore pas que vous devez abandonner.",
+                  "english": null
+                }
+              ],
+              "notes": "Lorsque l'on parle d'un fait déjà accompli, on utilise '-었다고 해서'."
+            },
+            {
+              "order": 2,
+              "title_ko": "처럼",
+              "title_translit": null,
+              "summary_fr": "Cette particule s'attache à un nom pour indiquer une comparaison ou une analogie, montrant que la forme, l'action ou la caractéristique du nom précédent est similaire.",
+              "explanation_fr": "S'attache à un nom pour indiquer un objet de comparaison ou d'analogie, ou pour montrer que la forme, l'action ou la caractéristique du nom précédent est similaire.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "내 동생은 가수처럼 노래를 잘한다.",
+                  "romanization": null,
+                  "french": "Mon petit frère chante bien, comme un chanteur.",
+                  "english": null
+                },
+                {
+                  "korean": "우리 어머니는 요리사처럼 요리를 잘하신다.",
+                  "romanization": null,
+                  "french": "Notre mère cuisine bien, comme une cheffe.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 말하기 연습을 열심히 하네요.\n나: 저는 한국어를 한국 사람처럼 자연스럽게 말하고 싶어요.",
+                  "romanization": null,
+                  "french": "A: Vous vous entraînez beaucoup à parler.\nB: Je veux parler coréen naturellement, comme un Coréen.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 미선아, 이사한 곳은 어때?\n나: 아주 좋아. 고향 집에 있는 내 방처럼 편안해.",
+                  "romanization": null,
+                  "french": "A: Miseon, comment est ton nouveau logement ?\nB: C'est super. C'est aussi confortable que ma chambre dans ma maison natale.",
+                  "english": null
+                }
+              ],
+              "notes": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title_ko": "나의 진로",
+      "title_fr": "Mon parcours professionnel",
+      "sections": [
+        {
+          "order": 1,
+          "title_ko": "진로 고민",
+          "title_fr": "Réflexions sur la carrière",
+          "dialogue_ko": null,
+          "dialogue_fr": null,
+          "dialogue_vocabulary": [],
+          "vocabulary_expansion": [],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-고 보니까",
+              "title_translit": null,
+              "summary_fr": "Exprime la prise de conscience d'un nouveau fait ou d'une nouvelle situation après avoir accompli une action.",
+              "explanation_fr": "S'attache à un verbe pour indiquer qu'une nouvelle vérité ou situation est réalisée après qu'une action ou un événement ait eu lieu, alors qu'elle était inconnue auparavant.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "지하철에서 내리고 보니까 신촌역이 아니었다.",
+                  "romanization": null,
+                  "french": "Après être descendu du métro, j'ai réalisé que ce n'était pas la station Sinchon.",
+                  "english": null
+                },
+                {
+                  "korean": "취직하고 보니까 학생이었을 때가 좋았다는 것을 알게 됐다.",
+                  "romanization": null,
+                  "french": "Après avoir trouvé un emploi, j'ai réalisé que c'était mieux quand j'étais étudiant.",
+                  "english": null
+                },
+                {
+                  "korean": "그 사람의 말을 듣고 보니까 왜 그런 행동을 했는지 이해가 됐다.",
+                  "romanization": null,
+                  "french": "Après avoir écouté ce qu'il a dit, j'ai compris pourquoi il avait agi ainsi.",
+                  "english": null
+                },
+                {
+                  "korean": "인터넷 쇼핑으로 주문한 물건을 받고 보니까 인터넷으로 본 것과 색깔이 달랐다.",
+                  "romanization": null,
+                  "french": "Après avoir reçu l'article commandé en ligne, j'ai constaté que la couleur était différente de ce que j'avais vu sur internet.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 레오 씨, 새로 한 머리가 마음에 안 들어요?\n나: 네, 머리를 자르고 보니까 지난번 머리가 저에게 더 잘 어울리는 것 같아요.",
+                  "romanization": null,
+                  "french": "A: Leo, tu n'aimes pas ta nouvelle coupe de cheveux ?\nB: Non, après m'être coupé les cheveux, j'ai l'impression que ma coupe précédente me convenait mieux.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 올리비아 씨, 새로 이사 간 동네는 마음에 들어요?\n나: 네. 이사하고 보니까 저희 동네에 맛집이 정말 많더라고요.",
+                  "romanization": null,
+                  "french": "A: Olivia, tu aimes le quartier où tu as déménagé ?\nB: Oui. Après avoir déménagé, j'ai réalisé qu'il y avait vraiment beaucoup de bons restaurants dans notre quartier.",
+                  "english": null
+                }
+              ],
+              "notes": null
+            },
+            {
+              "order": 2,
+              "title_ko": "-을/ㄹ 텐데",
+              "title_translit": null,
+              "summary_fr": "Exprime une supposition sur un événement futur ou une situation inconnue, souvent suivi d'une suggestion ou d'une question.",
+              "explanation_fr": "S'attache à un verbe ou un adjectif pour faire une supposition sur un événement futur ou une situation non observée, et est utilisé pour faire une suggestion ou poser une question.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "조금 이따가 레오 씨도 올 텐데 만나고 가세요.",
+                  "romanization": null,
+                  "french": "Leo va arriver un peu plus tard, alors attendez-le et partez.",
+                  "english": null
+                },
+                {
+                  "korean": "부모님께서 많이 걱정하실 텐데 연락을 자주 드리고 있어요?",
+                  "romanization": null,
+                  "french": "Vos parents doivent être très inquiets, leur téléphonez-vous souvent ?",
+                  "english": null
+                },
+                {
+                  "korean": "지금 바로 마시면 뜨거울 텐데 조금 식혀서 드세요.",
+                  "romanization": null,
+                  "french": "Si vous le buvez tout de suite, ce sera chaud, alors laissez-le refroidir un peu avant de le boire.",
+                  "english": null
+                },
+                {
+                  "korean": "지금은 점심시간일 텐데 2시 반 이후에 병원에 가 보는 게 어때요?",
+                  "romanization": null,
+                  "french": "C'est probablement l'heure du déjeuner, alors pourquoi ne pas aller à l'hôpital après 14h30 ?",
+                  "english": null
+                },
+                {
+                  "korean": "가: 오늘 밤에 눈이 많이 올 거래요. 아침 출근길이 걱정 돼요.\n나: 그러게요. 내일은 길이 미끄러울 텐데 운전할 때 조심하세요.",
+                  "romanization": null,
+                  "french": "A: On dit qu'il va beaucoup neiger ce soir. Je m'inquiète pour le trajet du matin.\nB: Oui, c'est vrai. La route sera glissante demain, alors soyez prudent en conduisant.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 윤아 씨, 혹시 마이클 씨 연락처를 아세요?\n나: 아니요, 마이클 씨 연락처는 우진 씨가 알 텐데 우진 씨에게 물어 보세요.",
+                  "romanization": null,
+                  "french": "A: Yuna, par hasard, tu aurais les coordonnées de Michael ?\nB: Non, je pense que Woojin les a. Demandez à Woojin.",
+                  "english": null
+                }
+              ],
+              "notes": null
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title_ko": "취업 박람회",
+          "title_fr": "Salon de l'emploi",
+          "dialogue_ko": null,
+          "dialogue_fr": null,
+          "dialogue_vocabulary": [],
+          "vocabulary_expansion": [],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-는지요?/은지요/ㄴ지요?",
+              "title_translit": null,
+              "summary_fr": "Utilisé pour poser une question polie à l'interlocuteur.",
+              "explanation_fr": "S'attache à un verbe ou un adjectif pour poser une question de manière polie à l'interlocuteur.",
+              "explanation_en": null,
+              "form_notes": "| Catégorie | Forme de liaison | Exemple |\n|---|---|---|\n| Verbe, 있다, 없다 | -는지요? | 가는지요?, 입는지요?, 있는지요? |\n| Adjectif (consonne finale sauf ㄹ) | -은지요? | 많은지요?, 좋은지요?, 괜찮은지요? |\n| Adjectif (voyelle finale ou ㄹ), Nom + 이다 | -ㄴ지요? | 바쁜지요?, 충분한지요?, 먼지요?, 학생인지요?, 휴가인지요? |",
+              "examples": [
+                {
+                  "korean": "성함이 어떻게 되시는지요?",
+                  "romanization": null,
+                  "french": "Quel est votre nom ? (forme très polie)",
+                  "english": null
+                },
+                {
+                  "korean": "혹시 음식 양이 부족하지는 않은지요?",
+                  "romanization": null,
+                  "french": "Par hasard, la quantité de nourriture n'est-elle pas insuffisante ?",
+                  "english": null
+                },
+                {
+                  "korean": "인사를 드리러 갈까 하는데 언제가 괜찮으신지요?",
+                  "romanization": null,
+                  "french": "J'aimerais vous saluer, quand vous conviendrait-il ?",
+                  "english": null
+                },
+                {
+                  "korean": "그 동안 별일 없으셨는지요?",
+                  "romanization": null,
+                  "french": "Y a-t-il eu quelque chose de particulier pendant ce temps ?",
+                  "english": null
+                },
+                {
+                  "korean": "가: 친절하게 설명해 주셔서 감사합니다.\n나: 아닙니다. 그 외에 더 궁금한 점은 없으신지요?",
+                  "romanization": null,
+                  "french": "A: Merci de m'avoir expliqué si gentiment.\nB: De rien. Y a-t-il d'autres questions que vous souhaiteriez poser ?",
+                  "english": null
+                },
+                {
+                  "korean": "가: 안녕하십니까? 요즘 어떻게 지내시는지요?\n나: 덕분에 잘 지내고 있습니다. 감사합니다.",
+                  "romanization": null,
+                  "french": "A: Bonjour. Comment allez-vous ces jours-ci ?\nB: Grâce à vous, je vais bien. Merci.",
+                  "english": null
+                }
+              ],
+              "notes": "Pour exprimer un fait déjà accompli, on utilise '-었는지요?'."
+            },
+            {
+              "order": 2,
+              "title_ko": "-는/은/ㄴ 경우에",
+              "title_translit": null,
+              "summary_fr": "Indique une condition ou un moment spécifique.",
+              "explanation_fr": "S'attache à un verbe ou un adjectif pour exprimer une condition ou un moment particulier.",
+              "explanation_en": null,
+              "form_notes": "| Catégorie | Forme de liaison | Exemple |\n|---|---|---|\n| Verbe, 있다, 없다 | -는 경우에 | 생기는 경우에, 잃어버리는 경우에, 있는 경우에 |\n| Adjectif (consonne finale sauf ㄹ) | -은 경우에 | 많은 경우에, 작은 경우에, 좁은 경우에 |\n| Adjectif (voyelle finale ou ㄹ), Nom + 이다 | -ㄴ 경우에 | 필요한 경우에, 먼 경우에, 위급 상황인 경우에, 휴가인 경우에 |",
+              "examples": [
+                {
+                  "korean": "병문안을 가는 경우에 먼저 손을 씻고 환자를 만나야 한다.",
+                  "romanization": null,
+                  "french": "Dans le cas où l'on rend visite à un malade, il faut d'abord se laver les mains avant de le rencontrer.",
+                  "english": null
+                },
+                {
+                  "korean": "급한 일이 있는 경우에 이 비상벨을 누르면 된다.",
+                  "romanization": null,
+                  "french": "En cas d'urgence, il suffit d'appuyer sur cette sonnette d'alarme.",
+                  "english": null
+                },
+                {
+                  "korean": "신청자가 많은 경우에는 신청 접수를 예정보다 일찍 끝낼 수 있다.",
+                  "romanization": null,
+                  "french": "Si le nombre de candidats est élevé, les inscriptions peuvent être clôturées plus tôt que prévu.",
+                  "english": null
+                },
+                {
+                  "korean": "문제가 생겼을 경우 관리자에게 즉시 연락해서 해결해야 한다.",
+                  "romanization": null,
+                  "french": "En cas de problème, il faut contacter immédiatement l'administrateur pour le résoudre.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 학생증을 잃어버렸는데 도서관에 들어갈 수 없나요?\n나: 학생증을 잃어버린 경우 도서관에서 출입증을 받으면 들어갈 수 있습니다.",
+                  "romanization": null,
+                  "french": "A: J'ai perdu ma carte d'étudiant, je ne peux pas entrer à la bibliothèque ?\nB: En cas de perte de votre carte d'étudiant, vous pouvez obtenir un laissez-passer à la bibliothèque.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 공연 표를 취소하고 싶은데 수수료를 내야 합니까?\n나: 예매 후 7일 안에 취소하는 경우에는 취소 수수료가 없지만 그 이후에는 수수료를 내야 합니다.",
+                  "romanization": null,
+                  "french": "A: Je voudrais annuler mes billets de spectacle, dois-je payer des frais ?\nB: Si vous annulez dans les 7 jours suivant la réservation, il n'y a pas de frais d'annulation, mais après cela, vous devrez en payer.",
+                  "english": null
+                }
+              ],
+              "notes": "Pour les situations déjà terminées, on utilise '-은/ㄴ 경우에' ou '-었을/았을/였을 경우에'. La particule '에' peut être omise."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title_ko": "생활 속의 경제",
+      "title_fr": "L'économie au quotidien",
+      "sections": [
+        {
+          "order": 1,
+          "title_ko": "소비 형태",
+          "title_fr": "Formes de consommation",
+          "dialogue_ko": null,
+          "dialogue_fr": null,
+          "dialogue_vocabulary": [],
+          "vocabulary_expansion": [],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-는걸요/은걸요/ㄴ걸요",
+              "title_translit": "-neungeoryo/eungeoryo/ngeoryo",
+              "summary_fr": "S'utilise pour répondre à une question ou ajouter une information, souvent pour contredire gentiment ou exprimer un fait contraire aux attentes.",
+              "explanation_fr": "S'attache aux verbes ou adjectifs pour compléter les propos de quelqu'un ou pour répondre à une question. On l'utilise lorsque ce que l'on sait ou ce à quoi on s'attend est différent, ou pour réfuter légèrement l'opinion de l'autre personne.",
+              "explanation_en": null,
+              "form_notes": "```markdown\n| Type | Terminaison | Règle |\n| --- | --- | --- |\n| Verbe, 있다, 없다 | Consonne ou voyelle | -는걸요 |\n| Adjectif | Consonne (sauf ㄹ) | -은걸요 |\n| Adjectif | Voyelle ou ㄹ | -ㄴ걸요 |\n| Nom + 이다 | Consonne ou voyelle | -ㄴ걸요 |\n\n**Exemples**\n- 먹다 → 먹는걸요\n- 있다 → 있는걸요\n- 좋다 → 좋은걸요\n- 예쁘다 → 예쁜걸요\n- 멀다 → 먼걸요\n- 학생이다 → 학생인걸요\n```",
+              "examples": [
+                {
+                  "korean": "아이들이 앉아서 공부만 하는 것을 싫어하는걸요.",
+                  "romanization": null,
+                  "french": "Les enfants n'aiment pas rester assis à étudier, vous savez.",
+                  "english": null
+                },
+                {
+                  "korean": "오늘은 어제보다 날씨가 추운걸요. 옷을 더 따뜻하게 입으셔야 겠어요.",
+                  "romanization": null,
+                  "french": "Il fait plus froid qu'hier, vous savez. Vous devriez vous habiller plus chaudement.",
+                  "english": null
+                },
+                {
+                  "korean": "곧 4시인걸. 빨리 가도 4시 지나서 은행에 도착할 것 같으니까 내일 가자.",
+                  "romanization": null,
+                  "french": "Il est déjà presque 16h. Même si on se dépêche, on arrivera à la banque après 16h, alors allons-y demain.",
+                  "english": null
+                },
+                {
+                  "korean": "우리는 이미 여행 계획을 세웠는걸요. 지금 계획을 바꾸기는 어려울 것 같아요.",
+                  "romanization": null,
+                  "french": "Nous avons déjà planifié notre voyage. Il semble difficile de changer nos plans maintenant.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 선물로 받은 옷을 입어 봤는데 네가 보기에는 어때? 나한테 잘 맞는 것 같아?\n나: 좀 큰걸. 한 치수 작은 것으로 바꿔야겠어.",
+                  "romanization": null,
+                  "french": "A : J'ai essayé le vêtement que j'ai reçu en cadeau, qu'en penses-tu ? Il me va bien, non ?\nB : En fait, il est un peu grand. Tu devrais l'échanger contre une taille en dessous.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 음식이 많이 남았으니까 더 드세요.\n나: 이미 많이 먹었는걸요. 이제 배가 불러서 더 이상 못 먹겠어요.",
+                  "romanization": null,
+                  "french": "A : Il reste beaucoup de nourriture, servez-vous encore.\nB : J'ai déjà beaucoup mangé. Je suis rassasié et je ne peux plus rien avaler.",
+                  "english": null
+                }
+              ],
+              "notes": "Pour une situation passée, on utilise '-었는걸요/았는걸요/였는걸요', mais on peut aussi utiliser '-은걸요/ㄴ걸요'."
+            },
+            {
+              "order": 2,
+              "title_ko": "-게요?",
+              "title_translit": "-geyo?",
+              "summary_fr": "S'utilise pour confirmer l'intention de l'interlocuteur, que le locuteur a déduite de la situation.",
+              "explanation_fr": "S'attache à un verbe et est utilisé lorsque le locuteur souhaite confirmer l'intention de l'autre personne, qu'il a devinée en fonction de la situation.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "펜이 필요하세요? 뭘 쓰시게요?",
+                  "romanization": null,
+                  "french": "Vous avez besoin d'un stylo ? Vous allez écrire quelque chose ?",
+                  "english": null
+                },
+                {
+                  "korean": "등산복을 입으셨네요. 산에 가시게요?",
+                  "romanization": null,
+                  "french": "Vous portez des vêtements de randonnée. Vous allez à la montagne ?",
+                  "english": null
+                },
+                {
+                  "korean": "왜 숟가락을 놓으세요? 그만 드시게요?",
+                  "romanization": null,
+                  "french": "Pourquoi posez-vous votre cuillère ? Vous avez fini de manger ?",
+                  "english": null
+                },
+                {
+                  "korean": "결제하시게요? 금방 갈게요. 잠깐만 기다려 주세요.",
+                  "romanization": null,
+                  "french": "Vous voulez payer ? J'arrive tout de suite. Veuillez patienter un instant.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 너무 피곤해서 씻을 힘도 없어요.\n나: 그래서 그냥 자게? 그래도 씻고 자야지.",
+                  "romanization": null,
+                  "french": "A : Je suis trop fatigué, je n'ai même pas la force de me laver.\nB : Alors tu vas te coucher comme ça ? Tu devrais quand même te laver avant de dormir.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 50대 여자 분이 사용할 로션 좀 보여 주세요.\n나: 어머니께 선물하시게요?",
+                  "romanization": null,
+                  "french": "A : Montrez-moi une lotion pour une femme d'une cinquantaine d'années.\nB : C'est pour offrir à votre mère ?",
+                  "english": null
+                }
+              ],
+              "notes": null
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title_ko": "결제 방식",
+          "title_fr": "Méthodes de paiement",
+          "dialogue_ko": null,
+          "dialogue_fr": null,
+          "dialogue_vocabulary": [],
+          "vocabulary_expansion": [],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-었어야/았어야/였어야 하다",
+              "title_translit": "-eosseoya/asseoya/yeosseoya hada",
+              "summary_fr": "Exprime le regret ou la déception de ne pas avoir fait dans le passé quelque chose qui était nécessaire ou obligatoire.",
+              "explanation_fr": "S'attache à un verbe pour exprimer le regret ou la déception de ne pas avoir accompli une action qui était nécessaire ou obligatoire dans le passé. La forme '-지 말았어야 하다' est utilisée pour regretter une action qui a été faite.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "한국에 도착하자마자 부모님께 전화를 드렸어야 했는데…",
+                  "romanization": null,
+                  "french": "J'aurais dû appeler mes parents dès mon arrivée en Corée...",
+                  "english": null
+                },
+                {
+                  "korean": "축구 경기를 경기장에 가서 직접 봤어야 했는데 보지 못해서 너무 아쉽다.",
+                  "romanization": null,
+                  "french": "J'aurais dû aller voir le match de football directement au stade, je suis si déçu de ne pas l'avoir vu.",
+                  "english": null
+                },
+                {
+                  "korean": "택시를 타지 말았어야 했다. 택시를 탔다가 오히려 더 늦게 도착하고 말았다.",
+                  "romanization": null,
+                  "french": "Je n'aurais pas dû prendre le taxi. En le prenant, je suis finalement arrivé encore plus en retard.",
+                  "english": null
+                },
+                {
+                  "korean": "약속 장소가 어디였는지 기억이 나지 않는다. 약속 장소를 적어 놓았어야 했는데…",
+                  "romanization": null,
+                  "french": "Je ne me souviens plus du lieu du rendez-vous. J'aurais dû le noter quelque part...",
+                  "english": null
+                },
+                {
+                  "korean": "가: 음식이 좀 부족할 것 같지요?\n나: 네, 좀 더 여유 있게 준비했어야 했나 봐요.",
+                  "romanization": null,
+                  "french": "A : On dirait qu'il va manquer un peu de nourriture, non ?\nB : Oui, j'ai l'impression que j'aurais dû en préparer un peu plus.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 내 말을 듣지 않고 고집을 부리다가 일이 잘못됐잖아. 이제 어떻게 할 거야?\n나: 나도 몰라. 네 말을 들었어야 했는데…",
+                  "romanization": null,
+                  "french": "A : Tu n'as pas écouté et tu as fait à ta tête, et maintenant tout a mal tourné. Qu'est-ce que tu vas faire ?\nB : Je ne sais pas non plus. J'aurais dû t'écouter...",
+                  "english": null
+                }
+              ],
+              "notes": null
+            },
+            {
+              "order": 2,
+              "title_ko": "-다가 보면",
+              "title_translit": "-daga bomyeon",
+              "summary_fr": "Exprime un résultat ou une découverte qui survient lorsqu'on continue une certaine action.",
+              "explanation_fr": "S'attache à un verbe pour exprimer un résultat qui apparaît au cours de la continuation d'une action. Peut aussi s'écrire '-다 보면'.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "일을 계속 하다가 보면 익숙해질 거예요.",
+                  "romanization": null,
+                  "french": "Si vous continuez à travailler, vous vous y habituerez.",
+                  "english": null
+                },
+                {
+                  "korean": "살다가 보면 생각하지 못한 일이 생기기도 한다.",
+                  "romanization": null,
+                  "french": "En vivant, il arrive parfois des choses inattendues.",
+                  "english": null
+                },
+                {
+                  "korean": "꾸준히 듣기 연습을 하다가 보면 듣기 실력이 좋아질 거예요.",
+                  "romanization": null,
+                  "french": "Si vous vous entraînez régulièrement à l'écoute, votre compréhension orale s'améliorera.",
+                  "english": null
+                },
+                {
+                  "korean": "바쁘게 준비하다가 보면 중요한 것을 빠뜨리는 경우도 있다.",
+                  "romanization": null,
+                  "french": "Quand on se prépare à la hâte, il arrive qu'on oublie des choses importantes.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 스트레스가 쌓였을 때 어떻게 하세요?\n나: 저는 친구들하고 이야기를 하다가 보면 스트레스가 다 풀리는 것 같아요.",
+                  "romanization": null,
+                  "french": "A : Que faites-vous quand vous êtes stressé ?\nB : Il me semble qu'en discutant avec mes amis, tout mon stress disparaît.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 이 근처에 대형 서점이 있어요?\n나: 네, 저쪽으로 쭉 가다 보면 파란색 큰 건물이 보일 거예요. 그 건물에 있어요.",
+                  "romanization": null,
+                  "french": "A : Y a-t-il une grande librairie près d'ici ?\nB : Oui, si vous continuez tout droit par là, vous verrez un grand bâtiment bleu. C'est dans ce bâtiment.",
+                  "english": null
+                }
+              ],
+              "notes": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title_ko": "의사소통과 표현",
+      "title_fr": "Communication et expression",
+      "sections": [
+        {
+          "order": 1,
+          "title_ko": "불평과 불만",
+          "title_fr": "Plaintes et insatisfactions",
+          "dialogue_ko": null,
+          "dialogue_fr": null,
+          "dialogue_vocabulary": [],
+          "vocabulary_expansion": [],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "까지",
+              "title_translit": null,
+              "summary_fr": "S'attache à un nom pour indiquer qu'une chose est déjà incluse et qu'une autre y est ajoutée.",
+              "explanation_fr": "S'attache à un nom pour indiquer qu'une chose est déjà incluse et qu'une autre y est ajoutée par-dessus.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "선배가 점심에다가 커피까지 사 줬다.",
+                  "romanization": null,
+                  "french": "Mon aîné m'a offert le déjeuner et même le café.",
+                  "english": null
+                },
+                {
+                  "korean": "회사 일도 많은데 퇴근 후에 집안일까지 해야 해서 힘들다.",
+                  "romanization": null,
+                  "french": "J'ai beaucoup de travail à l'entreprise, et en plus je dois faire les tâches ménagères après le travail, c'est difficile.",
+                  "english": null
+                },
+                {
+                  "korean": "비가 오는데 바람까지 심하게 불어서 우산을 써도 소용없었다.",
+                  "romanization": null,
+                  "french": "Il pleuvait, et en plus le vent soufflait si fort que le parapluie était inutile.",
+                  "english": null
+                },
+                {
+                  "korean": "민수 씨는 일도 잘하는데 성격까지 좋아서 회사 사람들이 민수 씨를 좋아한다.",
+                  "romanization": null,
+                  "french": "Minsu travaille bien, et en plus il a une bonne personnalité, alors les gens de l'entreprise l'apprécient.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 안색이 안 좋아 보여요. 어디 아파요?\n나: 어제는 기침만 났는데 이제 열까지 나요.",
+                  "romanization": null,
+                  "french": "A: Tu as mauvaise mine. Tu es malade ?\nB: Hier, je n'avais qu'une toux, mais maintenant j'ai même de la fièvre.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 오늘 아침에 왜 늦었어요?\n나: 월요일인데 사고까지 나서 차가 더 밀렸어요. 그래서 늦었어요.",
+                  "romanization": null,
+                  "french": "A: Pourquoi es-tu en retard ce matin ?\nB: C'était lundi, et en plus il y a eu un accident, alors la circulation était encore plus dense. C'est pour ça que je suis en retard.",
+                  "english": null
+                }
+              ],
+              "notes": null
+            },
+            {
+              "order": 2,
+              "title_ko": "-더라고요",
+              "title_translit": null,
+              "summary_fr": "S'attache aux verbes ou adjectifs pour rapporter à l'interlocuteur un fait nouveau découvert par expérience directe dans le passé.",
+              "explanation_fr": "S'attache aux verbes ou adjectifs pour rapporter à l'interlocuteur un fait nouveau découvert par expérience directe dans le passé.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "부모님 목소리를 들으니까 부모님 생각이 더 나더라고요.",
+                  "romanization": null,
+                  "french": "En entendant la voix de mes parents, je me suis rendu compte que mes parents me manquaient encore plus.",
+                  "english": null
+                },
+                {
+                  "korean": "제가 먹어 보니까 이 가게는 순두부찌개가 맛있더라고요.",
+                  "romanization": null,
+                  "french": "Après avoir goûté, j'ai trouvé que ce restaurant faisait un délicieux sundubu-jjigae.",
+                  "english": null
+                },
+                {
+                  "korean": "친구가 재미있다고 해서 그 영화를 봤는데 생각보다 재미없더라고요.",
+                  "romanization": null,
+                  "french": "Mon ami m'a dit que ce film était amusant, alors je l'ai regardé, mais je l'ai trouvé moins intéressant que prévu.",
+                  "english": null
+                },
+                {
+                  "korean": "조금 전에 제임스 씨를 만났는데 제임스 씨가 화가 많이 났더라고요.",
+                  "romanization": null,
+                  "french": "J'ai rencontré James il y a un instant, et il était très en colère.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 왜 인터넷으로만 물건을 사세요?\n나: 값이 싸기도 하고 배달도 해 주니까 편하더라고요.",
+                  "romanization": null,
+                  "french": "A: Pourquoi n'achetez-vous des choses que sur internet ?\nB: J'ai trouvé que c'était pratique parce que c'est moins cher et qu'ils livrent.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 우리가 자주 가던 카페에 오랜만에 가 볼까요?\n나: 지난번에 친구와 같이 갔는데 문을 닫았더라고요.",
+                  "romanization": null,
+                  "french": "A: Et si on allait au café où on va souvent, ça fait longtemps ?\nB: La dernière fois que j'y suis allé avec un ami, j'ai trouvé que c'était fermé.",
+                  "english": null
+                }
+              ],
+              "notes": "Lorsque l'on rapporte un fait déjà accompli, on utilise '-었더라고요'."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title_ko": "위로와 격려",
+          "title_fr": "Consolation et encouragement",
+          "dialogue_ko": null,
+          "dialogue_fr": null,
+          "dialogue_vocabulary": [],
+          "vocabulary_expansion": [],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-는지/은지/ㄴ지",
+              "title_translit": null,
+              "summary_fr": "S'attache aux verbes ou adjectifs pour exprimer une raison vague et incertaine pour la phrase suivante.",
+              "explanation_fr": "S'attache aux verbes ou adjectifs pour exprimer une raison vague et incertaine pour la phrase suivante.",
+              "explanation_en": null,
+              "form_notes": "| 앞에 오는 어간 | 결합 형태 | 예 |\n|---|---|---|\n| 동사, 있다, 없다 | -는지 | 가는지, 읽는지, 있는지 |\n| 자음(형용사) | -은지 | 많은지, 좋은지, 괜찮은지 |\n| 모음, ㄹ(형용사) 명사+이다 | -ㄴ지 | 바쁜지, 부지런한지, 힘든지, 학생인지, 부자인지 |",
+              "examples": [
+                {
+                  "korean": "에릭 씨가 영화를 좋아하는지 영화에 대해서 자주 이야기한다.",
+                  "romanization": null,
+                  "french": "Eric parle souvent de films, je me demande s'il aime les films.",
+                  "english": null
+                },
+                {
+                  "korean": "제임스 씨가 속이 안 좋은지 밥을 잘 안 먹는다.",
+                  "romanization": null,
+                  "french": "James ne mange pas bien, je me demande s'il a mal au ventre.",
+                  "english": null
+                },
+                {
+                  "korean": "어머니께서 바쁘신지 요즘 나에게 전화를 자주 안 하신다.",
+                  "romanization": null,
+                  "french": "Ma mère ne m'appelle pas souvent ces jours-ci, je me demande si elle est occupée.",
+                  "english": null
+                },
+                {
+                  "korean": "수도가 고장이 났는지 어제 저녁부터 물이 전혀 나오지 않는다.",
+                  "romanization": null,
+                  "french": "L'eau ne coule plus du tout depuis hier soir, je me demande si le robinet est cassé.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 어제 노라 씨가 한 요리를 친구들이 잘 먹었어요?\n나: 네, 다들 입에 맞는지 잘 먹더라고요.",
+                  "romanization": null,
+                  "french": "A: Les amis ont bien aimé le plat que Nora a préparé hier ?\nB: Oui, ils ont tous bien mangé, je me demande si c'était à leur goût.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 장위 씨가 대학원에 합격했대요?\n나: 글쎄요, 합격 발표가 안 났는지 아직 아무 말도 없어요.",
+                  "romanization": null,
+                  "french": "A: On dit que Jangwi a été accepté à l'école doctorale ?\nB: Je ne sais pas, je me demande si les résultats ne sont pas encore sortis, il n'y a pas eu de nouvelles.",
+                  "english": null
+                }
+              ],
+              "notes": "Lorsque l'on parle d'un fait déjà accompli, on utilise '-었는지'."
+            },
+            {
+              "order": 2,
+              "title_ko": "-겠지요",
+              "title_translit": null,
+              "summary_fr": "S'attache aux verbes ou adjectifs pour exprimer une supposition avec certitude, en pensant que l'interlocuteur le sait déjà.",
+              "explanation_fr": "S'attache aux verbes ou adjectifs pour exprimer une supposition avec certitude, en pensant que l'interlocuteur le sait déjà.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "존 씨는 전에 수영을 배웠다고 했으니까 수영을 잘하겠지요.",
+                  "romanization": null,
+                  "french": "John a dit qu'il avait appris à nager avant, alors il doit bien nager.",
+                  "english": null
+                },
+                {
+                  "korean": "리타오 씨가 열심히 준비했으니까 이번 면접시험에는 합격하겠지요.",
+                  "romanization": null,
+                  "french": "Ritao s'est préparé assidûment, alors il doit réussir cet entretien.",
+                  "english": null
+                },
+                {
+                  "korean": "흐엉 씨는 아르바이트를 하니까 생활비가 부족하지 않겠지요.",
+                  "romanization": null,
+                  "french": "Huong fait un travail à temps partiel, alors elle ne doit pas manquer d'argent pour vivre.",
+                  "english": null
+                },
+                {
+                  "korean": "네가 연락도 없이 1시간이나 늦었으니까 친구가 당연히 화가 났겠지.",
+                  "romanization": null,
+                  "french": "Tu es arrivé une heure en retard sans prévenir, alors ton ami a dû être en colère, bien sûr.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 잘 지내세요. 이제 귀국하면 우리는 언제 또 만날 수 있을 까요?\n나: 살다 보면 언젠가 다시 만날 날이 있겠지요.",
+                  "romanization": null,
+                  "french": "A: Prenez soin de vous. Maintenant que je rentre, quand pourrons-nous nous revoir ?\nB: En vivant, il y aura bien un jour où nous nous reverrons.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 어제 영희가 연락도 없이 약속 장소에 안 나타났어.\n나: 영희에게 급한 일이 생겼겠지.",
+                  "romanization": null,
+                  "french": "A: Hier, Younghee n'est pas venue au rendez-vous sans prévenir.\nB: Il a dû lui arriver quelque chose d'urgent.",
+                  "english": null
+                }
+              ],
+              "notes": "Lorsque l'on parle d'un fait déjà accompli, on utilise '-었겠지요'."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title_ko": "일상생활",
+      "title_fr": "Vie quotidienne",
+      "sections": [
+        {
+          "order": 1,
+          "title_ko": "공공질서",
+          "title_fr": "Ordre public",
+          "dialogue_ko": null,
+          "dialogue_fr": null,
+          "dialogue_vocabulary": [],
+          "vocabulary_expansion": [],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-도록²",
+              "title_translit": null,
+              "summary_fr": "Exprime le degré ou la limite jusqu'où une action est effectuée.",
+              "explanation_fr": "Ce suffixe verbal s'attache à un verbe pour indiquer le degré, la limite ou le point jusqu'où une action atteint.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "우진 씨는 운동화가 닳도록 열심히 운동을 했다.",
+                  "romanization": null,
+                  "french": "Monsieur Woojin a fait de l'exercice si intensément que ses chaussures de sport sont usées.",
+                  "english": null
+                },
+                {
+                  "korean": "강아지가 털이 다 빠지도록 몸을 긁고 또 긁었다.",
+                  "romanization": null,
+                  "french": "Le chiot s'est gratté encore et encore jusqu'à ce que tous ses poils tombent.",
+                  "english": null
+                },
+                {
+                  "korean": "에릭 씨는 한국에 온 지 3년이 다 되도록 부산에 가 보지 못했다.",
+                  "romanization": null,
+                  "french": "Monsieur Eric n'a pas pu aller à Busan même après être en Corée depuis trois ans.",
+                  "english": null
+                },
+                {
+                  "korean": "경찰은 그 사건이 일어난 지 일주일이 넘도록 범인을 잡지 못했다.",
+                  "romanization": null,
+                  "french": "La police n'a pas réussi à attraper le coupable même après plus d'une semaine depuis l'incident.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 고향에 있는 동생은 요즘도 연락을 안 해요?\n나: 네, 한 달이 넘도록 전화를 하지 않아요.",
+                  "romanization": null,
+                  "french": "A: Votre frère/sœur resté(e) au pays ne vous contacte-t-il/elle pas ces jours-ci? B: Non, il/elle ne m'appelle pas depuis plus d'un mois.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 다리가 왜 그래요?\n나: 모기에 물린 곳이 가려워서 피가 나도록 긁었어요. 참으려고 했지만 너무 가려워서 참을 수가 없었어요.",
+                  "romanization": null,
+                  "french": "A: Qu'est-ce qui est arrivé à votre jambe? B: L'endroit où j'ai été piqué(e) par un moustique me démangeait tellement que je l'ai gratté(e) jusqu'au sang. J'ai essayé de me retenir, mais ça me démangeait trop.",
+                  "english": null
+                }
+              ],
+              "notes": null
+            },
+            {
+              "order": 2,
+              "title_ko": "만이라도",
+              "title_translit": null,
+              "summary_fr": "Exprime qu'une chose est le minimum souhaité ou le meilleur compromis dans une situation donnée, même si elle est loin des attentes idéales.",
+              "explanation_fr": "Ce suffixe s'attache à un nom pour indiquer que, bien que cela soit bien en deçà des attentes, c'est le meilleur que l'on puisse espérer dans la situation donnée. Il exprime un grand désir de la personne qui parle, souvent en conjonction avec des expressions de souhait comme '-고 싶다' (vouloir) ou '-으면 좋겠다' (souhaiter). Pour les verbes et adjectifs, on utilise '-기만이라도'.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "저 사람의 이름만이라도 알고 싶다.",
+                  "romanization": null,
+                  "french": "Je voudrais au moins connaître le nom de cette personne.",
+                  "english": null
+                },
+                {
+                  "korean": "한 사람만이라도 내 마음을 알아줬으면 좋겠다.",
+                  "romanization": null,
+                  "french": "J'aimerais qu'au moins une personne comprenne mes sentiments.",
+                  "english": null
+                },
+                {
+                  "korean": "내가 좋아하는 배우의 뒷모습만이라도 보고 싶다.",
+                  "romanization": null,
+                  "french": "Je voudrais au moins voir le dos de mon acteur préféré.",
+                  "english": null
+                },
+                {
+                  "korean": "월급이 많지 않아도 되니까 회사에 들어가기만이라도 했으면 좋겠다.",
+                  "romanization": null,
+                  "french": "Même si le salaire n'est pas élevé, j'aimerais au moins pouvoir entrer dans cette entreprise.",
+                  "english": null
+                }
+              ],
+              "notes": null
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title_ko": "현대인의 모습",
+          "title_fr": "L'apparence des gens modernes",
+          "dialogue_ko": null,
+          "dialogue_fr": null,
+          "dialogue_vocabulary": [],
+          "vocabulary_expansion": [],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "만 아니면",
+              "title_translit": null,
+              "summary_fr": "Indique que la situation précédente est la seule raison pour laquelle une action est faite ou non, contrairement à l'intention du locuteur.",
+              "explanation_fr": "Ce suffixe s'attache à un nom pour indiquer que le contenu précédent est la seule raison pour laquelle la personne qui parle fait ou ne fait pas quelque chose, contrairement à son intention.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "친구의 부탁만 아니면 그 일을 안 했을 것이다.",
+                  "romanization": null,
+                  "french": "Si ce n'était pas la demande de mon ami, je n'aurais pas fait ce travail.",
+                  "english": null
+                },
+                {
+                  "korean": "그 과목만 아니면 이번에 졸업할 수 있었을 것이다.",
+                  "romanization": null,
+                  "french": "Si ce n'était pas cette matière, j'aurais pu obtenir mon diplôme cette fois-ci.",
+                  "english": null
+                },
+                {
+                  "korean": "중요한 회의만 아니면 휴가를 내고 여행을 갔을 텐데 회의 때문에 못 갔다.",
+                  "romanization": null,
+                  "french": "Si ce n'était pas cette réunion importante, j'aurais pris des vacances et voyagé, mais je n'ai pas pu à cause de la réunion.",
+                  "english": null
+                },
+                {
+                  "korean": "부모님을 만나기로 한 약속만 아니면 친구들 모임에 갔을 텐데 아쉽다.",
+                  "romanization": null,
+                  "french": "Si ce n'était pas la promesse de rencontrer mes parents, j'aurais pu aller à la réunion des amis, c'est dommage.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 이번 휴가는 해외로 간다고 했는데 잘 다녀왔어요?\n나: 아니요. 태풍만 아니면 갔을 텐데 태풍 때문에 출발도 못했어요.",
+                  "romanization": null,
+                  "french": "A: Vous avez dit que vous alliez à l'étranger pour ces vacances, vous avez passé un bon séjour? B: Non. Si ce n'était pas le typhon, j'y serais allé(e), mais je n'ai même pas pu partir à cause du typhon.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 민수 씨는 도시 생활을 즐기시나 봐요.\n나: 아니에요. 직장만 아니면 도시에서 안 살았을 거예요.",
+                  "romanization": null,
+                  "french": "A: On dirait que Monsieur Minsu apprécie la vie en ville. B: Non. Si ce n'était pas mon travail, je ne vivrais pas en ville.",
+                  "english": null
+                }
+              ],
+              "notes": null
+            },
+            {
+              "order": 2,
+              "title_ko": "-는/은/ㄴ 듯이",
+              "title_translit": null,
+              "summary_fr": "Exprime qu'une action ou un état est similaire à ce qui précède, utilisé pour une comparaison métaphorique.",
+              "explanation_fr": "Ce suffixe s'attache à un verbe ou un adjectif pour exprimer qu'une action ou un état ultérieur est similaire au contenu précédent, en l'utilisant comme une métaphore.",
+              "explanation_en": null,
+              "form_notes": "| 앞에 오는 어간 | 결합 형태 | 예 |\n|---|---|---|\n| 동사, 있다, 없다 | -는 듯이 | 자는 듯이, 아는 듯이, 없는 듯이 |\n| 자음(형용사) | -은 듯이 | 많은 듯이, 괜찮은 듯이, 싫은 듯이 |\n| 모음, ㄹ(형용사) | -ㄴ 듯이 | 행복한 듯이, 아픈 듯이, 힘든 듯이 |\n| 명사+이다 | -ㄴ 듯이 | 학생인 듯이, 부자인 듯이 |",
+              "examples": [
+                {
+                  "korean": "에릭 씨는 수업이 끝나자마자 급한 일이 있는 듯이 서둘러 나갔다.",
+                  "romanization": null,
+                  "french": "Dès que le cours fut terminé, Monsieur Eric est parti en hâte comme s'il avait une affaire urgente.",
+                  "english": null
+                },
+                {
+                  "korean": "윤아 씨는 무릎이 아픈 듯이 계속 무릎을 두드렸다.",
+                  "romanization": null,
+                  "french": "Madame Yoon-a n'arrêtait pas de se tapoter le genou comme s'il elle avait mal.",
+                  "english": null
+                },
+                {
+                  "korean": "영수는 화가 난 듯이 아무 말도 하지 않았다.",
+                  "romanization": null,
+                  "french": "Youngsu n'a rien dit, comme s'il était en colère.",
+                  "english": null
+                },
+                {
+                  "korean": "부모님은 아들의 합격 소식을 듣고 뛸 듯이 기뻐했다.",
+                  "romanization": null,
+                  "french": "Les parents étaient fous de joie en apprenant la nouvelle de la réussite de leur fils, comme s'ils allaient sauter.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 발표 전에는 배가 아프다고 하더니 지금은 괜찮아요?\n나: 발표가 끝나고 나니까 씻은 듯이 나았어요.",
+                  "romanization": null,
+                  "french": "A: Vous disiez avoir mal au ventre avant la présentation, ça va mieux maintenant? B: Oui, après la présentation, je me sens comme si j'avais été lavé(e) de tout mal.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 흐엉 씨가 취직 시험에 합격했다. 정말 잘 됐지?\n나: 흐엉 씨가 합격했는데 네가 합격한 듯이 좋아하네.",
+                  "romanization": null,
+                  "french": "A: Huong a réussi l'examen d'embauche. C'est vraiment super, n'est-ce pas? B: Oui, Huong a réussi, et tu es content(e) comme si c'était toi qui avais réussi.",
+                  "english": null
+                }
+              ],
+              "notes": "Pour une situation actuelle, on utilise '-는 듯이'. Pour une situation achevée, on utilise '-은/ㄴ 듯이'. Pour une situation qui semble sur le point de se produire, on utilise '-을/ㄹ 듯이'."
+            },
+            {
+              "order": 3,
+              "title_ko": "-는/은/ㄴ 법이다",
+              "title_translit": null,
+              "summary_fr": "Exprime une loi naturelle, une évidence ou une nécessité, indiquant que quelque chose est naturellement ainsi ou doit être ainsi.",
+              "explanation_fr": "Ce suffixe s'attache à un verbe ou un adjectif pour exprimer une loi naturelle, une évidence ou une nécessité.",
+              "explanation_en": null,
+              "form_notes": "| 앞에 오는 어간 | 결합 형태 | 예 |\n|---|---|---|\n| 동사, 있다, 없다 | -는 법이다 | 자는 법이다, 보는 법이다, 있는 법이다 |\n| 자음(형용사) | -은 법이다 | 많은 법이다, 괜찮은 법이다, 싫은 법이다 |\n| 모음, ㄹ(형용사) | -ㄴ 법이다 | 행복한 법이다, 아픈 법이다, 힘든 법이다 |",
+              "examples": [
+                {
+                  "korean": "겨울이 가면 봄이 오는 법이다.",
+                  "romanization": null,
+                  "french": "Quand l'hiver s'en va, le printemps arrive, c'est la loi naturelle.",
+                  "english": null
+                },
+                {
+                  "korean": "무슨 일이든지 서두르면 실수하기 쉬운 법이다.",
+                  "romanization": null,
+                  "french": "Quand on se précipite pour faire quoi que ce soit, on a tendance à faire des erreurs, c'est comme ça.",
+                  "english": null
+                },
+                {
+                  "korean": "아무리 좋은 말도 여러 번 들으면 듣기 싫은 법이다.",
+                  "romanization": null,
+                  "french": "Même les bonnes paroles, si on les entend trop souvent, on finit par ne plus vouloir les écouter, c'est la nature humaine.",
+                  "english": null
+                },
+                {
+                  "korean": "모든 일에는 순서가 있는 법이다.",
+                  "romanization": null,
+                  "french": "Toutes choses ont un ordre, c'est la règle.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 김 과장이 잘못을 했는데 이 대리가 회사를 그만뒀대요.\n나: 잘못한 사람이 책임을 져야 하는 법인데 왜 이 대리가 그만뒀대요?",
+                  "romanization": null,
+                  "french": "A: Le chef de section Kim a fait une erreur, mais c'est le chef d'équipe Lee qui a quitté l'entreprise. B: C'est la personne qui a fait l'erreur qui devrait prendre ses responsabilités, pourquoi le chef d'équipe Lee a-t-il démissionné?",
+                  "english": null
+                },
+                {
+                  "korean": "가: 지난주부터 요가를 배우기 시작했는데 생각보다 어려워요.\n나: 뭐든지 처음 배울 때는 어려운 법이에요. 배우다가 보면 익숙해질 거예요.",
+                  "romanization": null,
+                  "french": "A: J'ai commencé le yoga la semaine dernière et c'est plus difficile que je ne le pensais. B: Tout est difficile quand on commence. Vous vous y habituerez en pratiquant.",
+                  "english": null
+                }
+              ],
+              "notes": null
+            },
+            {
+              "order": 4,
+              "title_ko": "-는다고/ㄴ다고/다고 할 수 있다",
+              "title_translit": null,
+              "summary_fr": "Indique qu'une affirmation est généralement acceptée ou ne pose pas de problème, car elle ne diffère pas beaucoup de l'opinion commune.",
+              "explanation_fr": "Ce suffixe s'attache à un verbe ou un adjectif pour indiquer que ce que l'on dit n'est pas très différent de l'opinion générale et qu'il n'y a pas de problème à le dire ainsi.",
+              "explanation_en": null,
+              "form_notes": "| 앞에 오는 어간 | 결합 형태 | 예 |\n|---|---|---|\n| 자음(동사) | -는다고 할 수 있다 | 읽는다고 할 수 있다. 입는다고 할 수 있다. 믿는다고 할 수 있다 |\n| 모음, ㄹ(동사) | -ㄴ다고 할 수 있다 | 간다고 할 수 있다. 좋아한다고 할 수 있다. 만든다고 할 수 있다 |\n| 형용사 | -다고 할 수 있다 | 많다고 할 수 있다. 중요하다고 할 수 있다. 멀다고 할 수 있다 |\n| 명사+이다(자음) | 이라고 할 수 있다 | 학생이라고 할 수 있다. 휴일이라고 할 수 있다 |\n| 명사+이다(모음) | 라고 할 수 있다 | 부자라고 할 수 있다. 관광지라고 할 수 있다 |",
+              "examples": [
+                {
+                  "korean": "하루에 5시간 정도 자니까 다른 사람보다 적게 잔다고 할 수 있다.",
+                  "romanization": null,
+                  "french": "On peut dire que je dors moins que les autres car je ne dors qu'environ 5 heures par jour.",
+                  "english": null
+                },
+                {
+                  "korean": "홍대는 젊은이의 거리라고 할 수 있다.",
+                  "romanization": null,
+                  "french": "On peut dire que Hongdae est la rue des jeunes.",
+                  "english": null
+                },
+                {
+                  "korean": "명동은 서울에서 가장 유명한 관광지라고 할 수 있다.",
+                  "romanization": null,
+                  "french": "On peut dire que Myeongdong est le site touristique le plus célèbre de Séoul.",
+                  "english": null
+                },
+                {
+                  "korean": "피아노를 10년쯤 배웠으니까 오래 배웠다고 할 수 있다.",
+                  "romanization": null,
+                  "french": "On peut dire que j'ai étudié le piano pendant longtemps car je l'ai appris pendant environ 10 ans.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 미나 씨, 키가 170cm니까 한국에서는 큰 편이지요?\n나: 네, 한국 여자 중에서는 크다고 할 수 있지요.",
+                  "romanization": null,
+                  "french": "A: Mademoiselle Mina, comme vous mesurez 170 cm, vous êtes plutôt grande en Corée, n'est-ce pas? B: Oui, on peut dire que je suis grande parmi les femmes coréennes.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 한국에 오신 지 얼마나 되셨어요?\n나: 20년 됐어요. 이제 한국은 저한테 고향과 같은 곳이라고 할 수 있어요.",
+                  "romanization": null,
+                  "french": "A: Depuis combien de temps êtes-vous en Corée? B: Cela fait 20 ans. Maintenant, on peut dire que la Corée est comme ma ville natale pour moi.",
+                  "english": null
+                }
+              ],
+              "notes": "Pour parler d'un fait déjà accompli, on utilise '-었다고 할 수 있다'."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 8,
+      "title_ko": "문제와 해결",
+      "title_fr": "Problèmes et solutions",
+      "sections": [
+        {
+          "order": 1,
+          "title_ko": "고장과 수리",
+          "title_fr": "Panne et réparation",
+          "dialogue_ko": null,
+          "dialogue_fr": null,
+          "dialogue_vocabulary": [],
+          "vocabulary_expansion": [],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-는다/ㄴ다 -는다/ㄴ다 하는 것이",
+              "title_translit": null,
+              "summary_fr": "Exprime qu'une personne a eu l'intention de faire quelque chose à plusieurs reprises, mais n'a jamais pu le faire en réalité.",
+              "explanation_fr": "S'attache à un verbe pour indiquer que la personne qui parle a eu l'intention de faire quelque chose à plusieurs reprises, mais n'a pas pu le mettre en œuvre.",
+              "explanation_en": null,
+              "form_notes": "S'attache à la tige d'un verbe. Si la tige se termine par une consonne autre que 'ㄹ', on utilise '-는다-는다 하는 것이'. Si elle se termine par une voyelle ou 'ㄹ', on utilise '-ㄴ다 -ㄴ다 하는 것이'.|앞에 오는 어간|결합 형태|예|\n|---|---|---|\n|자음|-는다-는다 하는 것이|먹는다 먹는다 하는 것이, 찾는다 찾는다 하는 것이, 넣는다 넣는다 하는 것이|\n|모음, ㄹ|-ㄴ다-ㄴ다 하는 것이|간다 간다 하는 것이, 고친다 고친다 하는 것이, 만든다 만든다 하는 것이|",
+              "examples": [
+                {
+                  "korean": "약을 먹는다 먹는다 하는 것이 자꾸 잊어버린다.",
+                  "romanization": null,
+                  "french": "J'oublie toujours de prendre mes médicaments, même si j'ai l'intention de le faire.",
+                  "english": null
+                },
+                {
+                  "korean": "은행에 간다 간다 하는 게 시간이 안 나서 아직 못 갔다.",
+                  "romanization": null,
+                  "french": "J'ai l'intention d'aller à la banque, mais je n'ai pas encore pu y aller faute de temps.",
+                  "english": null
+                },
+                {
+                  "korean": "부모님께 전화를 드린다 드린다 하는 게 바빠서 전화를 못 드리고 있다.",
+                  "romanization": null,
+                  "french": "J'ai l'intention d'appeler mes parents, mais je n'ai pas pu le faire parce que j'étais occupé.",
+                  "english": null
+                },
+                {
+                  "korean": "그 사람에게 내 마음을 고백한다 한다 하는 것이 용기가 안 나서 못했다.",
+                  "romanization": null,
+                  "french": "J'ai eu l'intention de lui avouer mes sentiments, mais je n'ai pas eu le courage de le faire.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 머리를 자르러 갈 거라고 하지 않았어요?\n나: 미용실에 간다 간다 하는 것이 요즘 너무 바빠서 계속 못 갔어요.",
+                  "romanization": null,
+                  "french": "A: N'avez-vous pas dit que vous alliez vous faire couper les cheveux ?\nB: J'ai l'intention d'aller chez le coiffeur, mais je n'ai pas pu y aller parce que j'étais trop occupé ces derniers temps.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 주앙 씨에게 같이 식사할 수 있는지 물어봤어요?\n나: 미안해요. 물어본다 물어본다 하는 게 자꾸 잊어버려요.",
+                  "romanization": null,
+                  "french": "A: Avez-vous demandé à João s'il pouvait dîner avec nous ?\nB: Désolé. J'ai l'intention de lui demander, mais j'oublie toujours.",
+                  "english": null
+                }
+              ],
+              "notes": null
+            },
+            {
+              "order": 2,
+              "title_ko": "-는 수밖에 없다",
+              "title_translit": null,
+              "summary_fr": "Indique qu'il n'y a pas d'autre choix que de faire quelque chose, et qu'il faut donc le faire.",
+              "explanation_fr": "S'attache à un verbe pour indiquer qu'il n'y a pas d'autre méthode et qu'il faut inévitablement choisir de faire cela.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "제시간에 일을 마치려면 일하는 시간을 늘리는 수밖에 없다.",
+                  "romanization": null,
+                  "french": "Pour finir le travail à temps, il n'y a pas d'autre choix que d'augmenter les heures de travail.",
+                  "english": null
+                },
+                {
+                  "korean": "한국어 능력 시험 성적표 유효 기간이 끝나서 시험을 다시 보는 수밖에 없다.",
+                  "romanization": null,
+                  "french": "La période de validité de mon certificat de compétence en coréen est terminée, donc je n'ai pas d'autre choix que de repasser l'examen.",
+                  "english": null
+                },
+                {
+                  "korean": "네가 거짓말한 것을 엄마가 알았으니까 이제는 사실대로 말하는 수밖에 없다.",
+                  "romanization": null,
+                  "french": "Puisque maman a découvert que tu as menti, il n'y a plus qu'à dire la vérité.",
+                  "english": null
+                },
+                {
+                  "korean": "어머니의 수술이 잘 끝났다고 하니까 이제 회복하시기를 기다리는 수밖에 없다.",
+                  "romanization": null,
+                  "french": "Puisque l'opération de ma mère s'est bien passée, il n'y a plus qu'à attendre sa guérison.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 모레 일본으로 여행을 가기로 했는데 여권을 잃어버렸어요.\n나: 여권이 없으면 여행을 취소하는 수밖에 없어요. 다시 잘 찾아보세요.",
+                  "romanization": null,
+                  "french": "A: Je devais partir en voyage au Japon après-demain, mais j'ai perdu mon passeport.\nB: S'il n'y a pas de passeport, il n'y a pas d'autre choix que d'annuler le voyage. Cherchez-le bien à nouveau.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 엘리베이터가 고장났어요.\n나: 걸어서 올라가는 수밖에 없겠네요.",
+                  "romanization": null,
+                  "french": "A: L'ascenseur est en panne.\nB: Il n'y a pas d'autre choix que de monter à pied, alors.",
+                  "english": null
+                }
+              ],
+              "notes": null
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title_ko": "이웃 간의 문제",
+          "title_fr": "Problèmes de voisinage",
+          "dialogue_ko": null,
+          "dialogue_fr": null,
+          "dialogue_vocabulary": [],
+          "vocabulary_expansion": [],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-는 바람에",
+              "title_translit": null,
+              "summary_fr": "Exprime qu'une action précédente est la cause ou la raison d'une situation ultérieure, souvent avec une connotation négative ou un résultat inattendu.",
+              "explanation_fr": "S'attache à un verbe pour indiquer que l'action précédente est la cause ou la raison de la situation suivante. Il est généralement utilisé lorsque la situation précédente a un impact négatif sur l'action suivante ou entraîne un résultat différent de l'intention de la personne qui parle.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "환율이 떨어지는 바람에 손해를 봤다.",
+                  "romanization": null,
+                  "french": "J'ai subi des pertes à cause de la chute du taux de change.",
+                  "english": null
+                },
+                {
+                  "korean": "버스를 잘못 타는 바람에 학교에 늦었다.",
+                  "romanization": null,
+                  "french": "Je suis arrivé en retard à l'école parce que j'ai pris le mauvais bus.",
+                  "english": null
+                },
+                {
+                  "korean": "비가 많이 오는 바람에 야구 경기가 취소됐다.",
+                  "romanization": null,
+                  "french": "Le match de baseball a été annulé à cause de la forte pluie.",
+                  "english": null
+                },
+                {
+                  "korean": "서둘러서 나오는 바람에 지갑을 집에 놓고 나왔다.",
+                  "romanization": null,
+                  "french": "J'ai laissé mon portefeuille à la maison parce que je suis sorti en hâte.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 우진 씨, 왜 연락을 안 받았어요? 무슨 일이 있었어요?\n나: 휴대 전화를 떨어뜨리는 바람에 액정이 깨져서 연락이 온 것을 확인할 수 없었어요.",
+                  "romanization": null,
+                  "french": "A: Woojin, pourquoi n'avez-vous pas répondu à mes appels ? Que s'est-il passé ?\nB: J'ai fait tomber mon téléphone portable, l'écran s'est cassé, donc je n'ai pas pu voir les appels entrants.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 왜 이렇게 늦은 시간에 점심을 드세요?\n나: 회의가 늦게 끝나는 바람에 점심 식사를 아직 못 했어요.",
+                  "romanization": null,
+                  "french": "A: Pourquoi déjeunez-vous si tard ?\nB: Le déjeuner n'a pas encore été pris parce que la réunion s'est terminée tard.",
+                  "english": null
+                }
+              ],
+              "notes": null
+            },
+            {
+              "order": 2,
+              "title_ko": "-어서야/아서야/여서야",
+              "title_translit": null,
+              "summary_fr": "Indique qu'il est difficile d'attendre un certain résultat ou une action si les conditions précédentes sont maintenues. Souvent suivi de '-을 수 없다' ou '-겠어요?'.",
+              "explanation_fr": "S'attache à un verbe ou un adjectif pour indiquer qu'il est difficile d'attendre une action ou un résultat ultérieur si les conditions précédentes sont maintenues. La phrase suivante est souvent de la forme '-을 수 없다' (ne peut pas) ou '-겠어요?' (comment pourrait-on ?), exprimant l'impossibilité.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "저렇게 놀아서야 어디 원하는 학교에 갈 수 있겠어요?",
+                  "romanization": null,
+                  "french": "Si tu continues à t'amuser comme ça, comment pourrais-tu aller à l'école que tu veux ?",
+                  "english": null
+                },
+                {
+                  "korean": "이렇게 길이 막혀서야 어디 회의 시간 전까지 도착하겠어요?",
+                  "romanization": null,
+                  "french": "Avec un tel embouteillage, comment pourrais-je arriver avant l'heure de la réunion ?",
+                  "english": null
+                },
+                {
+                  "korean": "그렇게 게을러서야 사회생활을 제대로 할 수 있겠어?",
+                  "romanization": null,
+                  "french": "Si tu es si paresseux, comment pourrais-tu réussir dans la vie sociale ?",
+                  "english": null
+                },
+                {
+                  "korean": "이렇게 준비가 부족해서야 이번 행사를 잘 마칠 수 있겠어?",
+                  "romanization": null,
+                  "french": "Avec si peu de préparation, comment pourrions-nous bien terminer cet événement ?",
+                  "english": null
+                },
+                {
+                  "korean": "가: 오늘 등산을 가기로 했는데 눈이 너무 많이 와요.\n나: 그러게요, 이렇게 눈이 많이 와서야 산에 올라갈 수 있겠어요? 등산은 다음에 가세요.",
+                  "romanization": null,
+                  "french": "A: Nous avions prévu de faire de la randonnée aujourd'hui, mais il neige trop.\nB: En effet, avec autant de neige, comment pourrions-nous monter en montagne ? Allez faire de la randonnée une autre fois.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 새로 생긴 식당에 가 봤는데 맛은 있는데 직원들이 너무 불친절해요.\n나: 그래요? 그렇게 불친절해서야 어디 손님들이 또 가고 싶어 하겠어요?",
+                  "romanization": null,
+                  "french": "A: Je suis allé au nouveau restaurant, la nourriture est bonne mais le personnel est très impoli.\nB: Ah oui ? Avec un tel manque de courtoisie, quels clients voudraient y retourner ?",
+                  "english": null
+                }
+              ],
+              "notes": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 9,
+      "title_ko": "정보화 시대",
+      "title_fr": "L'ère de l'information",
+      "sections": [
+        {
+          "order": 1,
+          "title_ko": "가짜 뉴스",
+          "title_fr": "Fausses nouvelles",
+          "dialogue_ko": null,
+          "dialogue_fr": null,
+          "dialogue_vocabulary": [],
+          "vocabulary_expansion": [],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "에 비해서",
+              "title_translit": null,
+              "summary_fr": "Exprime une comparaison ou une évaluation en se basant sur un nom.",
+              "explanation_fr": "Ce point de grammaire s'attache à un nom pour indiquer qu'une comparaison ou une évaluation est faite en prenant ce nom comme référence.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "이 신발은 값에 비해서 질이 좋지 않다.",
+                  "romanization": null,
+                  "french": "Ces chaussures ne sont pas de bonne qualité par rapport à leur prix.",
+                  "english": null
+                },
+                {
+                  "korean": "우리 아이는 나이에 비해서 생각이 깊다.",
+                  "romanization": null,
+                  "french": "Notre enfant est plus réfléchi pour son âge.",
+                  "english": null
+                },
+                {
+                  "korean": "민지가 자기 몸에 비해서 너무 큰 코트를 입었다.",
+                  "romanization": null,
+                  "french": "Minji portait un manteau trop grand par rapport à sa taille.",
+                  "english": null
+                },
+                {
+                  "korean": "지난번 축제에 비해서 이번 축제는 재미있었다.",
+                  "romanization": null,
+                  "french": "Ce festival était plus amusant que le précédent.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 이번에 새로 옮긴 회사는 어때요? 좋아요?\n나: 지난번에 다니던 회사에 비해서 분위기도 좋고 일도 재미있어요.",
+                  "romanization": null,
+                  "french": "A: Comment est la nouvelle entreprise où vous avez déménagé? C'est bien?\nB: Par rapport à l'entreprise où je travaillais avant, l'ambiance est meilleure et le travail est intéressant.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 영수 씨가 그동안 열심히 공부했는데 성적이 좋지 않네요.\n나: 그러게요. 노력한 것에 비해서 결과가 잘 안 나왔어요.",
+                  "romanization": null,
+                  "french": "A: Youngsu a étudié dur, mais ses résultats ne sont pas bons.\nB: En effet. Les résultats ne sont pas à la hauteur de ses efforts.",
+                  "english": null
+                }
+              ],
+              "notes": null
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title_ko": "이웃 간의 문제",
+          "title_fr": "Problèmes entre voisins",
+          "dialogue_ko": null,
+          "dialogue_fr": null,
+          "dialogue_vocabulary": [],
+          "vocabulary_expansion": [],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-는 바람에",
+              "title_translit": null,
+              "summary_fr": "Indique qu'une action précédente est la cause ou la raison d'une situation ultérieure, souvent avec une connotation négative ou un résultat inattendu.",
+              "explanation_fr": "Ce point de grammaire s'attache à un verbe pour indiquer qu'une action précédente est la cause ou la raison d'une situation ultérieure. Il est généralement utilisé lorsque la situation précédente a un impact négatif sur l'action suivante ou entraîne des résultats différents de l'intention de la personne qui parle.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "환율이 떨어지는 바람에 손해를 봤다.",
+                  "romanization": null,
+                  "french": "J'ai subi des pertes à cause de la chute du taux de change.",
+                  "english": null
+                },
+                {
+                  "korean": "버스를 잘못 타는 바람에 학교에 늦었다.",
+                  "romanization": null,
+                  "french": "J'étais en retard à l'école parce que j'ai pris le mauvais bus.",
+                  "english": null
+                },
+                {
+                  "korean": "비가 많이 오는 바람에 야구 경기가 취소됐다.",
+                  "romanization": null,
+                  "french": "Le match de baseball a été annulé à cause de la forte pluie.",
+                  "english": null
+                },
+                {
+                  "korean": "서둘러서 나오는 바람에 지갑을 집에 놓고 나왔다.",
+                  "romanization": null,
+                  "french": "J'ai laissé mon portefeuille à la maison parce que je suis sorti(e) en hâte.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 우진 씨, 왜 연락을 안 받았어요? 무슨 일이 있었어요?\n나: 휴대 전화를 떨어뜨리는 바람에 액정이 깨져서 연락이 온 것을 확인할 수 없었어요.",
+                  "romanization": null,
+                  "french": "A: Woojin, pourquoi n'avez-vous pas répondu? Il s'est passé quelque chose?\nB: J'ai fait tomber mon téléphone, l'écran s'est cassé, donc je n'ai pas pu voir les appels.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 왜 이렇게 늦은 시간에 점심을 드세요?\n나: 회의가 늦게 끝나는 바람에 점심 식사를 아직 못 했어요.",
+                  "romanization": null,
+                  "french": "A: Pourquoi déjeunez-vous si tard?\nB: Je n'ai pas encore déjeuné parce que la réunion s'est terminée tard.",
+                  "english": null
+                }
+              ],
+              "notes": null
+            },
+            {
+              "order": 2,
+              "title_ko": "-어서야/아서야/여서야",
+              "title_translit": null,
+              "summary_fr": "Indique qu'une action ou un résultat ne peut être attendu que si une condition spécifique est remplie, ou exprime l'impossibilité d'un résultat dans une situation donnée.",
+              "explanation_fr": "Ce point de grammaire s'attache à un verbe ou un adjectif pour indiquer que, dans la situation ou la condition précédente, il est impossible d'attendre l'action ou le résultat suivant. La phrase suivante contient souvent l'expression '-을 수 없다' (ne pas pouvoir) ou '-겠어요?' (comment serait-il possible?).",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "저렇게 놀아서야 어디 원하는 학교에 갈 수 있겠어요?",
+                  "romanization": null,
+                  "french": "Si tu t'amuses comme ça, comment pourrais-tu aller à l'école que tu veux?",
+                  "english": null
+                },
+                {
+                  "korean": "이렇게 길이 막혀서야 어디 회의 시간 전까지 도착하겠어요?",
+                  "romanization": null,
+                  "french": "Avec un tel embouteillage, comment pourrions-nous arriver avant l'heure de la réunion?",
+                  "english": null
+                },
+                {
+                  "korean": "그렇게 게을러서야 사회생활을 제대로 할 수 있겠어?",
+                  "romanization": null,
+                  "french": "Si tu es si paresseux, comment pourrais-tu réussir dans la vie sociale?",
+                  "english": null
+                },
+                {
+                  "korean": "이렇게 준비가 부족해서야 이번 행사를 잘 마칠 수 있겠어?",
+                  "romanization": null,
+                  "french": "Avec une préparation aussi insuffisante, comment pourrions-nous bien terminer cet événement?",
+                  "english": null
+                },
+                {
+                  "korean": "가: 오늘 등산을 가기로 했는데 눈이 너무 많이 와요.\n나: 그러게요, 이렇게 눈이 많이 와서야 산에 올라갈 수 있겠어요? 등산은 다음에 가세요.",
+                  "romanization": null,
+                  "french": "A: Nous avions prévu de faire de la randonnée aujourd'hui, mais il neige trop.\nB: En effet, avec autant de neige, comment pourrions-nous monter en montagne? Allez faire de la randonnée une autre fois.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 새로 생긴 식당에 가 봤는데 맛은 있는데 직원들이 너무 불친절해요.\n나: 그래요? 그렇게 불친절해서야 어디 손님들이 또 가고 싶어 하겠어요?",
+                  "romanization": null,
+                  "french": "A: Je suis allé au nouveau restaurant, la nourriture est bonne mais le personnel est très impoli.\nB: Vraiment? Avec un tel manque de courtoisie, quels clients voudraient y retourner?",
+                  "english": null
+                }
+              ],
+              "notes": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 10,
+      "title_ko": "현대인의 모습",
+      "title_fr": "Les aspects de l'homme moderne",
+      "sections": [
+        {
+          "order": 1,
+          "title_ko": "현대인과 일",
+          "title_fr": "L'homme moderne et le travail",
+          "dialogue_ko": null,
+          "dialogue_fr": null,
+          "dialogue_vocabulary": [],
+          "vocabulary_expansion": [],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "만 아니면",
+              "title_translit": null,
+              "summary_fr": "Exprime que le contenu précédent est la seule raison pour laquelle le locuteur n'a pas pu faire quelque chose ou a agi différemment de son intention.",
+              "explanation_fr": "S'attache à un nom pour indiquer que le contenu précédent est la seule raison pour laquelle le locuteur a fait ou n'a pas pu faire quelque chose, contrairement à son intention.",
+              "explanation_en": null,
+              "form_notes": null,
+              "examples": [
+                {
+                  "korean": "친구의 부탁만 아니면 그 일을 안 했을 것이다.",
+                  "romanization": null,
+                  "french": "Si ce n'était pas la demande de mon ami, je n'aurais pas fait ce travail.",
+                  "english": null
+                },
+                {
+                  "korean": "그 과목만 아니면 이번에 졸업할 수 있었을 것이다.",
+                  "romanization": null,
+                  "french": "Si ce n'était pas cette matière, j'aurais pu obtenir mon diplôme cette fois-ci.",
+                  "english": null
+                },
+                {
+                  "korean": "중요한 회의만 아니면 휴가를 내고 여행을 갔을 텐데 회의 때문에 못 갔다.",
+                  "romanization": null,
+                  "french": "Si ce n'était pas une réunion importante, j'aurais pris des vacances et voyagé, mais je n'ai pas pu à cause de la réunion.",
+                  "english": null
+                },
+                {
+                  "korean": "부모님을 만나기로 한 약속만 아니면 친구들 모임에 갔을 텐데 아쉽다.",
+                  "romanization": null,
+                  "french": "Si ce n'était pas la promesse de rencontrer mes parents, j'aurais assisté à la réunion des amis, c'est dommage.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 이번 휴가는 해외로 간다고 했는데 잘 다녀왔어요?\n나: 아니요. 태풍만 아니면 갔을 텐데 태풍 때문에 출발도 못했어요.",
+                  "romanization": null,
+                  "french": "A: Vous avez dit que vous alliez à l'étranger pour ces vacances, vous avez passé un bon séjour?\nB: Non. Si ce n'était pas le typhon, j'y serais allé, mais je n'ai même pas pu partir à cause du typhon.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 민수 씨는 도시 생활을 즐기시나 봐요.\n나: 아니에요. 직장만 아니면 도시에서 안 살았을 거예요.",
+                  "romanization": null,
+                  "french": "A: Il semble que Minsu apprécie la vie en ville.\nB: Non. Si ce n'était pas pour le travail, je ne vivrais pas en ville.",
+                  "english": null
+                }
+              ],
+              "notes": null
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title_ko": "현대인의 소통 수단",
+          "title_fr": "Les moyens de communication de l'homme moderne",
+          "dialogue_ko": null,
+          "dialogue_fr": null,
+          "dialogue_vocabulary": [],
+          "vocabulary_expansion": [],
+          "grammar_points": [
+            {
+              "order": 1,
+              "title_ko": "-는/은/ㄴ 법이다",
+              "title_translit": null,
+              "summary_fr": "Exprime une loi naturelle, une évidence ou une nécessité.",
+              "explanation_fr": "S'attache à un verbe ou un adjectif pour exprimer une loi naturelle, une évidence ou une nécessité.",
+              "explanation_en": null,
+              "form_notes": "S'attache à la racine d'un verbe, '있다' ou '없다' avec '-는 법이다'. S'attache à la racine d'un adjectif se terminant par une consonne autre que 'ㄹ' avec '-은 법이다'. S'attache à la racine d'un adjectif se terminant par une voyelle ou 'ㄹ' avec '-ㄴ 법이다'.|Devant la racine|Forme de conjugaison|Exemple|---|---|---|Verbe, 있다, 없다|-는 법이다|자는 법이다, 보는 법이다, 있는 법이다|Adjectif (consonne)|-은 법이다|많은 법이다, 괜찮은 법이다, 싫은 법이다|Adjectif (voyelle, ㄹ)|-ㄴ 법이다|행복한 법이다, 아픈 법이다, 힘든 법이다",
+              "examples": [
+                {
+                  "korean": "겨울이 가면 봄이 오는 법이다.",
+                  "romanization": null,
+                  "french": "Quand l'hiver s'en va, le printemps arrive, c'est la loi naturelle.",
+                  "english": null
+                },
+                {
+                  "korean": "무슨 일이든지 서두르면 실수하기 쉬운 법이다.",
+                  "romanization": null,
+                  "french": "Dans n'importe quelle situation, si l'on se précipite, on a tendance à faire des erreurs.",
+                  "english": null
+                },
+                {
+                  "korean": "아무리 좋은 말도 여러 번 들으면 듣기 싫은 법이다.",
+                  "romanization": null,
+                  "french": "Même les bonnes paroles, si on les entend trop souvent, on finit par ne plus vouloir les écouter.",
+                  "english": null
+                },
+                {
+                  "korean": "모든 일에는 순서가 있는 법이다.",
+                  "romanization": null,
+                  "french": "Toute chose a son ordre.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 김 과장이 잘못을 했는데 이 대리가 회사를 그만뒀대요.\n나: 잘못한 사람이 책임을 져야 하는 법인데 왜 이 대리가 그만뒀대요?",
+                  "romanization": null,
+                  "french": "A: Le chef de section Kim a fait une erreur, mais c'est le chef d'équipe Lee qui a démissionné.\nB: C'est la personne qui a fait l'erreur qui doit en assumer la responsabilité, alors pourquoi le chef d'équipe Lee a-t-il démissionné?",
+                  "english": null
+                },
+                {
+                  "korean": "가: 지난주부터 요가를 배우기 시작했는데 생각보다 어려워요.\n나: 뭐든지 처음 배울 때는 어려운 법이에요. 배우다가 보면 익숙해질 거예요.",
+                  "romanization": null,
+                  "french": "A: J'ai commencé le yoga la semaine dernière, et c'est plus difficile que je ne le pensais.\nB: Tout est difficile quand on commence. En pratiquant, vous vous y habituerez.",
+                  "english": null
+                }
+              ],
+              "notes": null
+            },
+            {
+              "order": 2,
+              "title_ko": "-는다고/ㄴ다고/다고 할 수 있다",
+              "title_translit": null,
+              "summary_fr": "Indique que ce qui est dit n'est pas très différent de l'opinion générale et peut être affirmé sans problème.",
+              "explanation_fr": "S'attache à un verbe ou un adjectif pour indiquer que ce qui est dit n'est pas très différent de l'opinion générale et peut être affirmé sans problème.",
+              "explanation_en": null,
+              "form_notes": "S'attache à la racine d'un verbe se terminant par une consonne autre que 'ㄹ' avec '-는다고 할 수 있다'. S'attache à la racine d'un verbe se terminant par une voyelle ou 'ㄹ' avec '-ㄴ다고 할 수 있다'. S'attache à la racine d'un adjectif avec '-다고 할 수 있다'. Pour '명사+이다', si le nom se termine par une consonne, utilisez '이라고 할 수 있다', et si le nom se termine par une voyelle, utilisez '라고 할 수 있다'.|Devant la racine|Forme de conjugaison|Exemple|---|---|---|Verbe (consonne)|-는다고 할 수 있다|읽는다고 할 수 있다, 입는다고 할 수 있다, 믿는다고 할 수 있다|Verbe (voyelle, ㄹ)|-ㄴ다고 할 수 있다|간다고 할 수 있다, 좋아한다고 할 수 있다, 만든다고 할 수 있다|Adjectif|-다고 할 수 있다|많다고 할 수 있다, 중요하다고 할 수 있다, 멀다고 할 수 있다|Nom+이다 (consonne)|이라고 할 수 있다|학생이라고 할 수 있다, 휴일이라고 할 수 있다|Nom+이다 (voyelle)|라고 할 수 있다|부자라고 할 수 있다, 관광지라고 할 수 있다",
+              "examples": [
+                {
+                  "korean": "하루에 5시간 정도 자니까 다른 사람보다 적게 잔다고 할 수 있다.",
+                  "romanization": null,
+                  "french": "Comme je dors environ 5 heures par jour, on peut dire que je dors moins que les autres.",
+                  "english": null
+                },
+                {
+                  "korean": "홍대는 젊은이의 거리라고 할 수 있다.",
+                  "romanization": null,
+                  "french": "On peut dire que Hongdae est la rue des jeunes.",
+                  "english": null
+                },
+                {
+                  "korean": "명동은 서울에서 가장 유명한 관광지라고 할 수 있다.",
+                  "romanization": null,
+                  "french": "On peut dire que Myeongdong est le site touristique le plus célèbre de Séoul.",
+                  "english": null
+                },
+                {
+                  "korean": "피아노를 10년쯤 배웠으니까 오래 배웠다고 할 수 있다.",
+                  "romanization": null,
+                  "french": "Comme j'ai appris le piano pendant environ 10 ans, on peut dire que je l'ai appris longtemps.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 미나 씨, 키가 170cm니까 한국에서는 큰 편이지요?\n나: 네, 한국 여자 중에서는 크다고 할 수 있지요.",
+                  "romanization": null,
+                  "french": "A: Mina, comme vous mesurez 170 cm, on peut dire que vous êtes grande en Corée, n'est-ce pas?\nB: Oui, on peut dire que je suis grande parmi les femmes coréennes.",
+                  "english": null
+                },
+                {
+                  "korean": "가: 한국에 오신 지 얼마나 되셨어요?\n나: 20년 됐어요. 이제 한국은 저한테 고향과 같은 곳이라고 할 수 있어요.",
+                  "romanization": null,
+                  "french": "A: Depuis combien de temps êtes-vous en Corée?\nB: Cela fait 20 ans. Maintenant, on peut dire que la Corée est comme ma ville natale.",
+                  "english": null
+                }
+              ],
+              "notes": "Lorsque l'on parle d'un fait déjà accompli, on utilise '-었다고 할 수 있다'."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
