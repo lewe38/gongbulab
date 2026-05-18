@@ -22,6 +22,11 @@ class Settings(BaseSettings):
     gemini_model_validation: str = "gemini-2.5-flash"
     gemini_model_chatbot: str = "gemini-2.5-flash"
 
+    # ─── Stripe ─────────────────────────────────────
+    stripe_secret_key: str = ""
+    stripe_webhook_secret: str = ""
+    stripe_price_id_premium: str = ""
+
     # ─── Supabase ───────────────────────────────────
     next_public_supabase_url: str = "http://localhost:54321"
     next_public_supabase_anon_key: str = ""

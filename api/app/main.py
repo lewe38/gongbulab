@@ -7,8 +7,10 @@ Routers mountés :
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
+from app.billing.router import router as billing_router
 from app.chat.router import router as chat_router
 from app.config import get_settings
+from app.profiles.router import router as profiles_router
 from app.srs.router import router as srs_router
 
 settings = get_settings()
@@ -27,8 +29,10 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+app.include_router(profiles_router)
 app.include_router(srs_router)
 app.include_router(chat_router)
+app.include_router(billing_router)
 
 
 @app.get("/health")
