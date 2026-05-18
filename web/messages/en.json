@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "dashboard": "Home",
+    "lessons": "Lessons",
+    "srs": "Reviews",
+    "chat": "Chat",
+    "profile": "Profile",
+    "settings": "Settings"
+  },
+  "dashboard": {
+    "title": "Hi there 👋",
+    "subtitle": "Here's your day at a glance.",
+    "todayCards": "Cards today",
+    "streak": "Streak",
+    "currentLevel": "Current level",
+    "lessonsDone": "Lessons done",
+    "continueLearning": "Continue",
+    "todayNothing": "Nothing to review today — have a good one!",
+    "todayCardsDue": "{count, plural, =0 {Nothing to review} =1 {# card to review} other {# cards to review}}"
+  },
+  "lessons": {
+    "title": "Lessons",
+    "subtitle": "All grammar lessons, organized by level and chapter.",
+    "level": "Level {level}",
+    "chapter": "Chapter {n}",
+    "section": "Section {n}",
+    "grammarPoints": "{count, plural, =1 {# grammar point} other {# grammar points}}",
+    "examples": "{count, plural, =1 {# example} other {# examples}}"
+  },
+  "common": {
+    "appName": "gongbulab",
+    "tagline": "Learn Korean, your way.",
+    "loading": "Loading…",
+    "error": "Something went wrong",
+    "retry": "Retry",
+    "search": "Search",
+    "lightMode": "Light mode",
+    "darkMode": "Dark mode",
+    "toggleTheme": "Toggle theme"
+  }
+}

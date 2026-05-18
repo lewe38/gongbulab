@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "dashboard": "Accueil",
+    "lessons": "Leçons",
+    "srs": "Révisions",
+    "chat": "Chat",
+    "profile": "Profil",
+    "settings": "Réglages"
+  },
+  "dashboard": {
+    "title": "Bonjour 👋",
+    "subtitle": "Voici ton point du jour.",
+    "todayCards": "Cartes aujourd'hui",
+    "streak": "Série",
+    "currentLevel": "Niveau actuel",
+    "lessonsDone": "Leçons terminées",
+    "continueLearning": "Continuer",
+    "todayNothing": "Rien à réviser aujourd'hui — bonne journée !",
+    "todayCardsDue": "{count, plural, =0 {Rien à réviser} =1 {# carte à réviser} other {# cartes à réviser}}"
+  },
+  "lessons": {
+    "title": "Leçons",
+    "subtitle": "Toutes les leçons de grammaire, organisées par niveau et chapitre.",
+    "level": "Niveau {level}",
+    "chapter": "Chapitre {n}",
+    "section": "Section {n}",
+    "grammarPoints": "{count, plural, =1 {# point de grammaire} other {# points de grammaire}}",
+    "examples": "{count, plural, =1 {# exemple} other {# exemples}}"
+  },
+  "common": {
+    "appName": "gongbulab",
+    "tagline": "Réviser le coréen, autrement.",
+    "loading": "Chargement…",
+    "error": "Une erreur est survenue",
+    "retry": "Réessayer",
+    "search": "Rechercher",
+    "lightMode": "Mode clair",
+    "darkMode": "Mode sombre",
+    "toggleTheme": "Changer de thème"
+  }
+}
