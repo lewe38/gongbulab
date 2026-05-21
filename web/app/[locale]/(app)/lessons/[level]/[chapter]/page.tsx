@@ -23,6 +23,8 @@ export default async function ChapterPage({ params }: Props) {
   if (!detail || detail.sections.length === 0) notFound();
 
   const firstIntent = detail.sections[0].intent;
+  const chapterTitleKo = detail.chapter_title_ko ?? detail.sections[0].title_ko;
+  const chapterTitleTr = detail.chapter_title_translated ?? detail.sections[0].title_translated;
 
   return (
     <article className="mx-auto max-w-3xl px-5 md:px-8 py-6 md:py-10 space-y-10">
@@ -39,10 +41,11 @@ export default async function ChapterPage({ params }: Props) {
             {t("dashboard.level", { n: level })} · {chapter}과
           </span>
         </div>
-        <h1 className="text-3xl md:text-4xl font-extrabold tracking-tight">
-          {detail.sections[0].title_ko}
-        </h1>
-        {firstIntent && <p className="text-text-muted text-lg">{firstIntent}</p>}
+        <h1 className="text-3xl md:text-4xl font-extrabold tracking-tight">{chapterTitleKo}</h1>
+        {chapterTitleTr && chapterTitleTr !== chapterTitleKo && (
+          <p className="text-text-muted text-lg">{chapterTitleTr}</p>
+        )}
+        {firstIntent && <p className="text-text-muted italic">{firstIntent}</p>}
       </header>
 
       {detail.sections.map((sec, i) => (
