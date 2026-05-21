@@ -5,13 +5,14 @@ import { useParams } from "next/navigation";
 import { useTranslations } from "next-intl";
 
 import { ThemeToggle } from "@/components/ui/ThemeToggle";
+import { UserMenu } from "./UserMenu";
 
 /**
  * Topbar minimale.
- * - Mobile (<md) : logo à gauche, theme toggle à droite (la nav vit en bottom)
- * - Desktop (md+) : juste theme toggle à droite (la nav vit dans la sidebar)
+ * - Mobile (<md) : logo à gauche, theme toggle + user menu à droite
+ * - Desktop (md+) : logo masqué (sidebar a déjà le logo), toggle + menu à droite
  */
-export function Topbar() {
+export function Topbar({ userEmail }: { userEmail: string | null }) {
   const tCommon = useTranslations("common");
   const params = useParams<{ locale: string }>();
   const locale = params.locale;
@@ -27,6 +28,7 @@ export function Topbar() {
 
       <div className="flex items-center gap-1">
         <ThemeToggle />
+        <UserMenu email={userEmail} />
       </div>
     </header>
   );
