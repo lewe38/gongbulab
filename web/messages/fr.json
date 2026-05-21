@@ -50,6 +50,31 @@
     "grammarPoints": "{count, plural, =1 {# point de grammaire} other {# points de grammaire}}",
     "examples": "{count, plural, =1 {# exemple} other {# exemples}}"
   },
+  "auth": {
+    "submitting": "Envoi…",
+    "fields": {
+      "displayName": "Nom (facultatif)",
+      "email": "Email",
+      "password": "Mot de passe",
+      "passwordHint": "8 caractères minimum."
+    },
+    "login": {
+      "title": "Content de te revoir.",
+      "subtitle": "Reprends où tu en étais.",
+      "cta": "Se connecter",
+      "noAccount": "Pas encore de compte ?",
+      "signup": "Créer un compte"
+    },
+    "signup": {
+      "title": "Bienvenue.",
+      "subtitle": "On t'accompagne du niveau 1 au niveau 4.",
+      "cta": "Créer mon compte",
+      "haveAccount": "Déjà un compte ?",
+      "login": "Se connecter",
+      "successTitle": "Compte créé ✓",
+      "successBody": "Tu peux maintenant te connecter."
+    }
+  },
   "common": {
     "appName": "gongbulab",
     "tagline": "Réviser le coréen, autrement.",

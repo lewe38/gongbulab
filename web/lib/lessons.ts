@@ -46,6 +46,10 @@ export async function getChaptersByLevel(locale: Locale = "fr"): Promise<Chapter
 
   if (error) throw error;
 
+  // Strip le préfixe "<N>" / "<N> " que l'extraction met devant chaque title
+  // (vient du marqueur de section dans le PDF source).
+  const cleanTitle = (t: string) => t.replace(/^<\d+>\s*/, "").trim();
+
   // Groupe par (level, unit_number)
   const byKey = new Map<string, Chapter>();
   for (const row of data ?? []) {
@@ -56,13 +60,12 @@ export async function getChaptersByLevel(locale: Locale = "fr"): Promise<Chapter
     if (existing) {
       existing.sections_count += 1;
       existing.grammar_count += grammarN;
-      // L'intent reste celui de la première section (section 1) si déjà set
     } else {
       byKey.set(key, {
         level: row.level,
         chapter_number: row.unit_number,
-        title_ko: row.title_ko,
-        title_translated: tr?.title ?? row.title_ko,
+        title_ko: cleanTitle(row.title_ko),
+        title_translated: cleanTitle(tr?.title ?? row.title_ko),
         intent: tr?.intent ?? null,
         sections_count: 1,
         grammar_count: grammarN,

@@ -50,6 +50,31 @@
     "grammarPoints": "{count, plural, =1 {# grammar point} other {# grammar points}}",
     "examples": "{count, plural, =1 {# example} other {# examples}}"
   },
+  "auth": {
+    "submitting": "Submitting…",
+    "fields": {
+      "displayName": "Name (optional)",
+      "email": "Email",
+      "password": "Password",
+      "passwordHint": "8 characters minimum."
+    },
+    "login": {
+      "title": "Welcome back.",
+      "subtitle": "Pick up where you left off.",
+      "cta": "Sign in",
+      "noAccount": "No account yet?",
+      "signup": "Create one"
+    },
+    "signup": {
+      "title": "Welcome aboard.",
+      "subtitle": "We'll guide you from level 1 to level 4.",
+      "cta": "Create my account",
+      "haveAccount": "Already have an account?",
+      "login": "Sign in",
+      "successTitle": "Account created ✓",
+      "successBody": "You can sign in now."
+    }
+  },
   "common": {
     "appName": "gongbulab",
     "tagline": "Learn Korean, your way.",

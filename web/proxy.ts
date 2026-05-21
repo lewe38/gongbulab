@@ -8,20 +8,15 @@ const intlMiddleware = createIntlMiddleware(routing);
 
 // Routes publiques (pas besoin d'être connecté).
 // Le préfixe locale (/fr ou /en) est strippé avant le match.
-// TODO : retirer "/dashboard" et "/lessons" et "/vocab" etc. dès que les pages /login + /signup existent.
-//        Pour l'instant on garde tout en public pour pouvoir développer sans flow d'auth complet.
+// /lessons est public exprès → exploration du programme avant signup (SEO + value preview).
+// /dashboard, /vocab, /chatbot, /profile sont auth-required → redirect vers /login.
 const PUBLIC_PATHS = [
   "/",
   "/login",
   "/signup",
   "/auth/callback",
   "/dev",
-  // ─── TEMPORAIRE (à retirer quand login UI prête) ───
-  "/dashboard",
   "/lessons",
-  "/vocab",
-  "/chatbot",
-  "/profile",
 ];
 
 function stripLocale(pathname: string): string {
