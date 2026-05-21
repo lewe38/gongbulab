@@ -2,9 +2,11 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 
+import { EnrollVocabButton } from "@/components/lessons/EnrollVocabButton";
 import { ChevronLeft } from "@/components/ui/icons";
 import { getChapterDetail } from "@/lib/lesson-detail";
 import type { Locale } from "@/lib/lessons";
+import { createSupabaseServerClient } from "@/lib/supabase/server";
 
 type Props = {
   params: Promise<{ locale: string; level: string; chapter: string }>;
@@ -21,6 +23,13 @@ export default async function ChapterPage({ params }: Props) {
 
   const detail = await getChapterDetail(level, chapter, locale as Locale);
   if (!detail || detail.sections.length === 0) notFound();
+
+  const supabase = await createSupabaseServerClient();
+  const {
+    data: { user },
+  } = await supabase.auth.getUser();
+  const isAuth = !!user;
+  const loginHref = `/${locale}/login?next=${encodeURIComponent(`/${locale}/lessons/${level}/${chapter}`)}`;
 
   const firstIntent = detail.sections[0].intent;
   const chapterTitleKo = detail.chapter_title_ko ?? detail.sections[0].title_ko;
@@ -75,10 +84,18 @@ export default async function ChapterPage({ params }: Props) {
           )}
 
           {sec.vocab.length > 0 && (
-            <div className="rounded-2xl border border-border bg-surface p-5">
-              <p className="text-xs font-semibold uppercase tracking-wider text-text-muted mb-3">
-                Vocabulaire
-              </p>
+            <div className="rounded-2xl border border-border bg-surface p-5 space-y-4">
+              <div className="flex items-center justify-between gap-3 flex-wrap">
+                <p className="text-xs font-semibold uppercase tracking-wider text-text-muted">
+                  Vocabulaire
+                </p>
+                <EnrollVocabButton
+                  lessonId={sec.id}
+                  vocabCount={sec.vocab.length}
+                  isAuthenticated={isAuth}
+                  loginHref={loginHref}
+                />
+              </div>
               <ul className="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-1.5">
                 {sec.vocab.map((w) => (
                   <li
