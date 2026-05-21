@@ -124,6 +124,7 @@ export type Database = {
           id: number
           korean: string
           order_in_point: number
+          rewritten_at: string | null
           romanization: string | null
         }
         Insert: {
@@ -131,6 +132,7 @@ export type Database = {
           id?: number
           korean: string
           order_in_point: number
+          rewritten_at?: string | null
           romanization?: string | null
         }
         Update: {
@@ -138,6 +140,7 @@ export type Database = {
           id?: number
           korean?: string
           order_in_point?: number
+          rewritten_at?: string | null
           romanization?: string | null
         }
         Relationships: [
@@ -223,18 +226,21 @@ export type Database = {
       lesson_translations: {
         Row: {
           dialogue: string | null
+          intent: string | null
           lesson_id: number
           locale: string
           title: string
         }
         Insert: {
           dialogue?: string | null
+          intent?: string | null
           lesson_id: number
           locale: string
           title: string
         }
         Update: {
           dialogue?: string | null
+          intent?: string | null
           lesson_id?: number
           locale?: string
           title?: string
