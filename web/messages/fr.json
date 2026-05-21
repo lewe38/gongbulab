@@ -43,7 +43,7 @@
   },
   "lessons": {
     "title": "Leçons",
-    "subtitle": "Toutes les leçons de grammaire, organisées par niveau et chapitre.",
+    "subtitle": "Le programme complet, organisé en 4 niveaux. Chaque chapitre regroupe quelques sections de grammaire et le vocabulaire associé.",
     "level": "Niveau {level}",
     "chapter": "Chapitre {n}",
     "section": "Section {n}",

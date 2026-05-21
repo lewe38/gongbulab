@@ -1,68 +1,48 @@
-# Stack de production pour le VPS Hetzner.
+# Stack production gongbulab — web + api.
 #
-# IMPORTANT : Supabase tourne dans son propre docker-compose (cf. deploy/README.md
-# section "Supabase self-host"). Ce compose-ci contient nos 3 services :
-# caddy (reverse proxy + HTTPS auto), web (Next.js), api (FastAPI).
+# Ce compose NE contient PAS de reverse proxy : sur ce VPS, le `stream_nginx`
+# existant fait déjà le HTTPS pour les autres services et nous routera nos
+# subdomains via /opt/streaming/nginx/conf.d/gongbulab.conf.
 #
-# Ils communiquent avec Supabase via les URL publiques (auth.gongbu.tld, api-db.gongbu.tld, …).
-# Cette séparation rend les upgrades de Supabase indépendants de nos déploiements.
+# Supabase self-host est dans un compose séparé (deploy/setup-supabase-on-vps.sh
+# clone le repo officiel dans ~/gongbulab-supabase).
+#
+# Ports exposés en localhost uniquement → stream_nginx les atteint via 172.18.0.1
+# (l'IP du host vue depuis le bridge Docker default).
 
 name: gongbulab
 
 services:
-  caddy:
-    image: caddy:2-alpine
-    restart: unless-stopped
-    ports:
-      - "80:80"
-      - "443:443"
-      - "443:443/udp"
-    volumes:
-      - ./Caddyfile:/etc/caddy/Caddyfile:ro
-      - caddy_data:/data
-      - caddy_config:/config
-    depends_on:
-      - web
-      - api
-    networks:
-      - edge
-
   web:
     build:
       context: ..
       dockerfile: deploy/web.Dockerfile
     restart: unless-stopped
+    ports:
+      - "127.0.0.1:13300:3000"
     environment:
       NODE_ENV: production
       NEXT_PUBLIC_SUPABASE_URL: ${NEXT_PUBLIC_SUPABASE_URL}
       NEXT_PUBLIC_SUPABASE_ANON_KEY: ${NEXT_PUBLIC_SUPABASE_ANON_KEY}
       NEXT_PUBLIC_API_URL: ${NEXT_PUBLIC_API_URL}
-    networks:
-      - edge
 
   api:
     build:
       context: ..
       dockerfile: deploy/api.Dockerfile
     restart: unless-stopped
+    ports:
+      - "127.0.0.1:13301:8000"
     environment:
       GEMINI_API_KEY: ${GEMINI_API_KEY}
-      GEMINI_MODEL_EXTRACTION: ${GEMINI_MODEL_EXTRACTION:-gemini-3.1-pro}
-      GEMINI_MODEL_VALIDATION: ${GEMINI_MODEL_VALIDATION:-gemini-2.5-flash}
+      GEMINI_MODEL_EXTRACTION: ${GEMINI_MODEL_EXTRACTION:-gemini-3.1-pro-preview}
+      GEMINI_MODEL_VALIDATION: ${GEMINI_MODEL_VALIDATION:-gemini-2.5-flash-lite}
       GEMINI_MODEL_CHATBOT: ${GEMINI_MODEL_CHATBOT:-gemini-2.5-flash}
       NEXT_PUBLIC_SUPABASE_URL: ${NEXT_PUBLIC_SUPABASE_URL}
       SUPABASE_SERVICE_ROLE_KEY: ${SUPABASE_SERVICE_ROLE_KEY}
       SUPABASE_JWT_SECRET: ${SUPABASE_JWT_SECRET}
+      SUPABASE_DB_URL: ${SUPABASE_DB_URL}
       STRIPE_SECRET_KEY: ${STRIPE_SECRET_KEY}
       STRIPE_WEBHOOK_SECRET: ${STRIPE_WEBHOOK_SECRET}
+      STRIPE_PRICE_ID_PREMIUM: ${STRIPE_PRICE_ID_PREMIUM}
       CORS_ORIGINS: ${CORS_ORIGINS}
-    networks:
-      - edge
-
-volumes:
-  caddy_data:
-  caddy_config:
-
-networks:
-  edge:
-    driver: bridge

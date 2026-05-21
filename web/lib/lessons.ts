@@ -17,7 +17,9 @@ export type Chapter = {
   chapter_number: number; // = unit_number en DB
   title_ko: string;
   title_translated: string;
+  intent: string | null;
   sections_count: number;
+  grammar_count: number;
 };
 
 export type ChaptersByLevel = Record<number, Chapter[]>;
@@ -28,11 +30,13 @@ export async function getChaptersByLevel(locale: Locale = "fr"): Promise<Chapter
     .from("lessons")
     .select(
       `
+      id,
       level,
       unit_number,
       section_number,
       title_ko,
-      lesson_translations!inner ( locale, title )
+      lesson_translations!inner ( locale, title, intent ),
+      grammar_points ( id )
     `,
     )
     .eq("lesson_translations.locale", locale)
@@ -42,21 +46,26 @@ export async function getChaptersByLevel(locale: Locale = "fr"): Promise<Chapter
 
   if (error) throw error;
 
-  // Groupe par (level, unit_number) → premier titre rencontré (section 1 typiquement)
+  // Groupe par (level, unit_number)
   const byKey = new Map<string, Chapter>();
   for (const row of data ?? []) {
     const key = `${row.level}-${row.unit_number}`;
+    const tr = row.lesson_translations[0];
+    const grammarN = row.grammar_points?.length ?? 0;
     const existing = byKey.get(key);
     if (existing) {
       existing.sections_count += 1;
+      existing.grammar_count += grammarN;
+      // L'intent reste celui de la première section (section 1) si déjà set
     } else {
-      const titleTranslated = row.lesson_translations[0]?.title ?? row.title_ko;
       byKey.set(key, {
         level: row.level,
         chapter_number: row.unit_number,
         title_ko: row.title_ko,
-        title_translated: titleTranslated,
+        title_translated: tr?.title ?? row.title_ko,
+        intent: tr?.intent ?? null,
         sections_count: 1,
+        grammar_count: grammarN,
       });
     }
   }
