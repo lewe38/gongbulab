@@ -57,11 +57,11 @@ export async function getChapterDetail(
 ): Promise<ChapterDetail | null> {
   const supabase = await createSupabaseServerClient();
 
-  // 1. Sections du chapitre + leurs traductions
+  // 1. Sections du chapitre + leurs traductions (KO + FR, le dialogue_ko vit en lesson_translations.dialogue locale='ko')
   const { data: sections, error: secErr } = await supabase
     .from("lessons")
     .select(
-      `id, section_number, title_ko, dialogue_ko,
+      `id, section_number, title_ko,
        lesson_translations ( locale, title, dialogue, intent )`,
     )
     .eq("level", level)
@@ -144,13 +144,14 @@ export async function getChapterDetail(
 
   const sectionsOut: SectionDetail[] = sections.map((s) => {
     const tr = s.lesson_translations.find((t) => t.locale === locale);
+    const trKo = s.lesson_translations.find((t) => t.locale === "ko");
     return {
       id: s.id,
       section_number: s.section_number,
       title_ko: stripMarker(s.title_ko),
       title_translated: tr?.title ? stripMarker(tr.title) : null,
       intent: tr?.intent ?? null,
-      dialogue_ko: s.dialogue_ko,
+      dialogue_ko: trKo?.dialogue ?? null,
       dialogue_translated: tr?.dialogue ?? null,
       grammar_points: gpsBySection.get(s.id) ?? [],
       vocab: vocabBySection.get(s.id) ?? [],
