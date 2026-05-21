@@ -5,7 +5,7 @@ WORKDIR /app
 RUN corepack enable pnpm
 COPY web/package.json web/pnpm-lock.yaml* web/pnpm-workspace.yaml ./web/
 COPY tokens/package.json ./tokens/
-RUN cd web && pnpm install --frozen-lockfile
+RUN cd web && pnpm install --frozen-lockfile --config.confirmModulesPurge=false --ignore-scripts
 
 FROM node:24-alpine AS builder
 WORKDIR /app
