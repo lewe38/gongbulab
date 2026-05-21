@@ -112,6 +112,14 @@ if [[ ! -f .env ]]; then
 fi
 docker compose -f deploy/docker-compose.yml up -d --build
 
+# ─── 8. Attache nos containers au network streaming_stream_net ──────
+# Compose ne le fait pas correctement même avec networks: external. À refaire
+# à chaque recreate. Idempotent : si déjà connecté, on ignore l'erreur.
+for c in gongbulab-web-1 gongbulab-api-1 gongbulab-supabase-kong-1; do
+  docker network connect streaming_stream_net "$c" 2>/dev/null || true
+done
+log "✓ containers attachés à streaming_stream_net"
+
 log "✓ Setup terminé. Vérifie :"
 log "    https://gongbulab.lewe.fr"
 log "    https://gongbulab-api.lewe.fr/health"
