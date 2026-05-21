@@ -33,6 +33,9 @@ services:
     restart: unless-stopped
     ports:
       - "127.0.0.1:13301:8000"
+    networks:
+      - default
+      - supabase  # pour parler à `db` directement par nom de service
     environment:
       GEMINI_API_KEY: ${GEMINI_API_KEY}
       GEMINI_MODEL_EXTRACTION: ${GEMINI_MODEL_EXTRACTION:-gemini-3.1-pro-preview}
@@ -46,3 +49,8 @@ services:
       STRIPE_WEBHOOK_SECRET: ${STRIPE_WEBHOOK_SECRET}
       STRIPE_PRICE_ID_PREMIUM: ${STRIPE_PRICE_ID_PREMIUM}
       CORS_ORIGINS: ${CORS_ORIGINS}
+
+networks:
+  supabase:
+    name: gongbulab-supabase_default
+    external: true

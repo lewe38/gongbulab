@@ -2,6 +2,8 @@
 .env
 .env.local
 .env.*.local
+deploy/supabase-vps.env
+deploy/gongbulab-vps.env
 *.pem
 *.key
 !**/example.key
