@@ -5,7 +5,8 @@
     "vocab": "Vocabulaire",
     "chatbot": "Chatbot",
     "profile": "Profil",
-    "settings": "Réglages"
+    "settings": "Réglages",
+    "signOut": "Se déconnecter"
   },
   "dashboard": {
     "heroKo": "오늘도 복습해요!",

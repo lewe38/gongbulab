@@ -5,7 +5,8 @@
     "vocab": "Vocabulary",
     "chatbot": "Chatbot",
     "profile": "Profile",
-    "settings": "Settings"
+    "settings": "Settings",
+    "signOut": "Sign out"
   },
   "dashboard": {
     "heroKo": "오늘도 복습해요!",
