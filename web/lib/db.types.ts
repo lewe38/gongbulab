@@ -225,6 +225,7 @@ export type Database = {
       }
       lesson_translations: {
         Row: {
+          chapter_title: string | null
           dialogue: string | null
           intent: string | null
           lesson_id: number
@@ -232,6 +233,7 @@ export type Database = {
           title: string
         }
         Insert: {
+          chapter_title?: string | null
           dialogue?: string | null
           intent?: string | null
           lesson_id: number
@@ -239,6 +241,7 @@ export type Database = {
           title: string
         }
         Update: {
+          chapter_title?: string | null
           dialogue?: string | null
           intent?: string | null
           lesson_id?: number
@@ -257,6 +260,7 @@ export type Database = {
       }
       lessons: {
         Row: {
+          chapter_title_ko: string | null
           created_at: string
           id: number
           level: number
@@ -266,6 +270,7 @@ export type Database = {
           unit_number: number
         }
         Insert: {
+          chapter_title_ko?: string | null
           created_at?: string
           id?: number
           level: number
@@ -275,6 +280,7 @@ export type Database = {
           unit_number: number
         }
         Update: {
+          chapter_title_ko?: string | null
           created_at?: string
           id?: number
           level?: number

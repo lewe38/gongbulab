@@ -10,6 +10,8 @@ const stripMarker = (t: string) => t.replace(/^<\d+>\s*/, "").trim();
 export type ChapterDetail = {
   level: number;
   chapter_number: number;
+  chapter_title_ko: string | null;
+  chapter_title_translated: string | null;
   sections: SectionDetail[];
 };
 
@@ -61,8 +63,8 @@ export async function getChapterDetail(
   const { data: sections, error: secErr } = await supabase
     .from("lessons")
     .select(
-      `id, section_number, title_ko,
-       lesson_translations ( locale, title, dialogue, intent )`,
+      `id, section_number, title_ko, chapter_title_ko,
+       lesson_translations ( locale, title, dialogue, intent, chapter_title )`,
     )
     .eq("level", level)
     .eq("unit_number", chapter)
@@ -158,5 +160,13 @@ export async function getChapterDetail(
     };
   });
 
-  return { level, chapter_number: chapter, sections: sectionsOut };
+  // Titre du chapitre (pris sur la première section — toutes ont la même valeur)
+  const firstTr = sections[0].lesson_translations.find((t) => t.locale === locale);
+  return {
+    level,
+    chapter_number: chapter,
+    chapter_title_ko: sections[0].chapter_title_ko ?? null,
+    chapter_title_translated: firstTr?.chapter_title ?? null,
+    sections: sectionsOut,
+  };
 }
